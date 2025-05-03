@@ -1,0 +1,11 @@
+# Whether to disable the initial accessibility onboarding screen
+disableAccessibilityOnboarding = true
+# Whether to disable the warning before joining a multiplayer server
+disableMultiplayerWarning = true
+# Whether to skip the ingame tutorial toasts
+skipTutorial = true
+# Whether to disable the recipe book in crafting GUIs
+disableRecipeBook = true
+# Whether to skip the experimental features warning when creating or joining a world
+skipExperimentalWarning = true
+
