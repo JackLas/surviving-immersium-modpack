@@ -40,7 +40,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 440152,
             "hashes": {
@@ -783,21 +783,6 @@
                 "sha512": "39aa2e120a10ee68e9b03e3d5bd6f2d5def2fa7fcd914f55f018a85381eb0bb52055abce53a64cb0b0fba10f24da12caef085733e715907598ce468bcf59df51"
             },
             "path": "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/AMMUyCdF/versions/KVqDEJL3/NoRealmsButton-2.0.0-forge.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 48785,
-            "hashes": {
-                "sha1": "336724f20e939f3c51434ab77e1f6a06bce73f2a",
-                "sha512": "790219a8e6a277b1955912358a5250e076c733695dc66c79ea9302d272b57a7a314023f4493d4a00f5c10c7e6479d422f3a9b47a4ad35d2a4790fbf8d21debaa"
-            },
-            "path": "mods/NoRealmsButton-2.0.0-forge.jar"
         },
         {
             "downloads": [
@@ -1570,7 +1555,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "required"
+                "server": "unsupported"
             },
             "fileSize": 269811,
             "hashes": {
