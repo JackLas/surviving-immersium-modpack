@@ -28,8 +28,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*AE2: A popular automation and storage mod*
 - **Applied Energistics 2 Wireless Terminals** (MIT): [Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | [Source](https://github.com/Mari023/AE2WirelessTerminalLibrary)
 <br>*Ae2wtlib is an addon for ae2 that adds wireless versions of several Terminals*
-- **Architectury API** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/architectury-api) | [Source](https://github.com/architectury/architectury)
-<br>*An intermediary api aimed to ease developing multiplatform mods.*
 - **BadOptimizations** (MIT): [Modrinth](https://modrinth.com/mod/badoptimizations) | [Source](https://github.com/ItsThosea/BadOpitmizations)
 <br>*Optimization mod that focuses on things other than rendering*
 - **Balm** ([LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions)): [Modrinth](https://modrinth.com/mod/balm) | [Source](https://github.com/TwelveIterationMods/Balm)
@@ -162,6 +160,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Places a gravestone with your inventory items inside when you die*
 - **Gravestone x Curios API Compat** (MIT): [Modrinth](https://modrinth.com/mod/gravestone-x-curios-api-compat) | [Source](https://github.com/Leclowndu93150/Corpse-Gravestone-Curios-Compat)
 <br>*This little mod allows you to directly equip your Curios items to the respective slots*
+- **GuideME** ([LicenseRef-Multiple-OSS-Licenses](https://github.com/AppliedEnergistics/GuideME/blob/main/LICENSE.MD)): [Modrinth](https://modrinth.com/mod/guideme) | [Source](https://github.com/AppliedEnergistics/GuideME/)
+<br>*A guidebook toolkit for mods and modpack makers alike with comfortable markdown formatting, and live 3d scenes!*
 - **Hide Experimental Warning** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/hide-experimental-warning) | [Source](https://github.com/Serilum/Hide-Experimental-Warning)
 <br>*❌ Hides the Experimental Settings Warning when trying to create or load a modded world.*
 - **ImmediatelyFast** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/immediatelyfast) | [Source](https://github.com/RaphiMC/ImmediatelyFast)
@@ -272,8 +272,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer.*
 - **No Chat Reports** (WTFPL): [Modrinth](https://modrinth.com/mod/no-chat-reports) | [Source](https://github.com/Aizistral-Studios/No-Chat-Reports)
 <br>*Makes chat unreportable (where possible)*
-- **No Realms Button** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/no-realms-button) | [Source](https://github.com/Tigercrl/NoRealmsButton)
-<br>*Removes the Minecraft Realms button from the main menu*
 - **Noisium** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/noisium) | [Source](https://github.com/Steveplays28/noisium)
 <br>*Optimises worldgen performance for a better gameplay experience.*
 - **Not Enough Recipe Book [NERB]** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/notenoughrecipebook) | [Source](https://github.com/SSKirillSS/nerb)

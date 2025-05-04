@@ -1461,33 +1461,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/XxWD5pD3/versions/ygKM5req/appliedenergistics2-forge-15.3.5.jar"
+                "https://cdn.modrinth.com/data/XxWD5pD3/versions/LbIVLEYC/appliedenergistics2-forge-15.4.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 9749673,
+            "fileSize": 5582320,
             "hashes": {
-                "sha1": "2ba6e7b96785feb3a03aa17f1d9087c9358eab52",
-                "sha512": "c47120f0a4936a1fef1c63d8734a42992388424fb5281b43830e2e37e9a51a2e97cb9ead20f126f0cc08a15ae7aa64d209d72674a641e3abadbb9694708e275e"
+                "sha1": "888f35faae496f3c633f66c6aa5dcc98b92d6bcb",
+                "sha512": "1f77da276502573e880c01f66f668125521f471e0aadc8ecb1c3c8963d1e0a51f0b29ba7b36bc8bd1f0807d851cce3baa95e92790f983f5c9c9f5c91a8388bd5"
             },
-            "path": "mods/appliedenergistics2-forge-15.3.5.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 580602,
-            "hashes": {
-                "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
-                "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7"
-            },
-            "path": "mods/architectury-9.2.14-forge.jar"
+            "path": "mods/appliedenergistics2-forge-15.4.1.jar"
         },
         {
             "downloads": [
@@ -2046,6 +2031,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/Ck4E7v7R/versions/UD2nQxJx/guideme-20.1.7.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 9401162,
+            "hashes": {
+                "sha1": "fc039093c479b3632b1ab60ea503e79b76b686f9",
+                "sha512": "8e12ede30db086a3d30236783848f53fb984d413727cdb364bac487be8818d5c4a3696d4446db5d1dd83be62f347ceac6bcd7af9ccb27e09a160ea03c15e9dbb"
+            },
+            "path": "mods/guideme-20.1.7.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/Rm4OOdHd/versions/hJuIowdr/hideexperimentalwarning-1.20.1-1.2.jar"
             ],
             "env": {
@@ -2331,18 +2331,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/B8jaH3P1/versions/9Q45nZes/mcw-roofs-2.3.1-mc1.20.1forge.jar"
+                "https://cdn.modrinth.com/data/B8jaH3P1/versions/31e80GhE/mcw-roofs-2.3.2-mc1.20.1forge.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1837373,
+            "fileSize": 1864023,
             "hashes": {
-                "sha1": "a5a79469d88b81037e270c49d467491f94587f92",
-                "sha512": "d591089cd07ab07c0963f8ebce5d0c8513261a0357ae2f84ee6563bf2d2c53c6ff8d7eeb37177a083030a6231fbbeebc4d87a018eec18743a1dcdd634eeb0c24"
+                "sha1": "2b02beb2bd177aa695dc6fc030fc3bb230ca96b1",
+                "sha512": "ff7d8be7efb2c427dba8898ed181804b93d2d7523227a190a4c100370f485e5e734c83930b6888652c9469bf01b89a3c7fd2cd00e37c5b6021ec9bd3aa6ea3e3"
             },
-            "path": "mods/mcw-roofs-2.3.1-mc1.20.1forge.jar"
+            "path": "mods/mcw-roofs-2.3.2-mc1.20.1forge.jar"
         },
         {
             "downloads": [
