@@ -4,7 +4,7 @@
 	// When enabled, will only show the real time when a clock is present in the inventory.
 	"mustHaveClockInInventoryForRealTime": true,
 	// Whether the clock in the GUI should be lowered when the player has potion effects to prevent overlap.
-	"lowerClockWhenPlayerHasEffects": true,
+	"lowerClockWhenPlayerHasEffects": false,
 	// Sets the format of the clock to the 24-hour format.
 	"_24hourformat": true,
 	// When enabled, shows the clock item icon instead of a clock with numbers.

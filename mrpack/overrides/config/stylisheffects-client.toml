@@ -13,7 +13,7 @@
 		tooltip_duration = true
 		#Maximum amount of status effects rendered in a single row.
 		#Range: 1 ~ 255
-		max_columns = 5
+		max_columns = 2
 		#Space between individual effect widgets on y-axis.
 		#Range: > 0
 		widget_space_y = 1
@@ -29,7 +29,7 @@
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
 		respect_hide_particles = false
 		#Exclude certain menus from showing active status effects. Useful when effect icons overlap with other screen elements.
-		menu_blacklist = ["curios:curios_container", "tconstruct:*", "mekanism:*"]
+		menu_blacklist = ["sophisticatedbackpacks:*", "sophisticatedstorage:*", "curios:curios_container", "tconstruct:*", "mekanism:*"]
 		#Maximum amount of status effects rendered in a single column.
 		#Range: 1 ~ 255
 		max_rows = 255
@@ -41,18 +41,18 @@
 		allow_fallback = true
 		#Screen side to render status effects on.
 		#Allowed Values: LEFT, RIGHT
-		screen_side = "LEFT"
+		screen_side = "RIGHT"
 		#Effect renderer to be used.
 		#This setting might not be respected when not enough screen space is available. To force this setting disable "allow_fallback".
 		#Allowed Values: NONE, GUI_SMALL, GUI_COMPACT, INVENTORY_COMPACT, INVENTORY_FULL_SIZE
-		renderer_type = "GUI_COMPACT"
+		renderer_type = "GUI_SMALL"
 
 	[renderers.gui_renderer]
 		#Prevent status effects with infinite duration from showing.
 		hide_infinite_effects = false
 		#Maximum amount of status effects rendered in a single row.
 		#Range: 1 ~ 255
-		max_columns = 5
+		max_columns = 2
 		#Space between individual effect widgets on y-axis.
 		#Range: > 0
 		widget_space_y = 1
@@ -66,7 +66,7 @@
 		#Range: 1.0 ~ 12.0
 		scale = 4.0
 		#Respect vanilla's "hideParticles" flag which prevents a status effect from showing when set via commands.
-		respect_hide_particles = true
+		respect_hide_particles = false
 		#Maximum amount of status effects rendered in a single column.
 		#Range: 1 ~ 255
 		max_rows = 255
@@ -74,7 +74,7 @@
 		allow_fallback = false
 		#Screen side to render status effects on.
 		#Allowed Values: LEFT, RIGHT
-		screen_side = "RIGHT"
+		screen_side = "LEFT"
 		#Offset on x-axis.
 		#Range: > 0
 		offset_x = 3
