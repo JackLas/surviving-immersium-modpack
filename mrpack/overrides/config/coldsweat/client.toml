@@ -1,7 +1,7 @@
 
 ["Visual Preferences"]
 	#Sets all temperatures to be displayed in Celsius
-	Celsius = false
+	Celsius = true
 	#Visually offsets the world temperature to better match the user's definition of "hot" and "cold"
 	#Range: > -2147483647
 	"Temperature Offset" = 0
@@ -12,7 +12,7 @@
 	#Displays a dripping water effect on-screen and/or with particles when the player is wet
 	#0: Off, 1: Particles, 2: On-Screen, 3: Both
 	#Range: 0 ~ 3
-	"Show Water Effect" = 3
+	"Show Water Effect" = 1
 	#The scale of the water droplets on-screen, in scaled "pixels"
 	"Water Droplet Scale" = [40, 48]
 
@@ -42,20 +42,20 @@
 	"High Contrast" = false
 	#The intensity of the shivering effect when the player is too cold
 	#Range: 0.0 ~ 2.0
-	"Shiver Intensity" = 1.0
+	"Shiver Intensity" = 0.75
 	#The amount of blur applied to the screen when the player is too hot
 	#Range: 0.0 ~ 1.0
-	"Heatstroke Blur Strength" = 1.0
+	"Heatstroke Blur Strength" = 0.5
 	#The amount of camera sway applied when the player is too hot
 	#Range: 0.0 ~ 2.0
-	"Heatstroke Sway Amount" = 1.0
+	"Heatstroke Sway Amount" = 0.5
 	#The speed of the camera sway applied when the player is too hot
 	#Range: 0.0 ~ 2.0
-	"Heatstroke Sway Speed" = 1.0
+	"Heatstroke Sway Speed" = 0.5
 
 [Misc]
 	#Show the config menu button in the Options menu
-	"Enable In-Game Config" = true
+	"Enable In-Game Config" = false
 	#The position (offset) of the config button on the screen
 	"Config Button Position" = [0, 0]
 	#Warns the player about a bug that clears armor insulation when in creative mode
@@ -66,4 +66,7 @@
 	"Hide Tooltips" = false
 	#Automatically expands all collapsible tooltips
 	"Expand Tooltips" = false
+	#Enables the animated soul spring lamp model
+	#Disable this if there are visual errors like missing textures
+	"Animated Soul Spring Lamp" = true
 

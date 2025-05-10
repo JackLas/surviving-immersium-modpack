@@ -12,7 +12,7 @@ _version = 3
 			[client.advanced.graphics.quality]
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 256
+				lodChunkRenderDistanceRadius = 48
 				#
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
@@ -144,7 +144,7 @@ _version = 3
 				beaconRenderHeight = 6000
 				#
 				# If true LOD clouds will be rendered.
-				enableCloudRendering = true
+				enableCloudRendering = false
 				#
 				# Can be disabled to use much slower but more compatible direct rendering. 
 				# Disabling this can be used to fix some crashes on Mac.
@@ -371,7 +371,7 @@ _version = 3
 		[client.advanced.autoUpdater]
 			#
 			# Automatically check for updates on game launch?
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			#
 			# Should Distant Horizons silently, automatically download and install new versions? 
 			# This setting is force disabled on dedicated servers for stability reasons.
@@ -670,7 +670,7 @@ _version = 3
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 12
+		numberOfThreads = 6
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -764,7 +764,7 @@ _version = 3
 	enableRealTimeUpdates = true
 	#
 	# Defines the distance the player will receive updates around.
-	realTimeUpdateDistanceRadiusInChunks = 256
+	realTimeUpdateDistanceRadiusInChunks = 48
 	#
 	# If true, clients will receive updated LODs when joining or loading new LODs.
 	synchronizeOnLoad = true

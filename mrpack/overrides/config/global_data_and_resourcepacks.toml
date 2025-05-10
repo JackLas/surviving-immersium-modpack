@@ -12,14 +12,14 @@ enable_system_global_packs = false
 #With the current config you can place a Datapack into '.minecraft/global_packs/required_data' to force enable a datapack.
 [resourcepacks]
 required = [
-    "resourcepacks/ModpackResources",
     "resourcepacks/Slightly-Improved-Font-1.1.5.zip",
-    "resourcepacks/Sparkles_1.21.x_v1.1.3.zip"
+    "resourcepacks/Sparkles_1.21.x_v1.1.3.zip",
+    "resourcepacks/twemoji.zip",
+    "resourcepacks/ModpackResources"
 ]
 
 [datapacks]
 required = [
-    "resourcepacks/Disable-SeasonHUD-Slot-1.1.1.zip"
 ]
 
 optional = [
