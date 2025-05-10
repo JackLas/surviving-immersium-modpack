@@ -6,18 +6,18 @@
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/fM515JnW/versions/Azcdw9vT/AmbientSounds_FORGE_v6.1.9_mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/fM515JnW/versions/xGUL054M/AmbientSounds_FORGE_v6.1.10_mc1.20.1.jar"
             ],
             "env": {
                 "client": "required",
-                "server": "unsupported"
+                "server": "required"
             },
-            "fileSize": 83885807,
+            "fileSize": 83885821,
             "hashes": {
-                "sha1": "934e8939b27625532cce257cd4fc57765eaa2de9",
-                "sha512": "7f50aca7fd415b8ccbab47d28b5f7fecc5bc83f7c6964d6b40222f02119f453e515e00659b11f3c4797e403d39e11796b467d7f06a0ec30c257a6a1948767eec"
+                "sha1": "e7ef689927dc79299548b4350783e40aa038c7f7",
+                "sha512": "c6aad2f1b4dc997794ee28c97e7f30a77a13043566266098f5f095cdde410aca0ce2ac6ca65dbfe34ca042a8735160a90391864d44b9158ba2bfa711c593623d"
             },
-            "path": "mods/AmbientSounds_FORGE_v6.1.9_mc1.20.1.jar"
+            "path": "mods/AmbientSounds_FORGE_v6.1.10_mc1.20.1.jar"
         },
         {
             "downloads": [
@@ -48,21 +48,6 @@
                 "sha512": "df830eefa6143399e5d6c0590f029c5794578c6ec30a7b6cc868dd237a7ad99ecc327e18820dac50296534c7a5688d9ca474e2eecaf6c1835bc235a260a75afe"
             },
             "path": "mods/BadOptimizations-2.2.2-1.20.1.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/8shC1gFX/versions/xo6HmgWj/BetterF3-7.0.2-Forge-1.20.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 468517,
-            "hashes": {
-                "sha1": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d",
-                "sha512": "e88ce04d601a5953de909edaabb49dad9eea2c3a9ccccb1247fd041554b30794d4d4c315be065c90b1017cbd798199e644fe8d905125f4c431ddb8eaf170dd15"
-            },
-            "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar"
         },
         {
             "downloads": [
@@ -126,18 +111,33 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/uXhSmPjd/versions/sgtbYSUn/ColdSweat-2.4-b02d.jar"
+                "https://cdn.modrinth.com/data/uXhSmPjd/versions/jZs0ZjVy/ColdSweat-2.4-b03a.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2300569,
+            "fileSize": 2347720,
             "hashes": {
-                "sha1": "692922a13cf1c5d16adf62887f7c2fdfc9772d89",
-                "sha512": "5e4ed20300c36b1142d74fee83e2e2ceffd45ecbbaf00e456a85bd76520a2a0012e3eb5c171966f56d68774b2d1a904477f501d858043889b01108c87b709129"
+                "sha1": "3f20720119dfe15ab82e9e8e3f8466dd6481dc51",
+                "sha512": "b0df4e842e90cfe5d0728d8ca111292da0d5cc0dec88f268759c12c24cf2b2575a0065454158ec5d2c4e0d762c0c2872153b0816c70d2fab21167de8811f54a8"
             },
-            "path": "mods/ColdSweat-2.4-b02d.jar"
+            "path": "mods/ColdSweat-2.4-b03a.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/oBwwvdls/versions/8eMhg5YL/CompassCoords-1.6.0-mc1.20.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "unsupported"
+            },
+            "fileSize": 10778,
+            "hashes": {
+                "sha1": "90672d86949e161520f41fd6f72267d8d2126788",
+                "sha512": "41f825660cef8e7d9c61d8311a90ecc9c91d8ec6ff573d23c00e789ba66d00f173cdae1a2f6b139e1d05d95c5891441d5cdf55bb9576fe57bf8cf14fe8a7157d"
+            },
+            "path": "mods/CompassCoords-1.6.0-mc1.20.jar"
         },
         {
             "downloads": [
@@ -711,18 +711,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/pl0jGXIx/versions/F04lnHEF/MysticalAgradditions-1.20.1-7.0.9.jar"
+                "https://cdn.modrinth.com/data/pl0jGXIx/versions/7jm2tULG/MysticalAgradditions-1.20.1-7.0.10.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 335005,
+            "fileSize": 335047,
             "hashes": {
-                "sha1": "7afcfa5577a4bc07ae009852fe4a2abba2f0dff2",
-                "sha512": "a5c2175ff070168542128cec25646985ce462f18bb33fb94c84280c535e560d11a621c93d4f70301a42064a8200f76f6fc50af9f7dc4df2d16ef88834f3c582a"
+                "sha1": "6c70aa5768bede559a131c73ba8a58af38af646d",
+                "sha512": "b1c67248346c09b66e1107f8b3c942d1b65cbf011491649240469a874b0b959e3bf05333407657c3e114e219017a4b7fe0928866729ea45698ca80ae8e71eaac"
             },
-            "path": "mods/MysticalAgradditions-1.20.1-7.0.9.jar"
+            "path": "mods/MysticalAgradditions-1.20.1-7.0.10.jar"
         },
         {
             "downloads": [
@@ -906,21 +906,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/YsFycamt/versions/fw5ouviG/ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 84339,
-            "hashes": {
-                "sha1": "fa3d92461bceb63439d33ab634e894d4b342599c",
-                "sha512": "a1e21b52a11611fbcbbe7e5fd1227e264f9285d1443945aa422c28e9a84caf400a8533e2b85f6c4bd26800e249c4958289ec796b4a3f6c41335adc39c933155f"
-            },
-            "path": "mods/ResourcePackOverrides-v8.0.3-1.20.1-Forge.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/fuuu3xnx/versions/PM9yAW1G/Searchables-forge-1.20.1-1.0.3.jar"
             ],
             "env": {
@@ -1008,21 +993,6 @@
                 "sha512": "a3c8e2afcddd0cba67af224d330fac0e99f34b53c31fba6742f1d05b62cb75ca4d573432f9b53a69d0e8128158b277d61c2bfd34f1107de5cf63150fa45d09a8"
             },
             "path": "mods/Stoneworks-v8.0.0-1.20.1-Forge.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/guitPqEi/versions/LpbGS7UC/StorageDrawers-1.20.1-12.9.13.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 948185,
-            "hashes": {
-                "sha1": "c68a49a62dc1871d85698902a25ac04e8ed3b770",
-                "sha512": "c1b9268df95e95bf339d3d10c14016e6be841594f6e0d54d4c0e4ca948e1f5370f3cbf94efaf430b96202957c65d1c3f14848fae310c78f523d52006c7304f2a"
-            },
-            "path": "mods/StorageDrawers-1.20.1-12.9.13.jar"
         },
         {
             "downloads": [
@@ -1173,21 +1143,6 @@
                 "sha512": "7cafbfc39305f3e384468db674e350118950201ba4d22b66ed95516a335aaad04765ae1e693b223c6c5beba404fc7411e9f78b4f962d7d9e51407b55233375a4"
             },
             "path": "mods/TravelersTitles-1.20-Forge-4.0.2.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/VaCl9OtG/versions/Yh4b40rs/WaystonesTeleportPets-1.20-1.20.1--1.2.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 119264,
-            "hashes": {
-                "sha1": "d64055c58edcdbedfd6ebc40dba0b678a6818e57",
-                "sha512": "c4e13812dbd77a07f585b056f830412f6ebb27e47b567b7c82ac3a5e9a9c20e999972cc52638a18a4f7f0670ad16dfa5a770f86e3c13f888ca65cbbd2f8113c4"
-            },
-            "path": "mods/WaystonesTeleportPets-1.20-1.20.1--1.2.jar"
         },
         {
             "downloads": [
@@ -1431,21 +1386,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/r0v8vy1s/versions/kC6SY4Zp/alternate_current-mc1.20-1.7.0.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 36703,
-            "hashes": {
-                "sha1": "02def44a2c416459ee5daecbe1caa6d78571e205",
-                "sha512": "d9ae21a3a389c63466bf22b36d4a78c859f30c901397622f1f1438737901a2c67e4d911c83831e0d4f1edabf0b86b58f4192d9980ecef8278393fd4af64a9585"
-            },
-            "path": "mods/alternate_current-mc1.20-1.7.0.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar"
             ],
             "env": {
@@ -1461,33 +1401,48 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/XxWD5pD3/versions/LbIVLEYC/appliedenergistics2-forge-15.4.1.jar"
+                "https://cdn.modrinth.com/data/XxWD5pD3/versions/eqFFaFdj/appliedenergistics2-forge-15.4.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 5582320,
+            "fileSize": 8410614,
             "hashes": {
-                "sha1": "888f35faae496f3c633f66c6aa5dcc98b92d6bcb",
-                "sha512": "1f77da276502573e880c01f66f668125521f471e0aadc8ecb1c3c8963d1e0a51f0b29ba7b36bc8bd1f0807d851cce3baa95e92790f983f5c9c9f5c91a8388bd5"
+                "sha1": "829ccaed2a1d1d25e9f5e459ccc481a3c061f8c1",
+                "sha512": "1396a6fe156fddf4488ad80411fdc65e6cbd4b434e79dd4f2897912762c8d08190b7c1bd44d8d19869673e1f450d672b53d06f4305f3e693d9066a63b9900d5b"
             },
-            "path": "mods/appliedenergistics2-forge-15.4.1.jar"
+            "path": "mods/appliedenergistics2-forge-15.4.2.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/MBAkmtvl/versions/GmMJVPH4/balm-forge-1.20.1-7.3.27-all.jar"
+                "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 475315,
+            "fileSize": 580602,
             "hashes": {
-                "sha1": "ca67b7528946937c609d8d3bfb9ea69a56f4b4b4",
-                "sha512": "a740f45553c945e0cc255390c5f84db9de2efc0f801c5c3a8580662fd5521b5ee9633c07ae8453f3a54d785f49aef7eed97e279ccd714137c4ab3d560c3600d3"
+                "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+                "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7"
             },
-            "path": "mods/balm-forge-1.20.1-7.3.27-all.jar"
+            "path": "mods/architectury-9.2.14-forge.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/MBAkmtvl/versions/VSVCZFqo/balm-forge-1.20.1-7.3.29-all.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 594963,
+            "hashes": {
+                "sha1": "949cc46c6a513221bdf3917e5faad5be490b3248",
+                "sha512": "1d937fd27a1fd9953875112f1a8493a0a74dd94c9acb157d4a3ecd9caf3148282c48ae2aee6e845e484f203bb54bd190c1dae15ef627888e82573c7e18fd06a6"
+            },
+            "path": "mods/balm-forge-1.20.1-7.3.29-all.jar"
         },
         {
             "downloads": [
@@ -1566,18 +1521,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/yD9qW65f/versions/CJi9n2jZ/chloride-FORGE-mc1.20.1-v1.6.0.jar"
+                "https://cdn.modrinth.com/data/yD9qW65f/versions/ZFXV7x3Y/chloride-FORGE-mc1.20.1-v1.7.1.jar"
             ],
             "env": {
                 "client": "required",
-                "server": "unsupported"
+                "server": "required"
             },
-            "fileSize": 905793,
+            "fileSize": 943700,
             "hashes": {
-                "sha1": "b72439a831982b91f2291835ddce16183b869f69",
-                "sha512": "4a49e9c9f4e03a938e22d448c8c0d9ada46835b749037383732e9739c0c3f87a9b06f42dae2f2b26c1a2e593b839471492382dbe09fbe290fdfea87d069d7b83"
+                "sha1": "17cc4f47d3603fe76d3c90aed993803a0603e77f",
+                "sha512": "703446b1a1a8a3dbbb896bdc39bb7864fa4bb6685e071116323691d5238662783111872d1ea483aef98a56b09cef44f0c2ebd62740b88231dd4fa6dcf1ba5a16"
             },
-            "path": "mods/chloride-FORGE-mc1.20.1-v1.6.0.jar"
+            "path": "mods/chloride-FORGE-mc1.20.1-v1.7.1.jar"
         },
         {
             "downloads": [
@@ -1761,18 +1716,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/dgWcpb4P/dynamic-fps-3.9.3%2Bminecraft-1.20.0-forge.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/QuGwcm10/dynamic-fps-3.9.4%2Bminecraft-1.20.0-forge.jar"
             ],
             "env": {
                 "client": "required",
-                "server": "unsupported"
+                "server": "required"
             },
-            "fileSize": 374145,
+            "fileSize": 376140,
             "hashes": {
-                "sha1": "e02be6ac69a4c793bb17b6f00c4c631c88d5aeb0",
-                "sha512": "36c9e98fdfc6acef92ec6268df5876aa4cc5fbbebc9b609293da62493f680a2147622e61324e6fba87610d58c3cdd75e028590693aab7464a31c85458f9e2bba"
+                "sha1": "8abb7fd84ccd0647f672dc7315e428f1873d8f2d",
+                "sha512": "1f191098ac121b1c6da507aa2e78dadfeee709b2dbea466ecbdf9d891cf48508411ce66f34615e85aa6610cb66c9ca724f2759b69c4a3e80c84aa8b58e9cd55c"
             },
-            "path": "mods/dynamic-fps-3.9.3+minecraft-1.20.0-forge.jar"
+            "path": "mods/dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar"
         },
         {
             "downloads": [
@@ -1821,18 +1776,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/eiktJyw1/versions/hRPDg3uv/everycomp-1.20-2.7.30-forge.jar"
+                "https://cdn.modrinth.com/data/eiktJyw1/versions/ATfmMrCQ/everycomp-1.20-2.8.3-forge.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2695951,
+            "fileSize": 2694075,
             "hashes": {
-                "sha1": "02b11289b87ebda2ef7458a194ed67fe002fefc1",
-                "sha512": "1946d53d57aa03b6a66213f02be5326ff9469f220a645b3846787e47dfcdd25b8f0b2dbb7de14366f12fe805af1205b7a06e5c8cc26267771472101a2ec46e9e"
+                "sha1": "096fef708273b92ab85e3fc82091298c1aa30e99",
+                "sha512": "ba9e7925447cb51ecaa3a35bfa708d929288a68960488e1ab9caa0f40532ab013d7521184352d9241abbc0a21ee1edb93f3fe518e664874681958ff8d75194d5"
             },
-            "path": "mods/everycomp-1.20-2.7.30-forge.jar"
+            "path": "mods/everycomp-1.20-2.8.3-forge.jar"
         },
         {
             "downloads": [
@@ -1911,18 +1866,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/g6sbyCTu/versions/kErKgKkm/fruitsdelight-1.0.21.jar"
+                "https://cdn.modrinth.com/data/g6sbyCTu/versions/gSG5A9TX/fruitsdelight-1.0.22.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1878104,
+            "fileSize": 1879106,
             "hashes": {
-                "sha1": "d623294851495013be220909a3fd0afbd065fe8f",
-                "sha512": "a9ac2c3022c65acb7ffee4ae2ff96b647c0c01597adde5dbc1bd3c8c697d4ea967773bc3c18438350ec163e54bd0032a1ff35a3a2c770ed713bd1dac788394d6"
+                "sha1": "ab6144a62830491896fad9c3206976bdfbd9976e",
+                "sha512": "bb1243cfa94dff5292e4ec2760c1e78bd217679753aa7625c1ac5b413b2a97b08e18912215c3f656fb04aed51f1576ffc289c436adca86177db6f295019be29c"
             },
-            "path": "mods/fruitsdelight-1.0.21.jar"
+            "path": "mods/fruitsdelight-1.0.22.jar"
         },
         {
             "downloads": [
@@ -2016,21 +1971,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/ZORMkttv/versions/9DiaGkWm/guicompass-1.20.1-4.9.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "unsupported"
-            },
-            "fileSize": 34661,
-            "hashes": {
-                "sha1": "abbf51dd4a2f368517c17da4e990567746419d94",
-                "sha512": "4f24b965d8fee065de0550a92e1fd8f11670306265bef749083dfac5709ed7eca60a673b87fa508b02d6339f93cec54838297bc98cd90f59b6f2b69c6439fbac"
-            },
-            "path": "mods/guicompass-1.20.1-4.9.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/Ck4E7v7R/versions/UD2nQxJx/guideme-20.1.7.jar"
             ],
             "env": {
@@ -2088,21 +2028,6 @@
                 "sha512": "5d25505b4831240450368fa23ac75fa3ab0a55314baa8aaa4729f7c7b4deba9e480d2a5ecd243b53cc469c63d0e5b515e932e23e2d6448b76f7ae51396e3a55f"
             },
             "path": "mods/immersivesnow-1.20.1-1.3.2.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/n2de3t2z/versions/BlgpMWjV/ironchests-5.0.2-forge.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 492203,
-            "hashes": {
-                "sha1": "610aa09a1d83253db6bf32f6b12c84d446fa99b6",
-                "sha512": "948a446b1e65776a4184df89fdc7d3af424bf53ef62cef7fdd03c51a8ebefc8be78c1027ad073d0bc21d003ef85e84318b184bdcf90ef8f497ffaafb6942f6e1"
-            },
-            "path": "mods/ironchests-5.0.2-forge.jar"
         },
         {
             "downloads": [
@@ -2286,18 +2211,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/w4an97C2/versions/zedTvpc3/mcw-lights-1.1.0-mc1.20.1forge.jar"
+                "https://cdn.modrinth.com/data/w4an97C2/versions/gqevfDHf/mcw-lights-1.1.2-mc1.20.1forge.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 517513,
+            "fileSize": 539623,
             "hashes": {
-                "sha1": "54325ec072a23df892bfbf1c03e917e372eb2ca0",
-                "sha512": "519f4a9bbc1af3ffa39ccf6fbeb2e3ec23e41e61efac7181c6b4e7b1f8118a26009d54206518368c5e08300954b7e5660b4c7e81b24a1d25eef6da098d4aa401"
+                "sha1": "06b43ce0ad41b86ff904b6684cdb2331cec21123",
+                "sha512": "2ee82b5ca8d964cff83ea41d38bfa5e4c9a9bedb7bccf891ce269d25238bfeb3f46b428a4d6ff6695a69907046cec22b356f3feefe94564bfa4cc081df8fcb72"
             },
-            "path": "mods/mcw-lights-1.1.0-mc1.20.1forge.jar"
+            "path": "mods/mcw-lights-1.1.2-mc1.20.1forge.jar"
         },
         {
             "downloads": [
@@ -2451,18 +2376,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/twkfQtEc/versions/xDOrVsJi/moonlight-1.20-2.13.83-forge.jar"
+                "https://cdn.modrinth.com/data/twkfQtEc/versions/A0KjYUVI/moonlight-1.20-2.14.1-forge.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1254345,
+            "fileSize": 1266075,
             "hashes": {
-                "sha1": "bb8a7b044a384c764b0a521919d63fd1649e5ebc",
-                "sha512": "9ed0762915013ecd5c31e082af35ebfeb73dace5c05b2b559d0ac3c7f37ae8440fbfb9bc3aedaca4d1bc3f4d1eb34a13686bf23289843013b97fcbfb81019fa0"
+                "sha1": "1658692ea4a03369f07b3af821fe622f0e6b47ac",
+                "sha512": "5af20ce6744f56d5696993773bb35ca4086496cf97842cb1c4ccc81dddba89c49ead5e2d055f2e78cbf190fe29853de79d58e3c2f24e03ddec6034aed924ef75"
             },
-            "path": "mods/moonlight-1.20-2.13.83-forge.jar"
+            "path": "mods/moonlight-1.20-2.14.1-forge.jar"
         },
         {
             "downloads": [
@@ -2538,6 +2463,21 @@
                 "sha512": "3146b9438caac5e148748beed7e7f1a5e446c40ca826e476e46fb623175b2bd58c1f4a74cab4a08dd1749add5d088440217ad68dd0b800d1ac8938582d2e81b9"
             },
             "path": "mods/nethersdelight-1.20.1-4.0.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/MPFUV2Ds/versions/8mw8OXUF/no-f3-1.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 158394,
+            "hashes": {
+                "sha1": "2adb4b1110e3c6b6d03fe0807ef1533912676f73",
+                "sha512": "892ecb42aae623707d21d6b9e8f2061911d500c66d344f4dfd0628c40495b0fab8561b931144b6ac206870006f807dedd45388e8ad77cf218c56337a4c269337"
+            },
+            "path": "mods/no-f3-1.jar"
         },
         {
             "downloads": [
@@ -2620,7 +2560,7 @@
             ],
             "env": {
                 "client": "required",
-                "server": "unsupported"
+                "server": "required"
             },
             "fileSize": 47170,
             "hashes": {
@@ -2736,18 +2676,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/VNjUn3NA/versions/hJY10bpJ/seasonhud-forge-1.20.1-1.13.2.jar"
+                "https://cdn.modrinth.com/data/VNjUn3NA/versions/S53UbsOX/seasonhud-forge-1.20.1-1.13.3.jar"
             ],
             "env": {
                 "client": "required",
-                "server": "unsupported"
+                "server": "required"
             },
-            "fileSize": 287682,
+            "fileSize": 288158,
             "hashes": {
-                "sha1": "bc962b992b3adc6bd52345f3b1bb82fed2d0c848",
-                "sha512": "14fb5c8b9a5289b8416b1245ea696afe5b86890aeb50d28fc975c46bcc1cf4a8863a87eeb79d4831ebf005387109d4aedbbd94d52e41d39a815a434f9c5f5d33"
+                "sha1": "e91a41d78fe23151eef2e8a934e34d02313755ed",
+                "sha512": "e58fe49bcc66198f2e42c14381b50e963d0b3a55b3d4ff1925760b3e4bc2398d1d3d66db71b00ebb7fcb6f734a7347405b892e380a37c9d93ef159902e58a2de"
             },
-            "path": "mods/seasonhud-forge-1.20.1-1.13.2.jar"
+            "path": "mods/seasonhud-forge-1.20.1-1.13.3.jar"
         },
         {
             "downloads": [
@@ -2826,33 +2766,48 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/TyCTlI4b/versions/rIfvuPE8/sophisticatedbackpacks-1.20.1-3.23.14.1233.jar"
+                "https://cdn.modrinth.com/data/TyCTlI4b/versions/VWj9fVV5/sophisticatedbackpacks-1.20.1-3.23.15.1236.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 900831,
+            "fileSize": 905464,
             "hashes": {
-                "sha1": "c9b403e56b15980c55882f4597f1f0988979451f",
-                "sha512": "aa09d7eb26201e2f9d2d2df0c8a2fbebac8bda106986497e0943e3e31580ae7e7734772527020e632775c5093c97e45992bd71411c57101d16c3b41ec201fbb9"
+                "sha1": "73e64edae42dcdb4ca216870797e48aaac4f1690",
+                "sha512": "d3337aeec4743000847f301e0b3b58139aa8aaeabaa2226ca2a0fe0647bf624a3a38cf2b8bca6bbc15bb7689fca4056c36de0781d24e355d8628154bd31c9a66"
             },
-            "path": "mods/sophisticatedbackpacks-1.20.1-3.23.14.1233.jar"
+            "path": "mods/sophisticatedbackpacks-1.20.1-3.23.15.1236.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/nmoqTijg/versions/5e51DjM1/sophisticatedcore-1.20.1-1.2.51.966.jar"
+                "https://cdn.modrinth.com/data/nmoqTijg/versions/zAHuoGAz/sophisticatedcore-1.20.1-1.2.55.975.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1203800,
+            "fileSize": 1250997,
             "hashes": {
-                "sha1": "fc61f5f39ab35f40fe85cf78768e1fe02c099210",
-                "sha512": "9bcc9c78b2ce876f5e05d89161a8fdd305f5d4738ee2a719b803d33b5dc88879caaa9645f672b8c696269cab7196cb00dc3a70fa6f6ccad7805cb953d718c4f9"
+                "sha1": "c353a2dba05b407c03fce2410d08686574380fc1",
+                "sha512": "202476c123dce08a7e4115181521a041849267657fc362581485efdc72e68ae7f2c8892f33e4d7ed1734ea2bbbf9e02e605b7fe26a0e0d033d5152563054d837"
             },
-            "path": "mods/sophisticatedcore-1.20.1-1.2.51.966.jar"
+            "path": "mods/sophisticatedcore-1.20.1-1.2.55.975.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/hMlaZH8f/versions/tPr2s0Mh/sophisticatedstorage-1.20.1-1.3.42.1146.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1585277,
+            "hashes": {
+                "sha1": "1a0c1bb377b656b05a7907838d3893f4a6f7b348",
+                "sha512": "8cefd726b77c8a45bef38f8656cefa4d00cbfb290656114a0706bec4190e304fe54b5d51826e93c11adbe77dc5d16095c7af3dcb100ded210cb2ed53773334fe"
+            },
+            "path": "mods/sophisticatedstorage-1.20.1-1.3.42.1146.jar"
         },
         {
             "downloads": [
@@ -2901,18 +2856,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/uYwn8IP5/versions/NrcmPEUk/stonezone-1.20-2.7.17.jar"
+                "https://cdn.modrinth.com/data/uYwn8IP5/versions/kOe9Y3zd/stonezone-1.20-2.8.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 945748,
+            "fileSize": 935750,
             "hashes": {
-                "sha1": "8e6d291efca4075f6ee03e887eabdc861a0c1919",
-                "sha512": "40d311dad9b22d96a70b9369b9a152e1dfb2fc8127b0ee979c914a5764723e3f21dd85a41985a6bfeb777c0ac166adf1a216f2f50b9d317a3c2b78b5f03e1dc6"
+                "sha1": "86e2e58d92251e7cdfc43b7d0fb4f1ce4a1c9908",
+                "sha512": "2a084e3fc438f464d03e4c849f9800db8b19a8f667b4413b1b2de44aba8b4cf5774d56924b66138cba998ba85727578fa318cb31f250155f06b79359c3239e4a"
             },
-            "path": "mods/stonezone-1.20-2.7.17.jar"
+            "path": "mods/stonezone-1.20-2.8.2.jar"
         },
         {
             "downloads": [
@@ -3081,33 +3036,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/LOpKHB2A/versions/WKyfSzs9/waystones-forge-1.20.1-14.1.11.jar"
+                "https://cdn.modrinth.com/data/LOpKHB2A/versions/rxfQI36N/waystones-forge-1.20.1-14.1.12.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 487683,
+            "fileSize": 488317,
             "hashes": {
-                "sha1": "e7b648a3e77ce809dfd470200af1d1baadb4cb87",
-                "sha512": "aa67546933253a1e72159fa45e7ccbe84fac548080aee303c4f11199754d878164ee74a113302e2bd2be3503b69262ed49419bfbfc88685833b2bb071689dd0e"
+                "sha1": "67d9909b9baec092291bb00d11caaccf0c200069",
+                "sha512": "4ac7a5ed83e9a14488dd4978f2294582cb0181c4d8cce4306dbe1850c65a39a2066b153e415d29526a0cf49b22d2b7ee048745d1bf0ce46209461edc9a70b998"
             },
-            "path": "mods/waystones-forge-1.20.1-14.1.11.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/Ey5T8n9y/versions/5mjJeIwb/Disable%20SeasonHUD%20Slot%201.1.1.zip"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 55158,
-            "hashes": {
-                "sha1": "672225e0fa8aa00b8a3ba9b6718ee74555e5a69f",
-                "sha512": "ba36696a586a09a6c69c87f9bf58068d4c92df9721463eb759721cd2fef6873e8f8067e758849e60fe080f68f2fc591f34d3fc01c66ff721b4adedddbdec4cbf"
-            },
-            "path": "resourcepacks/Disable-SeasonHUD-Slot-1.1.1.zip"
+            "path": "mods/waystones-forge-1.20.1-14.1.12.jar"
         },
         {
             "downloads": [
@@ -3138,10 +3078,25 @@
                 "sha512": "d9e122c1a2881585334464ce9ee7d75b961deb17be69a28ed0f21bd0c0b629db80198081d95191985d356ffc2cbd14c19339f001c96c2b287f366ceb4df0271b"
             },
             "path": "resourcepacks/Sparkles_1.21.x_v1.1.3.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/AXHibzcj/versions/OdDxvApZ/twemoji.zip"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 1421332,
+            "hashes": {
+                "sha1": "da1ee0302901aeb6497efa6ce964a430a0cce147",
+                "sha512": "a0df13dcca2884a1af98e1bbca9956653a43210ee26d1cde0de49cce8aaf1cd0d4bac35b5aedc6d6b0793ed1d3386ebe327dffdda6e3181b384616e8f9fe31ca"
+            },
+            "path": "resourcepacks/twemoji.zip"
         }
     ],
     "formatVersion": 1,
     "game": "minecraft",
     "name": "Surviving Immersium",
-    "versionId": "0.0.1"
+    "versionId": "0.0.2-alpha"
 }
