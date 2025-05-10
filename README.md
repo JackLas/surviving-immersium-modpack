@@ -1,6 +1,6 @@
 # Description
 
-Modpack with more immersive gameplay, including overhauled survival mechanics, new world generation and structures, a bit of magic and technologies and a bunch of new decoration functions
+Modpack with more immersive gameplay, including overhauled survival mechanics, new world generation and structures and a bit of magic and technologies.
 
 F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 
@@ -16,8 +16,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*85+ New mobs with stylistic quality above the default game.*
 - **Alex's Mobs Interaction** (MIT): [Modrinth](https://modrinth.com/mod/alexs-mobs-interaction) | [Source](https://github.com/CrimsonCrips/AlexsInteractionAddon)
 <br>*An addon that adds tons of new features specifically for the mod Alex's Mobs*
-- **Alternate Current** (MIT): [Modrinth](https://modrinth.com/mod/alternate-current) | [Source](https://github.com/SpaceWalkerRS/alternate-current)
-<br>*An efficient and non-locational redstone dust implementation*
 - **AmbientSounds** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/ambientsounds) | [Source](https://github.com/CreativeMD/AmbientSounds)
 <br>*#listentonature*
 - **Annoying Stuff Remover** (MPL-2.0): [Modrinth](https://modrinth.com/mod/annoying-stuff-remover) | [Source](https://github.com/ctrlaltmilk/AnnoyingStuffRemover)
@@ -28,6 +26,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*AE2: A popular automation and storage mod*
 - **Applied Energistics 2 Wireless Terminals** (MIT): [Modrinth](https://modrinth.com/mod/applied-energistics-2-wireless-terminals) | [Source](https://github.com/Mari023/AE2WirelessTerminalLibrary)
 <br>*Ae2wtlib is an addon for ae2 that adds wireless versions of several Terminals*
+- **Architectury API** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/architectury-api) | [Source](https://github.com/architectury/architectury)
+<br>*An intermediary api aimed to ease developing multiplatform mods.*
 - **BadOptimizations** (MIT): [Modrinth](https://modrinth.com/mod/badoptimizations) | [Source](https://github.com/ItsThosea/BadOpitmizations)
 <br>*Optimization mod that focuses on things other than rendering*
 - **Balm** ([LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions)): [Modrinth](https://modrinth.com/mod/balm) | [Source](https://github.com/TwelveIterationMods/Balm)
@@ -36,8 +36,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds lots of vanilla-styled ways to spice up your builds.*
 - **Better Lily Pads** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/better-lily-pads) | [Source](https://github.com/MehVahdJukaar/betterlily-multi)
 <br>*Allows placing torches, candles and any other blocks on to lilypads*
-- **BetterF3** (MIT): [Modrinth](https://modrinth.com/mod/betterf3) | [Source](https://github.com/TreyRuffy/BetterF3)
-<br>*BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.*
 - **Brewin' And Chewin'** (MIT): [Modrinth](https://modrinth.com/mod/brewin-and-chewin) | [Source](https://github.com/MerchantCalico/BrewinAndChewin/)
 <br>*Fermenting addon for Farmer's Delight.*
 - **CERBON's API** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/cerbons-api) | [Source](https://github.com/CERBON-MODS/CERBONs-API)
@@ -46,9 +44,9 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Dust is a Minecraft mod that adds the white ash particle from the Basalt Deltas biome to the underground to simulate dust!*
 - **Chat Heads** (MPL-2.0): [Modrinth](https://modrinth.com/mod/chat-heads) | [Source](https://github.com/dzwdz/chat_heads)
 <br>*See who you're chatting with!*
-- **Chef's Delight - Farmer's Delight Add-On** (MIT): [Modrinth](https://modrinth.com/mod/chefs-delight)
+- **Chef's Delight - Farmer's Delight Villagers** (MIT): [Modrinth](https://modrinth.com/mod/chefs-delight)
 <br>*Add-on for the Farmer's Delight mod. Adds 2 new professions to villagers. Chef and Cook. Depends on Farmer's Delight.*
-- **Chloride (Embeddium++)** ([WTFPL](https://spdx.org/licenses/WTFPL.html)): [Modrinth](https://modrinth.com/mod/chloride) | [Source](https://github.com/SrRapero720/EmbeddiumPlus)
+- **Chloride (Embeddium++/Sodium++)** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/chloride) | [Source](https://github.com/SrRapero720/EmbeddiumPlus)
 <br>*Gives Embeddium/Sodium additional Performance and Quality features for a tasteful experience*
 - **Chunk Loaders** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/chunk-loaders) | [Source](https://github.com/SuperMartijn642/ChunkLoaders)
 <br>*Chunk Loaders allows you keep chunks loaded with different tiers of chunk loaders!*
@@ -66,6 +64,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*🎓 Collective is a shared library with common code for all of Serilum's mods.*
 - **Comforts** (LGPL-3.0-or-later): [Modrinth](https://modrinth.com/mod/comforts) | [Source](https://github.com/illusivesoulworks/comforts)
 <br>*Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. Comes in 16 different colors!*
+- **Compass Coords** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/compass-coords) | [Source](https://github.com/Insane96/CompassCoords)
+<br>*A simple mod that let you see coordinates when a compass is hold, both main and off hand*
 - **Connected Glass** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/connected-glass) | [Source](https://github.com/SuperMartijn642/ConnectedGlass)
 <br>*Connected Glass adds new types of glass with connecting textures!*
 - **Controlling** (MIT): [Modrinth](https://modrinth.com/mod/controlling) | [Source](https://github.com/jaredlll08/Controlling)
@@ -146,8 +146,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Fusion allows resource packs to use additional texture and model types such as connected textures!*
 - **GUI Clock** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/gui-clock) | [Source](https://github.com/Serilum/GUI-Clock)
 <br>*⏰ Shows the time/days played in the GUI/HUD with a clock in the inventory.*
-- **GUI Compass** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/gui-compass) | [Source](https://github.com/Serilum/GUI-Compass)
-<br>*🧭 Shows direction and coordinates in the GUI/HUD with a compass in the inventory.*
 - **Game Menu Remove GFARB** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/gamemenuremovegfarb) | [Source](https://github.com/MORIMORI0317/GameMenuRemoveGFARB)
 <br>*Remove the "Give Feed Back" and "Report Bugs" buttons from the game menu.*
 - **Geophilic** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/geophilic) | [Source](https://github.com/everloste/Geophilic)
@@ -174,8 +172,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.*
 - **Incendium Biomes Only** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/ibo) | [Source](https://codeberg.org/naomi/ibo)
 <br>*Removes structures, items, mobs and bosses from Incendium, leaving only the biomes and terrain.*
-- **Iron Chests: Restocked** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/ironchests) | [Source](https://github.com/ThatGravyBoat/Ironchests)
-<br>*Iron Chests: Restocked provide multiple variants of chests that increase in size and have different properties.*
 - **Item Obliterator** ([LicenseRef-AGNYA-License](https://github.com/nvb-uy/AGNYA-License/blob/main/LICENSE.md)): [Modrinth](https://modrinth.com/mod/item-obliterator) | [Source](https://github.com/nvb-uy/item_obliterator)
 <br>*Modpack utility mod that allows to disable items and/or its interactions. Also removes them from creative tabs, recipes, trades, and JEI/REI/EMI.*
 - **Jade Addons (Neo/Forge)** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/jade-addons-forge) | [Source](https://github.com/Snownee/JadeAddons)
@@ -306,8 +302,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Radium is an Unofficial Fork of CaffeineMC's "Lithium", made to work with Forge Mod Loader.*
 - **Remove Terralith Intro Message** ([LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)): [Modrinth](https://modrinth.com/mod/remove-terralith-intro-message) | [Source](https://github.com/Stardust-Labs-MC/Terralith)
 <br>*A datapack/mod to remove the intro message that appears with Terralith.*
-- **Resource Pack Overrides** (MPL-2.0): [Modrinth](https://modrinth.com/mod/resource-pack-overrides) | [Source](https://github.com/Fuzss/resourcepackoverrides)
-<br>*Ensures important resource packs stay always active and helps clean up the pack selection screen.*
 - **Resourceful Lib** (MIT): [Modrinth](https://modrinth.com/mod/resourceful-lib) | [Source](https://github.com/Team-Resourceful/ResourcefulLib)
 <br>*Resourceful Lib*
 - **Rhino** (MPL-2.0): [Modrinth](https://modrinth.com/mod/rhino) | [Source](https://github.com/KubeJS-Mods/Rhino)
@@ -338,6 +332,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Yet another backpack mod this time with backpack you can place in world, color in different color combinations, upgrade with more inventory and enhance with many functional upgrades*
 - **Sophisticated Core** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/sophisticated-core) | [Source](https://github.com/P3pp3rF1y/SophisticatedCore)
 <br>*Library mod for Sophisticated mods*
+- **Sophisticated Storage** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/sophisticated-storage) | [Source](https://github.com/P3pp3rF1y/SophisticatedStorage)
+<br>*Storage mod with multiple tiers and functional upgrades*
 - **Sound Physics Remastered** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/sound-physics-remastered) | [Source](https://github.com/henkelmax/sound-physics-remastered)
 <br>*A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.*
 - **Sounds** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/sound) | [Source](https://github.com/IMB11/Sounds)
@@ -352,8 +348,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Vanilla stone types in plenty of variations for all your building needs.*
 - **Storage Delight** ([MIT](https://github.com/axperty/storagedelight-forge/blob/master/LICENSE)): [Modrinth](https://modrinth.com/mod/storage-delight) | [Source](https://github.com/axperty/storagedelight)
 <br>*Extra furniture for Farmer's Delight that makes your kitchen or any space look better.*
-- **Storage Drawers** (MIT): [Modrinth](https://modrinth.com/mod/storagedrawers) | [Source](https://github.com/jaquadro/StorageDrawers)
-<br>*Interactive bulk storage solution*
 - **Structory** ([LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)): [Modrinth](https://modrinth.com/mod/structory) | [Source](https://github.com/Stardust-Labs-MC/Structory)
 <br>*A seasonally updated and atmospheric structure mod with light lore*
 - **Structory: Towers** ([LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)): [Modrinth](https://modrinth.com/mod/structory-towers) | [Source](https://github.com/Stardust-Labs-MC/Structory-Towers)
@@ -396,8 +390,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Pickling, farming and cheese, a feature packed farmers delight expansion.*
 - **Waystones** ([LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions)): [Modrinth](https://modrinth.com/mod/waystones) | [Source](https://github.com/TwelveIterationMods/Waystones)
 <br>*Teleport back to activated waystones. For Survival, Adventure or Servers.*
-- **Waystones Teleport Pets** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/waystones-teleport-pets)
-<br>*Addon for Waystones to make Pets teleport with you when using a Waystone without need to attach them to a lead*
 - **YUNG's API** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/yungs-api) | [Source](https://github.com/YUNG-GANG/YUNGs-API)
 <br>*Library mod for YUNG's mods.*
 - **YUNG's Better Desert Temples** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/yungs-better-desert-temples) | [Source](https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples)
@@ -422,11 +414,13 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Extra structures, features, and vanilla+ content suitable for any modpack!*
 - **Zeta** ([CC-BY-NC-SA-3.0](https://github.com/VazkiiMods/Zeta/blob/main/LICENSE.md)): [Modrinth](https://modrinth.com/mod/zeta) | [Source](https://github.com/VazkiiMods/Zeta)
 <br>*Comprehensive Load-Bearing Library for Modular Mods*
+- **no f3** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/no-f3)
+<br>*removes most f3 features*
 
 # Resourcepacks/Datapacks
- - **Slightly Improved Font (32x)** (MIT): [Modrinth](https://modrinth.com/resourcepack/slightly-improved-font) | [Source](https://github.com/latvian-dev/Slightly-Improved-Font)
- <br>*This resource pack adds a slightly improved version of vanilla Minecraft font (32x version)*
- - **Disable SeasonHUD Curios / Trinkets / Accessories Slot** (MIT): [Modrinth](https://modrinth.com/datapack/disable-seasonhud-slot)
- <br>*Disables Curios/Trinkets/Accessories support for SeasonHUD*
- - **Sparkles: Stardust Labs Resourcepack** (BSD-3-Clause): [Modrinth](https://modrinth.com/resourcepack/sparkles) | [Source](https://github.com/Stardust-Labs-MC/Sparkles-Resourcepack)
- <br> *An optional resourcepack for all of Stardust Labs' projects. Adds localizations and minimap biome name fixes, as well as textures for Incendium.*
+- **Slightly Improved Font (32x)** (MIT): [Modrinth](https://modrinth.com/resourcepack/slightly-improved-font) | [Source](https://github.com/latvian-dev/Slightly-Improved-Font)
+<br>*This resource pack adds a slightly improved version of vanilla Minecraft font (32x version)*
+- **Sparkles: Stardust Labs Resourcepack** (BSD-3-Clause): [Modrinth](https://modrinth.com/resourcepack/sparkles) | [Source](https://github.com/Stardust-Labs-MC/Sparkles-Resourcepack)
+<br> *An optional resourcepack for all of Stardust Labs' projects. Adds localizations and minimap biome name fixes, as well as textures for Incendium.*
+- **Minecraft Emojis (Twemoji)** (CC-BY-4.0): [Modrinth](https://modrinth.com/resourcepack/minecraft-emojis-(twemoji))
+<br> *This Ressourcepack allows you to display most Emojis in Minecraft*
