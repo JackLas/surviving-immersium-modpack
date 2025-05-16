@@ -1,6 +1,5 @@
 ServerEvents.recipes(event => {
-    event.replaceInput(
-        {id: 'mysticalagriculture:machine_frame'},
+    event.replaceInput({id: 'mysticalagriculture:machine_frame'},
         '#c:stones',
         'immersiveengineering:sheetmetal_steel'
     )
@@ -68,5 +67,39 @@ ServerEvents.recipes(event => {
         D: 'mysticalagriculture:soulium_dust',
         S: 'minecraft:stick'
     })
+
+    event.remove({output: 'minecraft:farmland'})
+    event.shapeless(Item.of('minecraft:farmland', 1),
+    [
+        'minecraft:bone_meal',
+        'minecraft:dirt',
+        'minecraft:stick'
+    ]);
+
+    function rework_farmland_recipe(modid, type) {
+        let output_id = `${modid}:${type}_farmland`
+        let essence_id = `${modid}:${type}_essence`
+
+        event.remove({output: output_id})
+        event.shapeless(Item.of(output_id, 1),
+        [
+            'minecraft:bone_meal',
+            'minecraft:dirt',
+            'minecraft:stick',
+            essence_id
+        ])
+        event.shapeless(Item.of(output_id, 1),
+        [
+            "minecraft:farmland",
+            essence_id
+        ])
+    }
+
+    rework_farmland_recipe('mysticalagriculture', 'inferium')
+    rework_farmland_recipe('mysticalagriculture', 'prudentium')
+    rework_farmland_recipe('mysticalagriculture', 'tertium')
+    rework_farmland_recipe('mysticalagriculture', 'imperium')
+    rework_farmland_recipe('mysticalagriculture', 'supremium')
+    rework_farmland_recipe('mysticalagradditions', 'insanium')
 })
 
