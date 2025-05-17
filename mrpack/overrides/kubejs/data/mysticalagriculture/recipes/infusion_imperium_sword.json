@@ -1,0 +1,36 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "conditions": [],
+    "input": {
+        "item": "mysticalagriculture:tertium_sword"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:netherite_upgrade_smithing_template"
+        },
+        {
+            "item": "mysticalagriculture:imperium_gemstone"
+        },
+        {
+            "item": "ae2:charged_certus_quartz_crystal"
+        },
+        {
+            "item": "mysticalagriculture:imperium_ingot"
+        },
+        {
+            "item": "minecraft:netherite_ingot"
+        },
+        {
+            "item": "mysticalagriculture:imperium_gemstone"
+        },
+        {
+            "item": "ae2:charged_certus_quartz_crystal"
+        },
+        {
+            "item": "mysticalagriculture:imperium_ingot"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:imperium_sword"
+    }
+}

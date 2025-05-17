@@ -1,0 +1,36 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "conditions": [],
+    "input": {
+        "item": "mysticalagriculture:imperium_sword"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:netherite_upgrade_smithing_template"
+        },
+        {
+            "item": "mysticalagriculture:supremium_gemstone"
+        },
+        {
+            "item": "minecraft:popped_chorus_fruit"
+        },
+        {
+            "item": "mysticalagriculture:supremium_ingot"
+        },
+        {
+            "item": "minecraft:netherite_ingot"
+        },
+        {
+            "item": "mysticalagriculture:supremium_gemstone"
+        },
+        {
+            "item": "minecraft:popped_chorus_fruit"
+        },
+        {
+            "item": "mysticalagriculture:supremium_ingot"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:supremium_sword"
+    }
+}
