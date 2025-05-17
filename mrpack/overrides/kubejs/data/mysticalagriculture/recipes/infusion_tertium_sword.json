@@ -1,0 +1,36 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "conditions": [],
+    "input": {
+        "item": "mysticalagriculture:prudentium_sword"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:netherite_upgrade_smithing_template"
+        },
+        {
+            "item": "mysticalagriculture:tertium_gemstone"
+        },
+        {
+            "item": "minecraft:blaze_rod"
+        },
+        {
+            "item": "mysticalagriculture:tertium_ingot"
+        },
+        {
+            "item": "minecraft:netherite_ingot"
+        },
+        {
+            "item": "mysticalagriculture:tertium_gemstone"
+        },
+        {
+            "item": "minecraft:blaze_rod"
+        },
+        {
+            "item": "mysticalagriculture:tertium_ingot"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:tertium_sword"
+    }
+}

@@ -101,5 +101,12 @@ ServerEvents.recipes(event => {
     rework_farmland_recipe('mysticalagriculture', 'imperium')
     rework_farmland_recipe('mysticalagriculture', 'supremium')
     rework_farmland_recipe('mysticalagradditions', 'insanium')
+
+    // sword recipes replaced with infusion recipes in KubeJs' datapack
+    event.remove({id: 'mysticalagriculture:gear/inferium_sword'})
+    event.remove({id: 'mysticalagriculture:gear/prudentium_sword'})
+    event.remove({id: 'mysticalagriculture:gear/tertium_sword'})
+    event.remove({id: 'mysticalagriculture:gear/imperium_sword'})
+    event.remove({id: 'mysticalagriculture:gear/supremium_sword'})
 })
 

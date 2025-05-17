@@ -1,0 +1,36 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "conditions": [],
+    "input": {
+        "item": "mysticalagriculture:inferium_sword"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:netherite_upgrade_smithing_template"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_gemstone"
+        },
+        {
+            "item": "minecraft:echo_shard"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_ingot"
+        },
+        {
+            "item": "minecraft:netherite_ingot"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_gemstone"
+        },
+        {
+            "item": "minecraft:echo_shard"
+        },
+        {
+            "item": "mysticalagriculture:prudentium_ingot"
+        }
+    ],
+    "result": {
+        "item": "mysticalagriculture:prudentium_sword"
+    }
+}
