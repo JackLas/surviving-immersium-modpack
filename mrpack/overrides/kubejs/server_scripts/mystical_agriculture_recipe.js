@@ -109,4 +109,3 @@ ServerEvents.recipes(event => {
     event.remove({id: 'mysticalagriculture:gear/imperium_sword'})
     event.remove({id: 'mysticalagriculture:gear/supremium_sword'})
 })
-
