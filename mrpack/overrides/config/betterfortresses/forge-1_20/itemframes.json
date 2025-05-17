@@ -1,14 +1,14 @@
 {
   "weaponItems": {
     "entries": {
-      "netherite_sword": 0.005,
-      "iron_axe": 0.025,
-      "golden_axe": 0.05,
+      "nethersdelight:netherite_machete": 0.005,
+      "ae2:nether_quartz_cutting_knife": 0.025,
+      "farmersdelight:golden_knife": 0.05,
       "shield": 0.025,
-      "iron_sword": 0.025,
-      "stone_axe": 0.025,
-      "stone_sword": 0.025,
-      "golden_sword": 0.05
+      "nethersdelight:iron_machete": 0.025,
+      "nethersdelight:diamond_machete": 0.025,
+      "alexsmobs:ghostly_pickaxe": 0.025,
+      "nethersdelight:golden_machete": 0.05
     },
     "defaultItem": "air"
   },
