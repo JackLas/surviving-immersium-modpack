@@ -18,9 +18,9 @@
 	// The default server promo button text.
 	"serverPromoButtonTextDefault": "Modpack",
 	// The server promo button text shown when hovering it.
-	"serverPromoButtonTextOnHover": "Open Github",
+	"serverPromoButtonTextOnHover": "Open Modrinth",
 	// The URL that's being navigated to when clicking the server promo button.
-	"serverPromoButtonClickURL": "https://github.com/JackLas/surviving-immersium-modpack",
+	"serverPromoButtonClickURL": "https://modrinth.com/project/fsbUXxqs",
 	// Whether the splash text should be hidden on the main menu.
 	"hideSplashText": true,
 	// Whether experimental/beta mod loader text should be removed from the main menu.
