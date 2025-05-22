@@ -13,3 +13,4 @@ ServerEvents.recipes(event => {
     event.remove('nethersdelight:golden_machete')
     event.remove('nethersdelight:iron_machete')
 })
+
