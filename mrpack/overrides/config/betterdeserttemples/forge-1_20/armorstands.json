@@ -2,7 +2,7 @@
   "armoryHelmets": {
     "entries": {
       "chainmail_helmet": 0.3,
-      "golden_helmet": 0.2
+      "cold_sweat:chameleon_scale_helmet": 0.2
     },
     "defaultItem": "air"
   },
@@ -15,7 +15,7 @@
   },
   "armoryChestplates": {
     "entries": {
-      "golden_chestplate": 0.2,
+      "cold_sweat:chameleon_scale_chestplate": 0.2,
       "chainmail_chestplate": 0.3
     },
     "defaultItem": "air"
@@ -30,7 +30,7 @@
   "armoryLeggings": {
     "entries": {
       "chainmail_leggings": 0.3,
-      "golden_leggings": 0.2
+      "cold_sweat:chameleon_scale_leggings": 0.2
     },
     "defaultItem": "air"
   },
@@ -44,7 +44,7 @@
   "armoryBoots": {
     "entries": {
       "chainmail_boots": 0.3,
-      "golden_boots": 0.2
+      "cold_sweat:chameleon_scale_boots": 0.2
     },
     "defaultItem": "air"
   },
