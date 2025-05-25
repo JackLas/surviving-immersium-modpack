@@ -64,8 +64,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*🎓 Collective is a shared library with common code for all of Serilum's mods.*
 - **Comforts** (LGPL-3.0-or-later): [Modrinth](https://modrinth.com/mod/comforts) | [Source](https://github.com/illusivesoulworks/comforts)
 <br>*Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns. Comes in 16 different colors!*
-- **Compass Coords** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/compass-coords) | [Source](https://github.com/Insane96/CompassCoords)
-<br>*A simple mod that let you see coordinates when a compass is hold, both main and off hand*
 - **Connected Glass** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/connected-glass) | [Source](https://github.com/SuperMartijn642/ConnectedGlass)
 <br>*Connected Glass adds new types of glass with connecting textures!*
 - **Controlling** (MIT): [Modrinth](https://modrinth.com/mod/controlling) | [Source](https://github.com/jaredlll08/Controlling)
@@ -98,6 +96,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*See farther without turning your game into a slide show*
 - **Drip Sounds** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/dripsounds) | [Source](https://github.com/PieKing1215/DripSounds-Fabric)
 <br>*Adds sounds for drip particles landing & settings for block particles*
+- **Durability Tooltip** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/durability-tooltip) | [Source](https://github.com/SuperMartijn642/DurabilityTooltip)
+<br>*Durability Tooltip shows you the durability of an item!*
 - **Dynamic FPS** (MIT): [Modrinth](https://modrinth.com/mod/dynamic-fps) | [Source](https://github.com/juliand665/Dynamic-FPS)
 <br>*Reduce resource usage while Minecraft is in the background, idle, or on battery.*
 - **Easier Sleeping** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/easier-sleeping) | [Source](https://github.com/GeheimagentNr1/EasierSleeping)
@@ -144,8 +144,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds fruits, jelly, juice, and fruit-based food in Farmer's Delight style*
 - **Fusion (Connected Textures)** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/fusion-connected-textures) | [Source](https://github.com/SuperMartijn642/Fusion)
 <br>*Fusion allows resource packs to use additional texture and model types such as connected textures!*
-- **GUI Clock** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/gui-clock) | [Source](https://github.com/Serilum/GUI-Clock)
-<br>*⏰ Shows the time/days played in the GUI/HUD with a clock in the inventory.*
 - **Game Menu Remove GFARB** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/gamemenuremovegfarb) | [Source](https://github.com/MORIMORI0317/GameMenuRemoveGFARB)
 <br>*Remove the "Give Feed Back" and "Report Bugs" buttons from the game menu.*
 - **Geophilic** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/geophilic) | [Source](https://github.com/everloste/Geophilic)
@@ -166,11 +164,13 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Speed up immediate mode rendering in Minecraft*
 - **Immersive Engineering** ([LicenseRef-Custom](https://github.com/BluSunrize/ImmersiveEngineering/blob/1.16.5/LICENSE)): [Modrinth](https://modrinth.com/mod/immersiveengineering) | [Source](https://github.com/BluSunrize/ImmersiveEngineering)
 <br>*Retrofuturism, industry and multiblocks!*
+- **Immersive Overlays** (MIT): [Modrinth](https://modrinth.com/mod/immersive-overlays) | [Source](https://github.com/cassiancc/Immersive-Overlays)
+<br>*Overlays useful info like coordinates and the time onto your HUD - as long as you have the right item in your inventory (or bundle!)*
 - **Immersive Snow** (MIT): [Modrinth](https://modrinth.com/mod/immersive-snow) | [Source](https://github.com/Straywave/ImmersiveSnow)
 <br>*Small tweaks that add to Minecraft's Winter theme. Intended for use with a season mod.*
 - **Incendium** ([LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)): [Modrinth](https://modrinth.com/mod/incendium) | [Source](https://github.com/Stardust-Labs-MC/Incendium)
 <br>*A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.*
-- **Incendium Biomes Only** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/ibo) | [Source](https://codeberg.org/naomi/ibo)
+- **Incendium Biomes Only** ([LicenseRef-Dual-License](https://codeberg.org/naomi/ibo#licensing)): [Modrinth](https://modrinth.com/mod/ibo) | [Source](https://codeberg.org/naomi/ibo)
 <br>*Removes structures, items, mobs and bosses from Incendium, leaving only the biomes and terrain.*
 - **Item Obliterator** ([LicenseRef-AGNYA-License](https://github.com/nvb-uy/AGNYA-License/blob/main/LICENSE.md)): [Modrinth](https://modrinth.com/mod/item-obliterator) | [Source](https://github.com/nvb-uy/item_obliterator)
 <br>*Modpack utility mod that allows to disable items and/or its interactions. Also removes them from creative tabs, recipes, trades, and JEI/REI/EMI.*
