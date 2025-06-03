@@ -361,7 +361,7 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 - **TConJEI** (MIT): [Modrinth](https://modrinth.com/mod/tconjei) | [Source](https://github.com/paypur/TConJEI)
 <br>*A JEI addon for Tinker's Construct 3*
 - **Tectonic** (MIT): [Modrinth](https://modrinth.com/mod/tectonic) | [Source](https://github.com/Apollounknowndev/tectonic)
-<br>*Massively altered world generation with mountain ranges, underground rivers and more!*
+<br>*Terrain shaping brought to new heights, grander and more varied than ever before!*
 - **Terralith** ([LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)): [Modrinth](https://modrinth.com/mod/terralith) | [Source](https://github.com/Stardust-Labs-MC/Terralith)
 <br>*Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain.*
 - **Terraphilic** (CC0-1.0): [Modrinth](https://modrinth.com/mod/terraphilic)
