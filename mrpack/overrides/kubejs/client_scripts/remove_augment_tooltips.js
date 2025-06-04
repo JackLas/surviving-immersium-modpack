@@ -1,37 +1,33 @@
-const itemsWithAugment = {
-    'mysticalagriculture:inferium_sword': 2, 
-    'mysticalagriculture:inferium_shears': 2, 
-    'mysticalagriculture:inferium_fishing_rod': 2, 
-    'mysticalagriculture:prudentium_shears': 2, 
-    'mysticalagriculture:prudentium_sword': 2, 
-    'mysticalagriculture:prudentium_fishing_rod': 2, 
-    'mysticalagriculture:tertium_sword': 2, 
-    'mysticalagriculture:tertium_shears': 2, 
-    'mysticalagriculture:tertium_fishing_rod': 2, 
-    'mysticalagriculture:imperium_shears': 2, 
-    'mysticalagriculture:imperium_sword': 2, 
-    'mysticalagriculture:imperium_fishing_rod': 2, 
-    'mysticalagriculture:supremium_shears': 2, 
-    'mysticalagriculture:supremium_fishing_rod': 2, 
-    'mysticalagriculture:supremium_sword': 2, 
-    'mysticalagriculture:awakened_supremium_fishing_rod': 3, 
-    'mysticalagriculture:awakened_supremium_sword': 3, 
-    'mysticalagriculture:awakened_supremium_shears': 3
-};
+const removePlaceholder = "KUBEJS-REMOVE";
+const itemsWithAugment = [
+    "mysticalagriculture:inferium_sword",
+    "mysticalagriculture:inferium_shears",
+    "mysticalagriculture:inferium_fishing_rod",
+    "mysticalagriculture:prudentium_sword",
+    "mysticalagriculture:prudentium_shears",
+    "mysticalagriculture:prudentium_fishing_rod",
+    "mysticalagriculture:tertium_sword",
+    "mysticalagriculture:tertium_shears",
+    "mysticalagriculture:tertium_fishing_rod",
+    "mysticalagriculture:imperium_sword",
+    "mysticalagriculture:imperium_shears",
+    "mysticalagriculture:imperium_fishing_rod",
+    "mysticalagriculture:supremium_sword",
+    "mysticalagriculture:supremium_shears",
+    "mysticalagriculture:supremium_fishing_rod",
+    "mysticalagriculture:awakened_supremium_sword",
+    "mysticalagriculture:awakened_supremium_shears",
+    "mysticalagriculture:awakened_supremium_fishing_rod"
+];
 
 ItemEvents.tooltip(event => {
-    for (const [itemId, removeCount] of Object.entries(itemsWithAugment)) {
+    for (const itemId of itemsWithAugment) {
         event.addAdvanced(itemId, (item, advanced, text) => {
-            // Default tooltip:
-            // <Item name>
-            // Tier: X
-            // Augment
-            // - Empty
-            // - Empty
-            // 
-            // other info...
-            for (let i = 0; i < removeCount; i++) {
-                text.remove(2);
+            // scan backwards so removal doesn’t skip indices
+            for (let i = text.size() - 1; i >= 0; i--) {
+                if (text.get(i).getString().contains(removePlaceholder)) {
+                    text.remove(i);
+                }
             }
         });
     }
