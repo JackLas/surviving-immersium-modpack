@@ -206,6 +206,9 @@
     'minecraft:diamond_axe',
     'minecraft:netherite_axe',
     'immersiveengineering:axe_steel',
+    'ae2:certus_quartz_axe',
+    'ae2:nether_quartz_axe',
+    'ae2:fluix_axe',
 
     'minecraft:wooden_hoe',
     'minecraft:stone_hoe',
@@ -228,6 +231,17 @@
     'ae2:nether_quartz_shovel',
     'ae2:fluix_shovel',
     'immersiveengineering:shovel_steel',
+
+    'minecraft:wooden_sword',
+    'minecraft:stone_sword',
+    'minecraft:iron_sword',
+    'minecraft:golden_sword',
+    'minecraft:diamond_sword',
+    'minecraft:netherite_sword',
+    'ae2:certus_quartz_sword',
+    'ae2:nether_quartz_sword',
+    'ae2:fluix_sword',
+    'immersiveengineering:sword_steel',
 
     'minecraft:iron_helmet',
     'minecraft:iron_chestplate',
