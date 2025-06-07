@@ -17,10 +17,10 @@
 	anchoring = "UPPER_RIGHT"
 	#An integer which will offset the mini-map horizontally
 	#Range: -4000 ~ 4000
-	horizontal_offset = 0
+	horizontal_offset = 4
 	#An integer which will offset the mini-map vertically
 	#Range: -4000 ~ 4000
-	vertical_offset = 0
+	vertical_offset = 4
 	#The number of pixels to shift vertically when there's an active effect
 	#Range: -4000 ~ 4000
 	active_potion_effects_vertical_offset = 0
