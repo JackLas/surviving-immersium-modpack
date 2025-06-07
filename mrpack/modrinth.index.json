@@ -36,6 +36,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/lOOpEntO/versions/Y42wjyly/AttributeFix-Forge-1.20.1-21.0.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 19471,
+            "hashes": {
+                "sha1": "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa",
+                "sha512": "a4f1431c3abb23d97ae6d742721fcc2d1d97b6f9e72e492cc13f2471b608614b8cbbde513fa0a6f8d002f27168130850bf358d405cd2120c979927d7e88fe3d3"
+            },
+            "path": "mods/AttributeFix-Forge-1.20.1-21.0.4.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/g96Z4WVZ/versions/5kAwHDZz/BadOptimizations-2.2.2-1.20.1.jar"
             ],
             "env": {
@@ -186,18 +201,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/JtSnhtNJ/versions/emlcyGrq/Delightful-1.20.1-3.7.1.jar"
+                "https://cdn.modrinth.com/data/JtSnhtNJ/versions/qq76Sfi9/Delightful-1.20.1-3.7.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1138723,
+            "fileSize": 1264222,
             "hashes": {
-                "sha1": "a0ae11fff0cd20d626bc7ad7fd44029f3d17523a",
-                "sha512": "9955e02820e8274c91654ef28d91b58f9b10b72e405ff46eb99796805c0969c0d0d76d9b38dd4678947e8eba11303c5d4be5b1b1aab2bf3016843d52c770a4f8"
+                "sha1": "8c93621a79fc43cab0f5f4efa5cafadb48cc6f09",
+                "sha512": "ee3df84e712d604e931a2923e931a57171d93f516c5d0bfb1f200f471aa44ec18bbedfeafef9ce1825f6632ece454dc0bf7f0fd51f7536a90fad590d10a66863"
             },
-            "path": "mods/Delightful-1.20.1-3.7.1.jar"
+            "path": "mods/Delightful-1.20.1-3.7.2.jar"
         },
         {
             "downloads": [
@@ -636,6 +651,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/jorDmSKv/versions/LrsjuUiA/MagnumTorch-v8.0.2-1.20.1-Forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 90965,
+            "hashes": {
+                "sha1": "bc5bf29c5a27ad90619a0ae6f67d9004765d4c25",
+                "sha512": "2434d5c691e041fc3e3e56238710aecbfc6e9266019f367d7d0716c7328a8125194e7c19d595fe2254718ad89dd4a3936e12137740a6c2ba046e1bb29380fef5"
+            },
+            "path": "mods/MagnumTorch-v8.0.2-1.20.1-Forge.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/Cg6Uc79H/versions/tYI6Cs95/Mantle-1.20.1-1.11.55.jar"
             ],
             "env": {
@@ -816,6 +846,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/XD7XOrAF/versions/w90XIUWB/OverflowingBars-v8.0.1-1.20.1-Forge.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 73689,
+            "hashes": {
+                "sha1": "047ac47549ae0a21b05f70d74bcf436ee0221eef",
+                "sha512": "4854cac7069e1140dd9b567e04414c0acc865f66433b7c8cb79269e4c1a20c38f30b2d393e9920ff7f9c732fdf01408a22b07f5d1532756623072470dfc24248"
+            },
+            "path": "mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1-84.1-FORGE.jar"
             ],
             "env": {
@@ -936,21 +981,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/eHGYGKJz/versions/kMmavFVY/SoLOnion_FORGE_v1.4.5_mc1.20.1.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 285625,
-            "hashes": {
-                "sha1": "1c8a22b8e1da93feb9a1c0e5a2c57dc805db9df7",
-                "sha512": "86164203038019a8bd164736eb4014462c9f63ef0082f9db55c83c06fbd200015dbfd98604a8b8b532201244eb21b8f672e601a6ec18f9629996de925f47d19f"
-            },
-            "path": "mods/SoLOnion_FORGE_v1.4.5_mc1.20.1.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/ZouiUX7t/versions/6vE02T1J/Sounds-2.2.1%2B1.20.1%2Bforge.jar"
             ],
             "env": {
@@ -1026,18 +1056,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/jNa5P8yc/versions/ZGda56rS/TCIntegrations-1.20.1-2.0.25.8.jar"
+                "https://cdn.modrinth.com/data/jNa5P8yc/versions/4hsJrBUo/TCIntegrations-1.20.1-2.0.25.9.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2001828,
+            "fileSize": 2001316,
             "hashes": {
-                "sha1": "49324081fd15de7c1ffe6e396645d55598ab76fc",
-                "sha512": "dc1c0cd0f7ad1ac8c6d0d96ed1e878cbdddba716106f9deedc10705feea6e238db95fb59d3c1d2c4929145eadb2df6839d016eee25afcabb13e5d982d2f38637"
+                "sha1": "65a1806dca5cc75cf0773bca6c2efb18e62d79f1",
+                "sha512": "d1b585768e2a90bdb14bf4d9c50d0888fedca2a7ac2fb376953f8183af23d904322df2cbdbe31f3ec62c1f7809bce3c8653629bd00a6ead7cdd89becbd87dee9"
             },
-            "path": "mods/TCIntegrations-1.20.1-2.0.25.8.jar"
+            "path": "mods/TCIntegrations-1.20.1-2.0.25.9.jar"
         },
         {
             "downloads": [
@@ -1506,18 +1536,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/yD9qW65f/versions/ZFXV7x3Y/chloride-FORGE-mc1.20.1-v1.7.1.jar"
+                "https://cdn.modrinth.com/data/yD9qW65f/versions/mhoiaJiH/chloride-FORGE-mc1.20.1-v1.7.2.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 943700,
+            "fileSize": 944500,
             "hashes": {
-                "sha1": "17cc4f47d3603fe76d3c90aed993803a0603e77f",
-                "sha512": "703446b1a1a8a3dbbb896bdc39bb7864fa4bb6685e071116323691d5238662783111872d1ea483aef98a56b09cef44f0c2ebd62740b88231dd4fa6dcf1ba5a16"
+                "sha1": "d04b7bcd14a210a670877ff3f425fbf760dadda3",
+                "sha512": "8887bde8e39db0a65492f4232a959a5821b6fc56960161e9b78b34e6bf04087f00b766cd1741c0a89c4724953bed62b8dc6352dc14a7166c7da22f011408c8e6"
             },
-            "path": "mods/chloride-FORGE-mc1.20.1-v1.7.1.jar"
+            "path": "mods/chloride-FORGE-mc1.20.1-v1.7.2.jar"
         },
         {
             "downloads": [
@@ -1776,18 +1806,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/eiktJyw1/versions/aRv9f9Xq/everycomp-1.20-2.8.6-forge.jar"
+                "https://cdn.modrinth.com/data/eiktJyw1/versions/3GrTn4ZO/everycomp-1.20-2.8.7-forge.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2698315,
+            "fileSize": 2719301,
             "hashes": {
-                "sha1": "61b15ef11b9823bb658a51d089e97b6ac8e2ed8a",
-                "sha512": "097cca950227a94971ca0053bf5382f8b130ef9f8cfab33aeea2df3c9380bb1c0aa5d2498c87a8f326ba1e826a85c52727ea52008a9fdcc7d82af6cddaf2e258"
+                "sha1": "b7316d6dcd922333cf2c2083d9c2a82da0acf64e",
+                "sha512": "1d51b9343baa8014c6979e3d65cdc78cc231f2989e3768130393a1caba5118cd0f867dbb2f7a44e1dd763a154f0b70ce7f16925182bd1a210e8699a5517439a7"
             },
-            "path": "mods/everycomp-1.20-2.8.6-forge.jar"
+            "path": "mods/everycomp-1.20-2.8.7-forge.jar"
         },
         {
             "downloads": [
@@ -2766,6 +2796,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/u1aDdOsQ/versions/KI7f8OkE/solapplepie-1.20.1-2.3.0.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 189826,
+            "hashes": {
+                "sha1": "db306008033065fc4ca97f66d38183206a55d458",
+                "sha512": "8da054a5f7578841413f90d64dbbe715c712c5042ea796fff52a9c754192cdcf59480900a368d86a3d99a1f68e7ed0b36b52e092dbedff3fd709bfa539b23aaf"
+            },
+            "path": "mods/solapplepie-1.20.1-2.3.0.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/TyCTlI4b/versions/Uoqd7he1/sophisticatedbackpacks-1.20.1-3.23.19.1251.jar"
             ],
             "env": {
@@ -2856,18 +2901,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/uYwn8IP5/versions/pGRC7dee/stonezone-1.20-2.8.7.jar"
+                "https://cdn.modrinth.com/data/uYwn8IP5/versions/sZDMgGHK/stonezone-1.20-2.8.8.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 937766,
+            "fileSize": 939987,
             "hashes": {
-                "sha1": "976e6dfe4f1d727b13b22027c58bc9c723a54b28",
-                "sha512": "4990944cc10942aedc9d8bbe8fabb0b887807dff880145931dedcd4d99ca2836ff74d14730922968107dce5069fe58d0e05b60a29a317b65efdc2d7a72de82a1"
+                "sha1": "cee4e63baf5e7dbcdf594a500a7d93e54210c124",
+                "sha512": "f7e14f76148c9d7647a4a2407655c105cf5b1023e7053830f28da26682a254648a346098e00a1c2e596016d7f5cb40b6c5b002e88df3b871c648ef3cad8f1ebe"
             },
-            "path": "mods/stonezone-1.20-2.8.7.jar"
+            "path": "mods/stonezone-1.20-2.8.8.jar"
         },
         {
             "downloads": [
@@ -3098,5 +3143,5 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "Surviving Immersium",
-    "versionId": "0.1.2-alpha"
+    "versionId": "0.2.0-alpha"
 }
