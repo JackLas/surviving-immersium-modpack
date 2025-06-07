@@ -385,6 +385,10 @@
 			shale_bricks = true
 			myalite_bricks = true
 
+		[types.cut_block_type.delightful]
+			glow_jam_cookie_tile = true
+			source_berry_cookie_tile = true
+
 	[types.wood_type]
 
 		[types.wood_type.quark]
