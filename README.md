@@ -28,6 +28,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Ae2wtlib is an addon for ae2 that adds wireless versions of several Terminals*
 - **Architectury API** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/architectury-api) | [Source](https://github.com/architectury/architectury)
 <br>*An intermediary api aimed to ease developing multiplatform mods.*
+- **AttributeFix** (LGPL-2.1-only): [Modrinth](https://modrinth.com/mod/attributefix) | [Source](https://github.com/Darkhax-Minecraft/AttributeFix)
+<br>*Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!*
 - **BadOptimizations** (MIT): [Modrinth](https://modrinth.com/mod/badoptimizations) | [Source](https://github.com/ItsThosea/BadOpitmizations)
 <br>*Optimization mod that focuses on things other than rendering*
 - **Balm** ([LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions)): [Modrinth](https://modrinth.com/mod/balm) | [Source](https://github.com/TwelveIterationMods/Balm)
@@ -226,6 +228,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds lots of Windows, Mosaic Glass, Blinds, Shutters, Curtains and more...!*
 - **Macaws Stairs** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-stairs) | [Source](https://github.com/sketchmacaw/Macaws-Stairs)
 <br>*Adds new Vanilla styled Stairs, Handrails for Stairs and Balconies!*
+- **Magnum Torch** (MPL-2.0): [Modrinth](https://modrinth.com/mod/magnum-torch) | [Source](https://github.com/Fuzss/magnumtorch)
+<br>*Powerful torches to prevent mob spawns around your home in a large area.*
 - **Mantle** (MIT): [Modrinth](https://modrinth.com/mod/mantle) | [Source](https://github.com/SlimeKnights/Mantle)
 <br>*Base library required for SlimeKnights mods, including Tinkers' Construct, Natura, Inspirations, and Cermaics*
 - **Map Atlases [Forge]** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/map-atlases-forge) | [Source](https://github.com/MehVahdJukaar/mapatlases-neoforge)
@@ -280,6 +284,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Unofficial Fork of "Iris", made to work with FML*
 - **Odyssey Quests** (MIT): [Modrinth](https://modrinth.com/mod/odyssey-quests) | [Source](https://github.com/terrarium-earth/Heracles)
 <br>*A tree-style questing mod, allowing pack makers to make and include completable quests for their players*
+- **Overflowing Bars** (MPL-2.0): [Modrinth](https://modrinth.com/mod/overflowing-bars) | [Source](https://github.com/Fuzss/overflowingbars)
+<br>*Expand health, armor and armor toughness bars beyond vanilla. Nice and compact without confusing colors.*
 - **Packet Fixer** (MIT): [Modrinth](https://modrinth.com/mod/packet-fixer) | [Source](https://github.com/TonimatasDEV/PacketSizeDoublerForge)
 <br>*A simple mod to fix various problems with packets and nbt.*
 - **Patchouli** (CC-BY-NC-SA-3.0): [Modrinth](https://modrinth.com/mod/patchouli) | [Source](https://github.com/VazkiiMods/Patchouli/)
@@ -338,8 +344,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.*
 - **Sounds** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/sound) | [Source](https://github.com/IMB11/Sounds)
 <br>*Adds a wide range of new and improved sound effects to Minecraft, letting you customize everything from block interactions to UI events. Easily tweak or expand the sounds with resource packs and data generation for a fully personalized audio experience.*
-- **Spice of Life Onion** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/spice-of-life-onion) | [Source](https://github.com/CreativeMD/Spice-of-Life-Onion)
-<br>*A mod designed to encourage dietary variety!*
+- **Spice of Life: Apple Pie Edition** (LGPL-2.1-only): [Modrinth](https://modrinth.com/mod/spice-of-life-apple-pie-edition) | [Source](https://github.com/anthxnymc/Spice-of-Life-Apple-Pie/)
+<br>*Rewards players for cooking large and diverse meals.*
 - **Spyglass Improvements** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/spyglass-improvements) | [Source](https://github.com/juancarloscp52/spyglass-improvements)
 <br>*Spyglass Improvements is a mod that add various functionality and improvements to the vanilla minecraft spyglass.*
 - **Starlight (Forge)** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/starlight-forge) | [Source](https://github.com/PaperMC/Starlight)
