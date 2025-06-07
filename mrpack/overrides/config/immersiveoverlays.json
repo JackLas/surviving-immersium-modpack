@@ -1,6 +1,6 @@
 {
   "compass_enable": true,
-  "compass_vertical_position": 140,
+  "compass_vertical_position": 120,
   "compass_items": [
     "minecraft:compass",
     "minecraft:recovery_compass",
@@ -18,7 +18,7 @@
   "compass_y_colour": "Green",
   "compass_z_colour": "Blue",
   "clock_enable": true,
-  "clock_vertical_position": 140,
+  "clock_vertical_position": 120,
   "clock_items": [
     "minecraft:clock"
   ],
