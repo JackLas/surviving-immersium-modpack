@@ -1,0 +1,36 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "additives": [],
+    "energy": 102400,
+    "input": {
+        "tag": "forge:ores/lead"
+    },
+    "results": [
+        {
+            "base_ingredient": {
+                "tag": "forge:ingots/lead"
+            },
+            "count": 1
+        }
+    ],
+    "secondaries": [
+        {
+            "chance": 0.3,
+            "output": {
+                "tag": "forge:ingots/lead",
+                "count": 1
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:ingots/silver",
+                "count": 1
+            }
+        }
+    ],
+    "slag": {
+        "tag": "forge:slag"
+    },
+    "time": 200
+}

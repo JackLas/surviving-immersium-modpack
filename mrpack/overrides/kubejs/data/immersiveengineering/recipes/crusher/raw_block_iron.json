@@ -1,0 +1,22 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 54000,
+    "input": {
+        "tag": "forge:storage_blocks/raw_iron"
+    },
+    "result": {
+        "base_ingredient": {
+            "tag": "forge:dusts/iron"
+        },
+        "count": 13
+    },
+    "secondaries": [
+        {
+            "chance": 0.5,
+            "output": {
+                "tag": "forge:dusts/iron",
+                "count": 1
+            }
+        }
+    ]
+}

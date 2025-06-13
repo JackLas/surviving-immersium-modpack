@@ -1,0 +1,45 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "conditions": [
+        {
+            "type": "mysticalagriculture:crop_enabled",
+            "crop": "mysticalagriculture:sky_stone"
+        },
+        {
+            "type": "mysticalagriculture:crop_has_material",
+            "crop": "mysticalagriculture:sky_stone"
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mysticalagriculture:air_essence"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "mysticalagriculture:coal_essence"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "mysticalagriculture:stone_essence"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        },
+        {
+            "item": "mysticalagriculture:obsidian_essence"
+        },
+        {
+            "item": "mysticalagriculture:tertium_essence"
+        }
+    ],
+    "input": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+    },
+    "result": {
+        "item": "mysticalagriculture:sky_stone_seeds"
+    }
+}

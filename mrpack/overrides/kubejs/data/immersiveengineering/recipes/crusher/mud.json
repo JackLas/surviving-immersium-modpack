@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 1600,
+    "input": {
+        "item": "minecraft:mud"
+    },
+    "result": {
+        "item": "kubejs:mud_ball",
+        "count": 4
+    },
+    "secondaries": [
+    ]
+}

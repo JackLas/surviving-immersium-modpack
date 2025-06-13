@@ -1,0 +1,22 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 6000,
+    "input": {
+        "tag": "forge:raw_materials/copper"
+    },
+    "result": {
+        "base_ingredient": {
+            "tag": "forge:dusts/copper"
+        },
+        "count": 1
+    },
+    "secondaries": [
+        {
+            "chance": 0.5,
+            "output": {
+                "tag": "forge:dusts/copper",
+                "count": 1
+            }
+        }
+    ]
+}

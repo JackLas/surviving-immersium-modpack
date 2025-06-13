@@ -1,0 +1,29 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 6000,
+    "input": {
+        "tag": "forge:ores/lead"
+    },
+    "result": {
+        "base_ingredient": {
+            "tag": "forge:dusts/lead"
+        },
+        "count": 1
+    },
+    "secondaries": [
+        {
+            "chance": 0.5,
+            "output": {
+                "tag": "forge:dusts/lead",
+                "count": 1
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:dusts/silver",
+                "count": 1
+            }
+        }
+    ]
+}
