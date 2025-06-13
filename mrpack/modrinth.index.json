@@ -126,18 +126,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/uXhSmPjd/versions/jZs0ZjVy/ColdSweat-2.4-b03a.jar"
+                "https://cdn.modrinth.com/data/uXhSmPjd/versions/2p1sHusJ/ColdSweat-2.4-b03b.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2347720,
+            "fileSize": 2402540,
             "hashes": {
-                "sha1": "3f20720119dfe15ab82e9e8e3f8466dd6481dc51",
-                "sha512": "b0df4e842e90cfe5d0728d8ca111292da0d5cc0dec88f268759c12c24cf2b2575a0065454158ec5d2c4e0d762c0c2872153b0816c70d2fab21167de8811f54a8"
+                "sha1": "f22feec9d143d094b03be7e25fe98e3905b3f65b",
+                "sha512": "c2a07f82dd98be135f5c02fc7c665e484b1b86da35e2b40be3aee51933d8b7dc7000f70cc3f0beac7889add1b622779f4a661ebdc35be53a3cd676d1b6cf1b30"
             },
-            "path": "mods/ColdSweat-2.4-b03a.jar"
+            "path": "mods/ColdSweat-2.4-b03b.jar"
         },
         {
             "downloads": [
@@ -666,18 +666,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Cg6Uc79H/versions/tYI6Cs95/Mantle-1.20.1-1.11.55.jar"
+                "https://cdn.modrinth.com/data/Cg6Uc79H/versions/rGbPgYgU/Mantle-1.20.1-1.11.63.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1367149,
+            "fileSize": 1426740,
             "hashes": {
-                "sha1": "922a231cafa9f2af6db3542b9bc34073a0aa8fbc",
-                "sha512": "e97e1fa1379c9ef2ffd553d378753581a6e252961d2251150c7fc3d1328c1995030a752bf17ed844eedaa7ebb84327567cdf8c5e96b66b9d927f297ca84abaff"
+                "sha1": "385e5dcfc1dde311ea3285f9cb668108b5c557f4",
+                "sha512": "7102260784374c13e6c3ef677e67933892a74dd09c6520fe2cfd52dc98d1b098e15461586781dded1908de9c4529ff87ec227f5a69a1c109c783a957d7e6303d"
             },
-            "path": "mods/Mantle-1.20.1-1.11.55.jar"
+            "path": "mods/Mantle-1.20.1-1.11.63.jar"
         },
         {
             "downloads": [
@@ -1071,18 +1071,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/rxIIYO6c/versions/vUFOf3iH/TConstruct-1.20.1-3.10.0.67.jar"
+                "https://cdn.modrinth.com/data/rxIIYO6c/versions/GhTRZIQu/TConstruct-1.20.1-3.10.1.76.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 19396904,
+            "fileSize": 19529328,
             "hashes": {
-                "sha1": "346580994da79291439aea244ec003173fc009db",
-                "sha512": "87a58d798169f4bd3b877d97abb8101b5c03dae10b4fd55d7a02f1c4e321bd38b7e862657782fc6194ff4cda7f4c509f6760ba6563b0b3080d7893c33e17304e"
+                "sha1": "45e318ae152a09fc77c1dabef8c6446dfa1498cc",
+                "sha512": "8a702fdf5658458eff840d0f18692992e1f5b9c4c8f08619207a24dfb333f5a7d8934ef11a8bcb373def9615670a7d05880264de583fe9e5117b88f78999e458"
             },
-            "path": "mods/TConstruct-1.20.1-3.10.0.67.jar"
+            "path": "mods/TConstruct-1.20.1-3.10.1.76.jar"
         },
         {
             "downloads": [
@@ -1416,18 +1416,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/XxWD5pD3/versions/ACZsejkY/appliedenergistics2-forge-15.4.4.jar"
+                "https://cdn.modrinth.com/data/XxWD5pD3/versions/JK3sC1Xz/appliedenergistics2-forge-15.4.5.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 8413070,
+            "fileSize": 8413069,
             "hashes": {
-                "sha1": "8660d742d2f8d8b7bdadae76e84144587811e9d2",
-                "sha512": "11e6f8b5bce14a7f7b420105b3503bf2bc611330a7b691751a2584766efc8740bda3df75bfa312162c800df932f8c3416c60b87b75cc5f415191673fbe5ab8f8"
+                "sha1": "7ee55608d1625ec1fb22d60bd73aa31fe80cc896",
+                "sha512": "0722c33812bc0029713a810cf9aba5f64d42b6cc8fc911a1fd09216b8c3a92b60f7c365830e58e1269953485354c4a86a000df0a013bb70938dd1113a5fcfa27"
             },
-            "path": "mods/appliedenergistics2-forge-15.4.4.jar"
+            "path": "mods/appliedenergistics2-forge-15.4.5.jar"
         },
         {
             "downloads": [
@@ -1806,18 +1806,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/eiktJyw1/versions/3GrTn4ZO/everycomp-1.20-2.8.7-forge.jar"
+                "https://cdn.modrinth.com/data/eiktJyw1/versions/w8avvHid/everycomp-1.20-2.8.8-forge.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2719301,
+            "fileSize": 2720503,
             "hashes": {
-                "sha1": "b7316d6dcd922333cf2c2083d9c2a82da0acf64e",
-                "sha512": "1d51b9343baa8014c6979e3d65cdc78cc231f2989e3768130393a1caba5118cd0f867dbb2f7a44e1dd763a154f0b70ce7f16925182bd1a210e8699a5517439a7"
+                "sha1": "3bf82cee2fc002f1d81089bb451734a4430aaaf1",
+                "sha512": "05de2f7a8804c5c143bbc76ceb62ee82255a31ed5b0f1fd8fb38a8a9a46c7d6177d1d50c1e7226fcc56bef9bdf3378b7573386556b7fea8247e33edefcc7a7bd"
             },
-            "path": "mods/everycomp-1.20-2.8.7-forge.jar"
+            "path": "mods/everycomp-1.20-2.8.8-forge.jar"
         },
         {
             "downloads": [
@@ -1941,18 +1941,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/NRLPy2mk/versions/jqOOgDNV/globalpacks-forge-1.20.1-19.3.4.jar"
+                "https://cdn.modrinth.com/data/NRLPy2mk/versions/Kgn0YIHG/globalpacks-forge-1.20.1-19.3.5.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 23923,
+            "fileSize": 24932,
             "hashes": {
-                "sha1": "4825ca20bacc40ea95c244dad0131337f644994a",
-                "sha512": "4d57d62767bf8a5261b640ce2e37c72b75e0a7bd45fd9597799a2cc1806154f73ab5c308822d81333bb9aa4335044757369848400344e4f276ef6921485ebb83"
+                "sha1": "3de9fb8ace9994adf14616a43492704023b85870",
+                "sha512": "03f81e348ef380f202b3c86700a8498016154f2a8ac95532aa877cb1e28e92a4b413ff69bff43f478540a865a08cf38221f30e44ec6680a6a84121d10d030f1f"
             },
-            "path": "mods/globalpacks-forge-1.20.1-19.3.4.jar"
+            "path": "mods/globalpacks-forge-1.20.1-19.3.5.jar"
         },
         {
             "downloads": [
@@ -1986,18 +1986,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Ck4E7v7R/versions/UD2nQxJx/guideme-20.1.7.jar"
+                "https://cdn.modrinth.com/data/Ck4E7v7R/versions/Dhg3onO2/guideme-20.1.8.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 9401162,
+            "fileSize": 9401167,
             "hashes": {
-                "sha1": "fc039093c479b3632b1ab60ea503e79b76b686f9",
-                "sha512": "8e12ede30db086a3d30236783848f53fb984d413727cdb364bac487be8818d5c4a3696d4446db5d1dd83be62f347ceac6bcd7af9ccb27e09a160ea03c15e9dbb"
+                "sha1": "cc5e96b09949c5f1ad5d6aa5c45695f760715e95",
+                "sha512": "460b6995e8a1f8b44c3a6543cefb75a9040e4476f302cc5a110fc14a8fb969b7fe0ba886378524b89852df5b62b1309df71d9a5df3dcb95a4cbba39521bb7197"
             },
-            "path": "mods/guideme-20.1.7.jar"
+            "path": "mods/guideme-20.1.8.jar"
         },
         {
             "downloads": [
@@ -2016,18 +2016,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/gmUU3UdW/versions/HVoImkGB/ibo-2.1.1%2Bforge%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/gmUU3UdW/versions/V33qtoDb/ibo-3.0.0-forge-1.19.3.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 43814,
+            "fileSize": 42911,
             "hashes": {
-                "sha1": "8b6a21141197a4d2d7f1b7631e54e5453f079138",
-                "sha512": "868a010fc42f04514933925524c1e53e80635b02d37c31582cbfb4d321ffff8fb5ab9cf916c1e7288e3ba3d418d8736bf9119082bf62964f59581f2b19417030"
+                "sha1": "671891fdd858e9e31f7f0c86f79b91b4ed681904",
+                "sha512": "92af38fe7a658f14a465759397e165568c99c6203046000f23bdaecd22093643f7046ef7d0b9380a71c2d2117a7fcb5af9b489edf9095643f1743d2131db765e"
             },
-            "path": "mods/ibo-2.1.1+forge+1.19.3.jar"
+            "path": "mods/ibo-3.0.0-forge-1.19.3.jar"
         },
         {
             "downloads": [
@@ -2886,21 +2886,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 110583,
-            "hashes": {
-                "sha1": "a915880c7834a0b0f9f300f0e3053deaa9a3205a",
-                "sha512": "cc89c6b2dd0db709586028c7732a57a3e6184f19cc2b98b25964c720c3ab434031e62de23e0dab022575d637b5e4a34b5813164d32ec356d56588da400e7d026"
-            },
-            "path": "mods/starlight-1.1.2+forge.1cda73c.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/uYwn8IP5/versions/sZDMgGHK/stonezone-1.20-2.8.8.jar"
             ],
             "env": {
@@ -3143,5 +3128,5 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "Surviving Immersium",
-    "versionId": "0.2.0-alpha"
+    "versionId": "0.3.0-alpha"
 }
