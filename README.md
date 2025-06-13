@@ -348,8 +348,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Rewards players for cooking large and diverse meals.*
 - **Spyglass Improvements** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/spyglass-improvements) | [Source](https://github.com/juancarloscp52/spyglass-improvements)
 <br>*Spyglass Improvements is a mod that add various functionality and improvements to the vanilla minecraft spyglass.*
-- **Starlight (Forge)** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/starlight-forge) | [Source](https://github.com/PaperMC/Starlight)
-<br>*Rewrites the light engine to fix lighting performance and lighting errors*
 - **Stoneworks** (MPL-2.0): [Modrinth](https://modrinth.com/mod/stoneworks) | [Source](https://github.com/Fuzss/stoneworks)
 <br>*Vanilla stone types in plenty of variations for all your building needs.*
 - **Storage Delight** ([MIT](https://github.com/axperty/storagedelight-forge/blob/master/LICENSE)): [Modrinth](https://modrinth.com/mod/storage-delight) | [Source](https://github.com/axperty/storagedelight)
