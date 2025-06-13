@@ -1,0 +1,20 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 6000,
+    "input": {
+        "tag": "forge:gems/quartz"
+    },
+    "result": {
+        "item": "minecraft:sand",
+        "count": 1
+    },
+    "secondaries": [
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:dusts/sulfur",
+                "count": 1
+            }
+        }
+    ]
+}

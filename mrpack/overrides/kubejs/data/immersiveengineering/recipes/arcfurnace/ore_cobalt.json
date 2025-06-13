@@ -1,0 +1,52 @@
+{
+    "type": "immersiveengineering:arc_furnace",
+    "additives": [],
+    "conditions": [
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/cobalt"
+            }
+        },
+        {
+            "type": "forge:not",
+            "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ores/cobalt"
+            }
+        }
+    ],
+    "energy": 102400,
+    "input": {
+        "tag": "forge:ores/cobalt"
+    },
+    "results": [
+        {
+            "base_ingredient": {
+                "tag": "forge:ingots/cobalt"
+            },
+            "count": 1
+        }
+    ],
+    "secondaries": [
+        {
+            "chance": 0.3,
+            "output": {
+                "tag": "forge:ingots/cobalt",
+                "count": 1
+            }
+        },
+        {
+            "chance": 0.1,
+            "output": {
+                "tag": "forge:ingots/gold",
+                "count": 1
+            }
+        }
+    ],
+    "slag": {
+        "tag": "forge:slag"
+    },
+    "time": 200
+}
