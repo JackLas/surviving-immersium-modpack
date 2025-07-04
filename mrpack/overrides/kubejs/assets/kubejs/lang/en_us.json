@@ -1,4 +1,14 @@
 {
     "item.kubejs.dust_cobalt": "Cobalt Grit",
-    "item.kubejs.mud_ball": "Mud Ball"
+    "item.kubejs.dust_amethyst": "Amethyst Dust",
+    "item.kubejs.mud_ball": "Mud Ball",
+    "item.kubejs.warp_stone": "Warp Stone",
+
+    "tooltip.kubejs.waystones.warp_stone": "Destination point for teleportation",
+    "tooltip.kubejs.waystones.warp_scroll": "Teleports to any activated waystone",
+    "tooltip.kubejs.waystones.bound_scroll1": "Should be bounded to a waystone before use",
+    "tooltip.kubejs.waystones.bound_scroll2": "Teleports to the bounded waystone",
+    "tooltip.kubejs.waystones.return_scroll": "Teleports to the nearest activated waystone",
+    
+    "tooltip.kubejs.aka_shovel": "Also known as a shovel"
 }

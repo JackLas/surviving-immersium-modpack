@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 6000,
+    "input": {
+        "tag": "forge:ender_pearls"
+    },
+    "result": {
+        "tag": "forge:dusts/ender_pearl",
+        "count": 1
+    },
+    "secondaries": [
+    ]
+}
