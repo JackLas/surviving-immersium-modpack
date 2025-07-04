@@ -20,6 +20,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*#listentonature*
 - **Annoying Stuff Remover** (MPL-2.0): [Modrinth](https://modrinth.com/mod/annoying-stuff-remover) | [Source](https://github.com/ctrlaltmilk/AnnoyingStuffRemover)
 <br>*Removes annoying stuff from Minecraft.*
+- **Another Furniture** ([LicenseRef-Custom](https://github.com/starfish-studios/AnotherFurniture/blob/1.19/LICENSE)): [Modrinth](https://modrinth.com/mod/another-furniture) | [Source](https://github.com/starfish-studios/AnotherFurniture)
+<br>*Vanilla-styled Minecraft furniture mod.*
 - **AppleSkin** (Unlicense): [Modrinth](https://modrinth.com/mod/appleskin) | [Source](https://github.com/squeek502/AppleSkin)
 <br>*Food/hunger-related HUD improvements*
 - **Applied Energistics 2** ([LicenseRef-Multiple](https://github.com/AppliedEnergistics/Applied-Energistics-2#license)): [Modrinth](https://modrinth.com/mod/ae2) | [Source](https://github.com/AppliedEnergistics/Applied-Energistics-2)
@@ -38,6 +40,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds lots of vanilla-styled ways to spice up your builds.*
 - **Better Lily Pads** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/better-lily-pads) | [Source](https://github.com/MehVahdJukaar/betterlily-multi)
 <br>*Allows placing torches, candles and any other blocks on to lilypads*
+- **Blueprint** ([LicenseRef-Abnormals-License](https://github.com/team-abnormals/blueprint/blob/1.20.x/LICENSE.txt)): [Modrinth](https://modrinth.com/mod/blueprint) | [Source](https://github.com/team-abnormals/blueprint)
+<br>*Library that implements the framework of all Abnormals mods!*
 - **Brewin' And Chewin'** (MIT): [Modrinth](https://modrinth.com/mod/brewin-and-chewin) | [Source](https://github.com/MerchantCalico/BrewinAndChewin/)
 <br>*Fermenting addon for Farmer's Delight.*
 - **CERBON's API** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/cerbons-api) | [Source](https://github.com/CERBON-MODS/CERBONs-API)
@@ -80,8 +84,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A flexible and expandable accessory/equipment API for users and developers.*
 - **Curious Lanterns** (LGPL-3.0-or-later): [Modrinth](https://modrinth.com/mod/curious-lanterns) | [Source](https://github.com/psilocke/CuriousLanterns)
 <br>*Adds a Hip Curio slot for supported lanterns! Dynamic Lighting requires your choice of dynamic lighting mod.*
-- **Cycle Paintings** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/cycle-paintings) | [Source](https://github.com/Serilum/Cycle-Paintings)
-<br>*🖼️ Easily cycle through placed paintings by right-clicking them with another painting in hand.*
 - **Delightful** (MIT): [Modrinth](https://modrinth.com/mod/delightful)
 <br>*Configurable Farmer's Delight addon with compat features and immersive new foods.*
 - **Delightful Burgers** (MIT): [Modrinth](https://modrinth.com/mod/delightful-burgers) | [Source](https://github.com/luhcartimods/DelightfulBurgers)
@@ -94,8 +96,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*The missing diagonal blocks are here! After all these years. Finally, you have them all.*
 - **Diagonal Windows** (MPL-2.0): [Modrinth](https://modrinth.com/mod/diagonal-windows) | [Source](https://github.com/Fuzss/diagonalwindows)
 <br>*Now windows are connecting diagonally, too?! This is getting out of hand!*
-- **Distant Horizons** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/distanthorizons) | [Source](https://gitlab.com/distant-horizons-team/distant-horizons)
-<br>*See farther without turning your game into a slide show*
 - **Drip Sounds** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/dripsounds) | [Source](https://github.com/PieKing1215/DripSounds-Fabric)
 <br>*Adds sounds for drip particles landing & settings for block particles*
 - **Durability Tooltip** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/durability-tooltip) | [Source](https://github.com/SuperMartijn642/DurabilityTooltip)
@@ -146,6 +146,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds fruits, jelly, juice, and fruit-based food in Farmer's Delight style*
 - **Fusion (Connected Textures)** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/fusion-connected-textures) | [Source](https://github.com/SuperMartijn642/Fusion)
 <br>*Fusion allows resource packs to use additional texture and model types such as connected textures!*
+- **Gallery** ([LicenseRef-Abnormals-License](https://github.com/team-abnormals/gallery/blob/1.20.x/LICENSE.txt)): [Modrinth](https://modrinth.com/mod/gallery) | [Source](https://github.com/team-abnormals/gallery)
+<br>*Adds icons for all painting variants, a painting selector, and some more painting tweaks!*
 - **Game Menu Remove GFARB** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/gamemenuremovegfarb) | [Source](https://github.com/MORIMORI0317/GameMenuRemoveGFARB)
 <br>*Remove the "Give Feed Back" and "Report Bugs" buttons from the game menu.*
 - **Geophilic** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/geophilic) | [Source](https://github.com/everloste/Geophilic)
@@ -160,6 +162,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*This little mod allows you to directly equip your Curios items to the respective slots*
 - **GuideME** ([LicenseRef-Multiple-OSS-Licenses](https://github.com/AppliedEnergistics/GuideME/blob/main/LICENSE.MD)): [Modrinth](https://modrinth.com/mod/guideme) | [Source](https://github.com/AppliedEnergistics/GuideME/)
 <br>*A guidebook toolkit for mods and modpack makers alike with comfortable markdown formatting, and live 3d scenes!*
+- **Hearth & Home** ([LicenseRef-Starfish-Studios-Mod-License](https://github.com/starfish-studios/Naturalist/blob/master/LICENSE)): [Modrinth](https://modrinth.com/mod/hearth-and-home)
+<br>*Adds a wide range of new building blocks, adding a touch of warmth and comfort to your world!*
 - **Hide Experimental Warning** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/hide-experimental-warning) | [Source](https://github.com/Serilum/Hide-Experimental-Warning)
 <br>*❌ Hides the Experimental Settings Warning when trying to create or load a modded world.*
 - **ImmediatelyFast** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/immediatelyfast) | [Source](https://github.com/RaphiMC/ImmediatelyFast)
@@ -168,8 +172,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Retrofuturism, industry and multiblocks!*
 - **Immersive Overlays** (MIT): [Modrinth](https://modrinth.com/mod/immersive-overlays) | [Source](https://github.com/cassiancc/Immersive-Overlays)
 <br>*Overlays useful info like coordinates and the time onto your HUD - as long as you have the right item in your inventory (or bundle!)*
-- **Immersive Snow** (MIT): [Modrinth](https://modrinth.com/mod/immersive-snow) | [Source](https://github.com/Straywave/ImmersiveSnow)
-<br>*Small tweaks that add to Minecraft's Winter theme. Intended for use with a season mod.*
 - **Incendium** ([LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)): [Modrinth](https://modrinth.com/mod/incendium) | [Source](https://github.com/Stardust-Labs-MC/Incendium)
 <br>*A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.*
 - **Incendium Biomes Only** ([LicenseRef-Dual-License](https://codeberg.org/naomi/ibo#licensing)): [Modrinth](https://modrinth.com/mod/ibo) | [Source](https://codeberg.org/naomi/ibo)
@@ -210,24 +212,18 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds vanilla doors with every wood color and new unique doors! Such as western, garage, shoji and more...!*
 - **Macaw's Fences and Walls** (MIT): [Modrinth](https://modrinth.com/mod/macaws-fences-and-walls) | [Source](https://github.com/sketchmacaw/Fences)
 <br>*Adds new vanilla styled fences, walls and gates!*
-- **Macaw's Furniture** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-furniture)
-<br>*Decorate your world with wardrobes, drawers, chairs, desks, tables and more...!*
 - **Macaw's Holidays** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-holidays)
 <br>*Adds Christmas & Halloween decorations, Christmas Tree, Lights, Garland, Candy canes...*
 - **Macaw's Lights and Lamps** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-lights-and-lamps)
 <br>*Adds vanilla styled lamps, torches, street lamps, paper lamps, wall lamps, slabs... Make your world brighter!*
 - **Macaw's Paintings** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-paintings) | [Source](https://github.com/sketchmacaw/Paintings)
 <br>*Adds custom drawn paintings to fit in your world!*
-- **Macaw's Paths and Pavings** (MIT): [Modrinth](https://modrinth.com/mod/macaws-paths-and-pavings) | [Source](https://github.com/sketchmacaw/Paths-Pavings)
-<br>*Adds vanila styled paths and pavings!*
-- **Macaw's Roofs** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-roofs)
-<br>*Build roofs with actual roofs instead of stairs!*
+- **Macaw's Stairs** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-stairs) | [Source](https://github.com/sketchmacaw/Macaws-Stairs)
+<br>*Adds new Vanilla styled Stairs, Handrails for Stairs and Balconies!*
 - **Macaw's Trapdoors** (MIT): [Modrinth](https://modrinth.com/mod/macaws-trapdoors) | [Source](https://github.com/sketchmacaw/Trapdoors)
 <br>*Adds vanila trapdoors in every plank variation, and some new trapdoors too!*
 - **Macaw's Windows** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-windows)
 <br>*Adds lots of Windows, Mosaic Glass, Blinds, Shutters, Curtains and more...!*
-- **Macaws Stairs** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-stairs) | [Source](https://github.com/sketchmacaw/Macaws-Stairs)
-<br>*Adds new Vanilla styled Stairs, Handrails for Stairs and Balconies!*
 - **Magnum Torch** (MPL-2.0): [Modrinth](https://modrinth.com/mod/magnum-torch) | [Source](https://github.com/Fuzss/magnumtorch)
 <br>*Powerful torches to prevent mob spawns around your home in a large area.*
 - **Mantle** (MIT): [Modrinth](https://modrinth.com/mod/mantle) | [Source](https://github.com/SlimeKnights/Mantle)
@@ -270,14 +266,10 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A spicy expansion bringing the nether to Farmer's Delight!*
 - **NetherPortalFix** ([LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions)): [Modrinth](https://modrinth.com/mod/netherportalfix) | [Source](https://github.com/TwelveIterationMods/NetherPortalFix)
 <br>*Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer.*
-- **No Chat Reports** (WTFPL): [Modrinth](https://modrinth.com/mod/no-chat-reports) | [Source](https://github.com/Aizistral-Studios/No-Chat-Reports)
-<br>*Makes chat unreportable (where possible)*
 - **Noisium** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/noisium) | [Source](https://github.com/Steveplays28/noisium)
 <br>*Optimises worldgen performance for a better gameplay experience.*
 - **Not Enough Recipe Book [NERB]** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/notenoughrecipebook) | [Source](https://github.com/SSKirillSS/nerb)
 <br>*Completely removes recipe book from the game, optimizing player data.*
-- **Nullscape** ([LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)): [Modrinth](https://modrinth.com/mod/nullscape) | [Source](https://github.com/Stardust-Labs-MC/Nullscape)
-<br>*Transforms the boring Vanilla end into an alien dimension with the most surreal terrain imaginable. Topped with a couple of new biomes to add to the experience, whilst keeping the end desolate.*
 - **OctoLib** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/octo-lib) | [Source](https://github.com/Octo-Studios/octo-lib)
 <br>*Collection of shared code for OctoStudios' mods*
 - **Oculus** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/oculus) | [Source](https://github.com/Asek3/Oculus)
@@ -328,6 +320,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*🖼️ Adds basic functionality to edit the style and buttons of Minecraft's main menu, change the window title and set a new icon.*
 - **Smooth Boot (Reloaded)** (MIT): [Modrinth](https://modrinth.com/mod/smooth-boot-reloaded) | [Source](https://github.com/AbdElAziz333/SmoothBoot-Reloaded)
 <br>*Tweaks for Minecraft CPU scheduling and unofficial fork of Smooth Boot mod for Minecraft Forge 1.18.2+*
+- **Snow Under Trees** (MIT): [Modrinth](https://modrinth.com/mod/snow-under-trees) | [Source](https://github.com/bl4ckscor3/SnowUnderTrees)
+<br>*Adds snow under trees in snowy biomes*
 - **Snow! Real Magic! ⛄** (MIT): [Modrinth](https://modrinth.com/mod/snow-real-magic) | [Source](https://github.com/Snownee/SnowRealMagic)
 <br>*Not a magic mod. · Snow Gravity & Accumulation · Snow-covered blocks · Tweak snow behaviors*
 - **Sodium Dynamic Lights** (MIT): [Modrinth](https://modrinth.com/mod/sodium-dynamic-lights) | [Source](https://github.com/txnimc/SodiumDynamicLights)
@@ -350,8 +344,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Spyglass Improvements is a mod that add various functionality and improvements to the vanilla minecraft spyglass.*
 - **Stoneworks** (MPL-2.0): [Modrinth](https://modrinth.com/mod/stoneworks) | [Source](https://github.com/Fuzss/stoneworks)
 <br>*Vanilla stone types in plenty of variations for all your building needs.*
-- **Storage Delight** ([MIT](https://github.com/axperty/storagedelight-forge/blob/master/LICENSE)): [Modrinth](https://modrinth.com/mod/storage-delight) | [Source](https://github.com/axperty/storagedelight)
-<br>*Extra furniture for Farmer's Delight that makes your kitchen or any space look better.*
 - **Structory** ([LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)): [Modrinth](https://modrinth.com/mod/structory) | [Source](https://github.com/Stardust-Labs-MC/Structory)
 <br>*A seasonally updated and atmospheric structure mod with light lore*
 - **Structory: Towers** ([LicenseRef-Stardust-Labs-License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)): [Modrinth](https://modrinth.com/mod/structory-towers) | [Source](https://github.com/Stardust-Labs-MC/Structory-Towers)
@@ -384,8 +376,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Removes the "moved too quickly" warning and rubber-banding.*
 - **Traveler's Titles** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/travelers-titles) | [Source](https://github.com/YUNG-GANG/Travelers-Titles)
 <br>*Epic, RPG-like titles when entering biomes & dimensions!*
-- **Vegan Delight** (MIT): [Modrinth](https://modrinth.com/mod/vegan-delight) | [Source](https://github.com/SayWhatSayMon/VeganDelight)
-<br>*Farmers Delight addon that adds soybeans, tofu and other items to make any food from vegan ingredients*
 - **Vertical Slabs Compat** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/vertical-slabs-compat) | [Source](https://github.com/MehVahdJukaar/vertical_slab_compat)
 <br>*Adds automatic compatibility for Quark's Vertical Slabs*
 - **Villager Names** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/villager-names-serilum) | [Source](https://github.com/Serilum/Villager-Names)
@@ -400,6 +390,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A complete redesign of Minecraft's desert temples!*
 - **YUNG's Better Dungeons** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/yungs-better-dungeons) | [Source](https://github.com/YUNG-GANG/YUNGs-Better-Dungeons)
 <br>*A complete redesign of Minecraft's dungeons!*
+- **YUNG's Better End Island** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/yungs-better-end-island) | [Source](https://github.com/yungnickyoung/YUNGs-Better-End-Island)
+<br>*An overhaul of the main End Island where the dragon fight takes place!*
 - **YUNG's Better Jungle Temples** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/yungs-better-jungle-temples) | [Source](https://github.com/YUNG-GANG/YUNGs-Better-Jungle-Temples)
 <br>*A complete redesign of Minecraft's jungle temples!*
 - **YUNG's Better Mineshafts** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/yungs-better-mineshafts) | [Source](https://github.com/YUNG-GANG/YUNGs-Better-Mineshafts)
