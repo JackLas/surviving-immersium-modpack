@@ -10,13 +10,8 @@
 			jasper = true
 			shale = true
 			myalite = true
-			permafrost = true
-
-		[types.stone_type.vintagedelight]
-			salt = true
 
 		[types.stone_type.tconstruct]
-			seared_stone = true
 			scorched_stone = true
 
 	[types.cut_block_type]
@@ -25,13 +20,6 @@
 			vine_tile = true
 			salt_brick = true
 			mixed_salt_brick = true
-
-		[types.cut_block_type.mcwroofs]
-			white_roof = true
-			light_gray_roof = true
-			gray_roof = true
-			black_roof = true
-			base_roof = true
 
 		[types.cut_block_type.mcwlights]
 			redstone_lamp = true
@@ -172,60 +160,6 @@
 			quartz_shingle = true
 			quartz_paver = true
 			quartz_plate = true
-
-		[types.cut_block_type.mcwpaths]
-			andesite_running_bond = true
-			diorite_running_bond = true
-			granite_running_bond = true
-			sandstone_running_bond = true
-			red_sandstone_running_bond = true
-			brick_running_bond = true
-			stone_running_bond = true
-			mossy_stone_running_bond = true
-			cobbled_deepslate_running_bond = true
-			deepslate_running_bond = true
-			mud_brick_running_bond = true
-			blackstone_running_bond = true
-			dark_prismarine_running_bond = true
-			andesite_windmill_weave = true
-			diorite_windmill_weave = true
-			granite_windmill_weave = true
-			sandstone_windmill_weave = true
-			red_sandstone_windmill_weave = true
-			brick_windmill_weave = true
-			stone_windmill_weave = true
-			mossy_stone_windmill_weave = true
-			cobbled_deepslate_windmill_weave = true
-			deepslate_windmill_weave = true
-			mud_brick_windmill_weave = true
-			blackstone_windmill_weave = true
-			dark_prismarine_windmill_weave = true
-			andesite_flagstone = true
-			diorite_flagstone = true
-			granite_flagstone = true
-			sandstone_flagstone = true
-			red_sandstone_flagstone = true
-			brick_flagstone = true
-			stone_flagstone = true
-			mossy_stone_flagstone = true
-			cobbled_deepslate_flagstone = true
-			deepslate_flagstone = true
-			mud_brick_flagstone = true
-			blackstone_flagstone = true
-			dark_prismarine_flagstone = true
-			andesite_crystal_floor = true
-			diorite_crystal_floor = true
-			granite_crystal_floor = true
-			sandstone_crystal_floor = true
-			red_sandstone_crystal_floor = true
-			brick_crystal_floor = true
-			stone_crystal_floor = true
-			mossy_stone_crystal_floor = true
-			cobbled_deepslate_crystal_floor = true
-			deepslate_crystal_floor = true
-			mud_brick_crystal_floor = true
-			blackstone_crystal_floor = true
-			dark_prismarine_crystal_floor = true
 
 		[types.cut_block_type.festive_delight]
 			gingerbread_block = true
@@ -389,6 +323,62 @@
 			glow_jam_cookie_tile = true
 			source_berry_cookie_tile = true
 
+		[types.cut_block_type.hearth_and_home]
+			cobblestone_brick = true
+			thatch = true
+			polished_calcite = true
+			shingle = true
+			white_shingle = true
+			orange_shingle = true
+			magenta_shingle = true
+			light_blue_shingle = true
+			yellow_shingle = true
+			lime_shingle = true
+			pink_shingle = true
+			gray_shingle = true
+			light_gray_shingle = true
+			cyan_shingle = true
+			purple_shingle = true
+			blue_shingle = true
+			brown_shingle = true
+			green_shingle = true
+			red_shingle = true
+			black_shingle = true
+			terracotta_brick = true
+			white_terracotta_brick = true
+			orange_terracotta_brick = true
+			magenta_terracotta_brick = true
+			light_blue_terracotta_brick = true
+			yellow_terracotta_brick = true
+			lime_terracotta_brick = true
+			pink_terracotta_brick = true
+			gray_terracotta_brick = true
+			light_gray_terracotta_brick = true
+			cyan_terracotta_brick = true
+			purple_terracotta_brick = true
+			blue_terracotta_brick = true
+			brown_terracotta_brick = true
+			green_terracotta_brick = true
+			red_terracotta_brick = true
+			black_terracotta_brick = true
+			tile = true
+			white_tile = true
+			orange_tile = true
+			magenta_tile = true
+			light_blue_tile = true
+			yellow_tile = true
+			lime_tile = true
+			pink_tile = true
+			gray_tile = true
+			light_gray_tile = true
+			cyan_tile = true
+			purple_tile = true
+			blue_tile = true
+			brown_tile = true
+			green_tile = true
+			red_tile = true
+			black_tile = true
+
 	[types.wood_type]
 
 		[types.wood_type.quark]
@@ -445,50 +435,6 @@
 [entries]
 
 	[entries.stone_type]
-
-		[entries.stone_type.mcwpaths]
-			running_bond = true
-			mossy_running_bond = true
-			windmill_weave_slab = true
-			mossy_strewn_rocky_path = true
-			mossy_running_bond_path = true
-			running_bond_path = true
-			crystal_floor_path = true
-			strewn_rocky_path = true
-			mossy_flagstone_slab = true
-			running_bond_slab = true
-			mossy_flagstone_path = true
-			mossy_running_bond_slab = true
-			flagstone = true
-			crystal_floor_slab = true
-			mossy_crystal_floor = true
-			mossy_windmill_weave_slab = true
-			mossy_windmill_weave_path = true
-			mossy_windmill_weave = true
-			mossy_crystal_floor_path = true
-			flagstone_slab = true
-			crystal_floor = true
-			mossy_flagstone = true
-			mossy_crystal_floor_slab = true
-			flagstone_path = true
-			windmill_weave = true
-			windmill_weave_path = true
-
-		[entries.stone_type.mcwroofs]
-			top_roof = true
-			lower_roof = true
-			upper_steep_roof = true
-			steep_roof = true
-			bricks_steep_roof = true
-			bricks_roof = true
-			upper_lower_roof = true
-			bricks_top_roof = true
-			attic_roof = true
-			bricks_attic_roof = true
-			roof = true
-			bricks_lower_roof = true
-			bricks_upper_steep_roof = true
-			bricks_upper_lower_roof = true
 
 		[entries.stone_type.stoneworks]
 			plate_slab = true
@@ -570,78 +516,6 @@
 			brick_lattice = true
 
 	[entries.wood_type]
-
-		[entries.wood_type.mcwroofs]
-			planks_upper_steep_roof = true
-			top_roof = true
-			lower_roof = true
-			planks_roof = true
-			upper_steep_roof = true
-			steep_roof = true
-			upper_lower_roof = true
-			attic_roof = true
-			planks_upper_lower_roof = true
-			roof = true
-			planks_attic_roof = true
-			planks_top_roof = true
-			planks_steep_roof = true
-			planks_lower_roof = true
-
-		[entries.wood_type.mcwfurnitures]
-			stripped_glass_table = true
-			stripped_desk = true
-			end_table = true
-			stool_chair = true
-			stripped_lower_triple_drawer = true
-			stripped_drawer_counter = true
-			bookshelf_drawer = true
-			double_drawer = true
-			stripped_coffee_table = true
-			stripped_counter = true
-			stripped_striped_chair = true
-			covered_desk = true
-			stripped_stool_chair = true
-			stripped_modern_wardrobe = true
-			cupboard_counter = true
-			stripped_covered_desk = true
-			coffee_table = true
-			glass_table = true
-			stripped_cupboard_counter = true
-			stripped_triple_drawer = true
-			stripped_chair = true
-			stripped_double_drawer_counter = true
-			stripped_modern_desk = true
-			stripped_bookshelf_cupboard = true
-			modern_wardrobe = true
-			lower_bookshelf_drawer = true
-			striped_chair = true
-			stripped_large_drawer = true
-			wardrobe = true
-			modern_desk = true
-			stripped_lower_bookshelf_drawer = true
-			stripped_end_table = true
-			drawer = true
-			stripped_bookshelf_drawer = true
-			stripped_bookshelf = true
-			modern_chair = true
-			chair = true
-			stripped_table = true
-			double_drawer_counter = true
-			drawer_counter = true
-			counter = true
-			stripped_modern_chair = true
-			bookshelf_cupboard = true
-			table = true
-			desk = true
-			stripped_double_wardrobe = true
-			stripped_double_drawer = true
-			triple_drawer = true
-			lower_triple_drawer = true
-			bookshelf = true
-			stripped_wardrobe = true
-			large_drawer = true
-			double_wardrobe = true
-			stripped_drawer = true
 
 		[entries.wood_type.mcwtrpdoors]
 			ranch_trapdoor = true
@@ -745,9 +619,6 @@
 			skyline_stairs = true
 			bulk_stairs = true
 
-		[entries.wood_type.mcwpaths]
-			planks_path = true
-
 		[entries.wood_type.farmersdelight]
 			cabinet = true
 
@@ -755,6 +626,22 @@
 			tiki_torch = true
 			soul_tiki_torch = true
 			ceiling_fan_light = true
+
+		[entries.wood_type.another_furniture]
+			flower_box = true
+			shutter = true
+			drawer = true
+			shelf = true
+			bench = true
+			table = true
+			chair = true
+
+		[entries.wood_type.hearth_and_home]
+			lattice = true
+			sanded_wood = true
+			parquet = true
+			vertical_trim = true
+			trim = true
 
 	[entries.leaves_type]
 
