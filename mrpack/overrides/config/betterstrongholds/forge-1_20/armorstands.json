@@ -1,60 +1,74 @@
 {
-  "commonHelmets": {
-    "entries": {
-      "chainmail_helmet": 0.3,
-      "tconstruct:travelers_helmet": 0.3,
-      "leather_helmet": 0.1,
-      "carved_pumpkin": 0.01
+    "commonHelmets": {
+        "entries": {
+            "minecraft:leather_helmet": 0.2,
+            "minecraft:iron_helmet": 0.15,
+            "minecraft:golden_helmet": 0.1,
+            "minecraft:chainmail_helmet": 0.05
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "rareHelmets": {
-    "entries": {
-      "cold_sweat:chameleon_scale_helmet": 0.3,
-      "carved_pumpkin": 0.2
+    "rareHelmets": {
+        "entries": {
+            "minecraft:chainmail_helmet": 0.2,
+            "immersiveengineering:armor_steel_helmet": 0.15,
+            "minecraft:diamond_helmet": 0.1,
+            "minecraft:netherite_helmet": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "commonChestplates": {
-    "entries": {
-      "leather_chestplate": 0.1,
-      "chainmail_chestplate": 0.3,
-      "tconstruct:travelers_chestplate": 0.3
+    "commonChestplates": {
+        "entries": {
+            "minecraft:leather_chestplate": 0.2,
+            "minecraft:iron_chestplate": 0.15,
+            "minecraft:golden_chestplate": 0.1,
+            "minecraft:chainmail_chestplate": 0.05
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "rareChestplates": {
-    "entries": {
-      "cold_sweat:chameleon_scale_chestplate": 0.3
+    "rareChestplates": {
+        "entries": {
+            "minecraft:chainmail_chestplate": 0.2,
+            "immersiveengineering:armor_steel_chestplate": 0.15,
+            "minecraft:diamond_chestplate": 0.1,
+            "minecraft:netherite_chestplate": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "commonLeggings": {
-    "entries": {
-      "tconstruct:travelers_leggings": 0.3,
-      "chainmail_leggings": 0.3,
-      "leather_leggings": 0.1
+    "commonLeggings": {
+        "entries": {
+            "minecraft:leather_leggings": 0.2,
+            "minecraft:iron_leggings": 0.15,
+            "minecraft:golden_leggings": 0.1,
+            "minecraft:chainmail_leggings": 0.05
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "rareLeggings": {
-    "entries": {
-      "cold_sweat:chameleon_scale_leggings": 0.3
+    "rareLeggings": {
+        "entries": {
+            "minecraft:chainmail_leggings": 0.2,
+            "immersiveengineering:armor_steel_leggings": 0.15,
+            "minecraft:diamond_leggings": 0.1,
+            "minecraft:netherite_leggings": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "commonBoots": {
-    "entries": {
-      "chainmail_boots": 0.3,
-      "leather_boots": 0.1,
-      "tconstruct:travelers_boots": 0.3
+    "commonBoots": {
+        "entries": {
+            "minecraft:leather_boots": 0.2,
+            "minecraft:iron_boots": 0.15,
+            "minecraft:golden_boots": 0.1,
+            "minecraft:chainmail_boots": 0.05
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "rareBoots": {
-    "entries": {
-      "cold_sweat:chameleon_scale_boots": 0.3
-    },
-    "defaultItem": "air"
-  }
+    "rareBoots": {
+        "entries": {
+            "minecraft:chainmail_boots": 0.2,
+            "immersiveengineering:armor_steel_boots": 0.15,
+            "minecraft:diamond_boots": 0.1,
+            "minecraft:netherite_boots": 0.001
+        },
+        "defaultItem": "air"
+    }
 }

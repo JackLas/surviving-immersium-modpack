@@ -1,58 +1,98 @@
 {
-  "armoryHelmets": {
-    "entries": {
-      "chainmail_helmet": 0.3,
-      "cold_sweat:chameleon_scale_helmet": 0.2
+    "armoryHelmets": {
+        "entries": {
+            "minecraft:leather_helmet": 0.25,
+            "minecraft:iron_helmet": 0.15,
+            "minecraft:golden_helmet": 0.1,
+            "minecraft:chainmail_helmet": 0.05,
+            "immersiveengineering:armor_steel_helmet": 0.05,
+            "minecraft:diamond_helmet": 0.01,
+            "minecraft:netherite_helmet": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "wardrobeHelmets": {
-    "entries": {
-      "chainmail_helmet": 0.2,
-      "leather_helmet": 0.4
+    "wardrobeHelmets": {
+        "entries": {
+            "minecraft:leather_helmet": 0.25,
+            "minecraft:iron_helmet": 0.15,
+            "minecraft:golden_helmet": 0.1,
+            "minecraft:chainmail_helmet": 0.05,
+            "immersiveengineering:armor_steel_helmet": 0.05,
+            "minecraft:diamond_helmet": 0.01,
+            "minecraft:netherite_helmet": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "armoryChestplates": {
-    "entries": {
-      "cold_sweat:chameleon_scale_chestplate": 0.2,
-      "chainmail_chestplate": 0.3
+    "armoryChestplates": {
+        "entries": {
+            "minecraft:leather_chestplate": 0.25,
+            "minecraft:iron_chestplate": 0.15,
+            "minecraft:golden_chestplate": 0.1,
+            "minecraft:chainmail_chestplate": 0.05,
+            "immersiveengineering:armor_steel_chestplate": 0.05,
+            "minecraft:diamond_chestplate": 0.01,
+            "minecraft:netherite_chestplate": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "wardrobeChestplates": {
-    "entries": {
-      "leather_chestplate": 0.4,
-      "chainmail_chestplate": 0.2
+    "wardrobeChestplates": {
+        "entries": {
+            "minecraft:leather_chestplate": 0.25,
+            "minecraft:iron_chestplate": 0.15,
+            "minecraft:golden_chestplate": 0.1,
+            "minecraft:chainmail_chestplate": 0.05,
+            "immersiveengineering:armor_steel_chestplate": 0.05,
+            "minecraft:diamond_chestplate": 0.01,
+            "minecraft:netherite_chestplate": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "armoryLeggings": {
-    "entries": {
-      "chainmail_leggings": 0.3,
-      "cold_sweat:chameleon_scale_leggings": 0.2
+    "armoryLeggings": {
+        "entries": {
+            "minecraft:leather_leggings": 0.25,
+            "minecraft:iron_leggings": 0.15,
+            "minecraft:golden_leggings": 0.1,
+            "minecraft:chainmail_leggings": 0.05,
+            "immersiveengineering:armor_steel_leggings": 0.05,
+            "minecraft:diamond_leggings": 0.01,
+            "minecraft:netherite_leggings": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "wardrobeLeggings": {
-    "entries": {
-      "chainmail_leggings": 0.2,
-      "leather_leggings": 0.4
+    "wardrobeLeggings": {
+        "entries": {
+            "minecraft:leather_leggings": 0.25,
+            "minecraft:iron_leggings": 0.15,
+            "minecraft:golden_leggings": 0.1,
+            "minecraft:chainmail_leggings": 0.05,
+            "immersiveengineering:armor_steel_leggings": 0.05,
+            "minecraft:diamond_leggings": 0.01,
+            "minecraft:netherite_leggings": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "armoryBoots": {
-    "entries": {
-      "chainmail_boots": 0.3,
-      "cold_sweat:chameleon_scale_boots": 0.2
+    "armoryBoots": {
+        "entries": {
+            "minecraft:leather_boots": 0.25,
+            "minecraft:iron_boots": 0.15,
+            "minecraft:golden_boots": 0.1,
+            "minecraft:chainmail_boots": 0.05,
+            "immersiveengineering:armor_steel_boots": 0.05,
+            "minecraft:diamond_boots": 0.01,
+            "minecraft:netherite_boots": 0.001
+        },
+        "defaultItem": "air"
     },
-    "defaultItem": "air"
-  },
-  "wardrobeBoots": {
-    "entries": {
-      "chainmail_boots": 0.2,
-      "leather_boots": 0.4
-    },
-    "defaultItem": "air"
-  }
+    "wardrobeBoots": {
+        "entries": {
+            "minecraft:leather_boots": 0.25,
+            "minecraft:iron_boots": 0.15,
+            "minecraft:golden_boots": 0.1,
+            "minecraft:chainmail_boots": 0.05,
+            "immersiveengineering:armor_steel_boots": 0.05,
+            "minecraft:diamond_boots": 0.01,
+            "minecraft:netherite_boots": 0.001
+        },
+        "defaultItem": "air"
+    }
 }
