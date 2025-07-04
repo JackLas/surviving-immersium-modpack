@@ -21,7 +21,7 @@
 		#The scale of the HUD when no minimap is installed.
 		#Default is 1.0.
 		#Range: 0.5 ~ 10.0
-		hud_scale = 1.0
+		hud_scale = 0.8
 
 		[SeasonHUD.HUD.Colors]
 			#Display the season name in a color?
