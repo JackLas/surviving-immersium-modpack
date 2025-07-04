@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 6000,
+    "input": {
+        "tag": "forge:gems/fluix"
+    },
+    "result": {
+        "tag": "forge:dusts/fluix",
+        "count": 1
+    },
+    "secondaries": [
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 6000,
+    "input": {
+        "tag": "forge:gems/certus_quartz"
+    },
+    "result": {
+        "tag": "forge:dusts/certus_quartz",
+        "count": 1
+    },
+    "secondaries": [
+    ]
+}

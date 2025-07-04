@@ -1,0 +1,13 @@
+{
+    "type": "immersiveengineering:crusher",
+    "energy": 6000,
+    "input": {
+        "tag": "forge:gems/amethyst"
+    },
+    "result": {
+        "tag": "forge:dusts/amethyst",
+        "count": 1
+    },
+    "secondaries": [
+    ]
+}
