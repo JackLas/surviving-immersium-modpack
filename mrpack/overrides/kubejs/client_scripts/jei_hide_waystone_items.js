@@ -26,6 +26,6 @@ JEIEvents.hideItems(event => {
 })
 
 JEIEvents.removeCategories(event => {
-  // console.log(event.categoryIds) //log a list of all category ids to logs/kubejs/client.txt
-  event.remove("waystones:warp_plate")
+    // console.log(event.categoryIds) //log a list of all category ids to logs/kubejs/client.txt
+    event.remove("waystones:warp_plate")
 })
