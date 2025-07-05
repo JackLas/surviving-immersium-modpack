@@ -1,0 +1,13 @@
+{
+    "name": "structory_towers:waystones/sandy_waystone",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:empty_pool_element",
+                "projection": "rigid"
+            }
+        }
+    ]
+}
