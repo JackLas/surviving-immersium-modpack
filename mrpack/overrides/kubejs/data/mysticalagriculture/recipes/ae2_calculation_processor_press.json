@@ -1,0 +1,36 @@
+{
+    "type": "mysticalagriculture:infusion",
+    "conditions": [],
+    "input": {
+        "item": "minecraft:iron_block"
+    },
+    "ingredients": [
+        {
+            "item": "minecraft:enchanted_book"
+        },
+        {
+            "item": "minecraft:redstone"
+        },
+        {
+            "item": "minecraft:enchanted_book"
+        },
+        {
+            "item": "minecraft:enchanted_book"
+        },
+        {
+            "item": "minecraft:enchanted_book"
+        },
+        {
+            "item": "minecraft:enchanted_book"
+        },
+        {
+            "item": "minecraft:enchanted_book"
+        },
+        {
+            "item": "minecraft:enchanted_book"
+        }
+    ],
+    "result": {
+        "item": "ae2:calculation_processor_press"
+    }
+}
