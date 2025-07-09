@@ -9,6 +9,9 @@
     "tooltip.kubejs.waystones.bound_scroll1": "Should be bounded to a waystone before use",
     "tooltip.kubejs.waystones.bound_scroll2": "Teleports to the bounded waystone",
     "tooltip.kubejs.waystones.return_scroll": "Teleports to the nearest activated waystone",
-    
-    "tooltip.kubejs.aka_shovel": "Also known as a shovel"
+    "tooltip.kubejs.aka_shovel": "Also known as a shovel",
+    "tooltip.kubejs.fireproofboats.lavaproof": "Lava-proof",
+    "tooltip.kubejs.immersive_engineering.faradey_protection1": "Protects from unisulated wirings",
+    "tooltip.kubejs.immersive_engineering.faradey_protection2": "and low-power Tesla Coil",
+    "tooltip.kubejs.painting": "Right-click to select a painting"
 }

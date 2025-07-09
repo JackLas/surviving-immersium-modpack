@@ -1,8 +1,4 @@
 ItemEvents.tooltip(event => {
-    function descriptionText(translationKey) {
-        return Text.translate(translationKey).gray()
-    }
-
     event.add("waystones:waystone", descriptionText("tooltip.kubejs.waystones.warp_stone"));
     event.add("waystones:mossy_waystone", descriptionText("tooltip.kubejs.waystones.warp_stone"));
     event.add("waystones:sandy_waystone", descriptionText("tooltip.kubejs.waystones.warp_stone"));
