@@ -1,0 +1,20 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "farmersdelight:tomato_seeds"
+    },
+    "render": {
+        "type": "crop",
+        "block": "farmersdelight:tomatoes"
+    },
+    "results": [
+        {
+            "item": "farmersdelight:tomato",
+            "count": 2
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}

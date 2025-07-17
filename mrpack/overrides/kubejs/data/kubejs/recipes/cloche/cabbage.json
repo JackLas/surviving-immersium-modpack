@@ -1,0 +1,22 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "farmersdelight:cabbage_seeds"
+    },
+    "render": {
+        "type": "crop",
+        "block": "farmersdelight:cabbages"
+    },
+    "results": [
+        {
+            "item": "farmersdelight:cabbage"
+        },
+        {
+            "item": "farmersdelight:cabbage_seeds"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}

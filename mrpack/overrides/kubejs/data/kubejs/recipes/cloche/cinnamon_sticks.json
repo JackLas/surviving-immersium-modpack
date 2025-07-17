@@ -1,0 +1,27 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "festive_delight:cinnamon_bush"
+    },
+    "render": {
+        "type": "generic",
+        "block": "festive_delight:cinnamon_bush"
+    },
+    "results": [
+        {
+            "item": "festive_delight:cinnamon_sticks"
+        }
+    ],
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:podzol"
+        },
+        {
+            "item": "minecraft:farmland"
+        }
+    ],
+    "time": 800
+}

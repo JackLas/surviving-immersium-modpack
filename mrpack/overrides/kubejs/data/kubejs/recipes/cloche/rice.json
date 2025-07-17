@@ -1,0 +1,20 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "farmersdelight:rice"
+    },
+    "render": {
+        "type": "crop",
+        "block": "farmersdelight:rice_panicles"
+    },
+    "results": [
+        {
+            "item": "farmersdelight:rice_panicle",
+            "count": 1
+        }
+    ],
+    "soil": {
+        "item": "minecraft:water_bucket"
+    },
+    "time": 1500
+}

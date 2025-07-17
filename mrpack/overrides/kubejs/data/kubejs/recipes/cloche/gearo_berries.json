@@ -1,0 +1,28 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "vintagedelight:gearo_berry"
+    },
+    "render": {
+        "type": "crop",
+        "block": "vintagedelight:gearo_berry_bush"
+    },
+    "results": [
+        {
+            "count": 2,
+            "item": "vintagedelight:gearo_berry"
+        }
+    ],
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:podzol"
+        },
+        {
+            "item": "minecraft:farmland"
+        }
+    ],
+    "time": 840
+}

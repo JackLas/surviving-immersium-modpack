@@ -1,0 +1,19 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "herbalbrews:coffee_beans"
+    },
+    "render": {
+        "type": "crop",
+        "block": "herbalbrews:coffee_plant"
+    },
+    "results": [
+        {
+            "item": "herbalbrews:coffee_beans"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}

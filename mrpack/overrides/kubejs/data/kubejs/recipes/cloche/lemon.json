@@ -1,0 +1,27 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "fruitsdelight:lemon_seeds"
+    },
+    "render": {
+        "type": "crop",
+        "block": "fruitsdelight:lemon_tree"
+    },
+    "results": [
+        {
+            "item": "fruitsdelight:lemon"
+        }
+    ],
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:podzol"
+        },
+        {
+            "item": "minecraft:farmland"
+        }
+    ],
+    "time": 800
+}

@@ -1,0 +1,28 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "fruitsdelight:blueberry"
+    },
+    "render": {
+        "type": "crop",
+        "block": "fruitsdelight:blueberry_bush"
+    },
+    "results": [
+        {
+            "count": 2,
+            "item": "fruitsdelight:blueberry"
+        }
+    ],
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:podzol"
+        },
+        {
+            "item": "minecraft:farmland"
+        }
+    ],
+    "time": 840
+}

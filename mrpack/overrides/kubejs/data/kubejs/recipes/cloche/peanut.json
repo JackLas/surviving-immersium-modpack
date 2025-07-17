@@ -1,0 +1,20 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "vintagedelight:peanut"
+    },
+    "render": {
+        "type": "crop",
+        "block": "vintagedelight:peanut_crop"
+    },
+    "results": [
+        {
+            "item": "vintagedelight:peanut",
+            "count": 3
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}

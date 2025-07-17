@@ -1,0 +1,27 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "herbalbrews:lavender"
+    },
+    "render": {
+        "type": "generic",
+        "block": "herbalbrews:lavender"
+    },
+    "results": [
+        {
+            "item": "herbalbrews:lavender"
+        }
+    ],
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:farmland"
+        },
+        {
+            "item": "minecraft:podzol"
+        }
+    ],
+    "time": 800
+}

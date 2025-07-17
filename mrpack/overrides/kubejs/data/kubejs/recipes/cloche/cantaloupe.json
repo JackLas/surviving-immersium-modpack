@@ -1,0 +1,19 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "delightful:cantaloupe_seeds"
+    },
+    "render": {
+        "type": "crop",
+        "block": "delightful:cantaloupe_plant"
+    },
+    "results": [
+        {
+            "item": "delightful:cantaloupe"
+        }
+    ],
+    "soil": {
+        "tag": "forge:sand"
+    },
+    "time": 1350
+}
