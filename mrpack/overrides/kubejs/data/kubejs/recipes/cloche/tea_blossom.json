@@ -1,0 +1,22 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "herbalbrews:tea_blossom"
+    },
+    "render": {
+        "type": "crop",
+        "block": "herbalbrews:tea_plant"
+    },
+    "results": [
+        {
+            "item": "herbalbrews:tea_blossom"
+        },
+        {
+            "item": "herbalbrews:green_tea_leaf"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}

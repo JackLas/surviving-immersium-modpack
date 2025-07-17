@@ -1,0 +1,20 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "vintagedelight:cucumber_seeds"
+    },
+    "render": {
+        "type": "crop",
+        "block": "vintagedelight:cucumber_crop"
+    },
+    "results": [
+        {
+            "item": "vintagedelight:cucumber",
+            "count": 2
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}

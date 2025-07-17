@@ -1,0 +1,28 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "fruitsdelight:cranberry"
+    },
+    "render": {
+        "type": "crop",
+        "block": "fruitsdelight:cranberry_bush"
+    },
+    "results": [
+        {
+            "count": 2,
+            "item": "fruitsdelight:cranberry"
+        }
+    ],
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:podzol"
+        },
+        {
+            "item": "minecraft:farmland"
+        }
+    ],
+    "time": 840
+}

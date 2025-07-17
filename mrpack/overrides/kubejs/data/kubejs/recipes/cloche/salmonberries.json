@@ -1,0 +1,25 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "delightful:salmonberry_pips"
+    },
+    "render": {
+        "type": "crop",
+        "block": "delightful:salmonberry_bush"
+    },
+    "results": [
+        {
+            "item": "delightful:salmonberries",
+            "count": 2
+        }
+    ],
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:farmland"
+        }
+    ],
+    "time": 1200
+}

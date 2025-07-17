@@ -1,0 +1,19 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "herbalbrews:rooibos_leaf"
+    },
+    "render": {
+        "type": "crop",
+        "block": "herbalbrews:rooibos_plant"
+    },
+    "results": [
+        {
+            "item": "herbalbrews:rooibos_leaf"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}

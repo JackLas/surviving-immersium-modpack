@@ -1,0 +1,19 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "fruitsdelight:pineapple_sapling"
+    },
+    "render": {
+        "type": "crop",
+        "block": "fruitsdelight:pineapple"
+    },
+    "results": [
+        {
+            "item": "fruitsdelight:pineapple"
+        }
+    ],
+    "soil": {
+        "tag": "forge:sand"
+    },
+    "time": 1200
+}

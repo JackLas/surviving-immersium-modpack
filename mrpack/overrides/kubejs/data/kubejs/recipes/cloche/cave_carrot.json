@@ -1,0 +1,19 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "miners_delight:cave_carrot"
+    },
+    "render": {
+        "type": "crop",
+        "block": "miners_delight:cave_carrots"
+    },
+    "results": [
+        {
+            "item": "miners_delight:cave_carrot"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1600
+}

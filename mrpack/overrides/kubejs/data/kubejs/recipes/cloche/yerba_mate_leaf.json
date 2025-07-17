@@ -1,0 +1,19 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "herbalbrews:yerba_mate_leaf"
+    },
+    "render": {
+        "type": "crop",
+        "block": "herbalbrews:yerba_mate_plant"
+    },
+    "results": [
+        {
+            "item": "herbalbrews:yerba_mate_leaf"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}

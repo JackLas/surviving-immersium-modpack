@@ -1,0 +1,27 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "herbalbrews:hibiscus"
+    },
+    "render": {
+        "type": "generic",
+        "block": "herbalbrews:hibiscus"
+    },
+    "results": [
+        {
+            "item": "herbalbrews:hibiscus"
+        }
+    ],
+    "soil": [
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "item": "minecraft:farmland"
+        },
+        {
+            "item": "minecraft:podzol"
+        }
+    ],
+    "time": 800
+}

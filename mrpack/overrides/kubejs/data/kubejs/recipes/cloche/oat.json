@@ -1,0 +1,22 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "vintagedelight:oat_seeds"
+    },
+    "render": {
+        "type": "crop",
+        "block": "vintagedelight:oat_crop"
+    },
+    "results": [
+        {
+            "item": "vintagedelight:oat"
+        },
+        {
+            "item": "vintagedelight:oat_seeds"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}

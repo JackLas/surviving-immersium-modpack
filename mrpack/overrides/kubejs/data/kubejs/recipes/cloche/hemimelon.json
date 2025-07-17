@@ -1,0 +1,19 @@
+{
+    "type": "immersiveengineering:cloche",
+    "input": {
+        "item": "fruitsdelight:hamimelon_seeds"
+    },
+    "render": {
+        "type": "crop",
+        "block": "fruitsdelight:hamimelon_stem"
+    },
+    "results": [
+        {
+            "item": "fruitsdelight:hamimelon"
+        }
+    ],
+    "soil": {
+        "item": "minecraft:farmland"
+    },
+    "time": 1200
+}
