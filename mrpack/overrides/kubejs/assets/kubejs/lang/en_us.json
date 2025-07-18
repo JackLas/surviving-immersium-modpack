@@ -13,5 +13,6 @@
     "tooltip.kubejs.fireproofboats.lavaproof": "Lava-proof",
     "tooltip.kubejs.immersive_engineering.faradey_protection1": "Protects from unisulated wirings",
     "tooltip.kubejs.immersive_engineering.faradey_protection2": "and low-power Tesla Coil",
-    "tooltip.kubejs.painting": "Right-click to select a painting"
+    "tooltip.kubejs.painting": "Right-click to select a painting",
+    "tooltip.kubejs.herbalbrews.dry_tea_block": "Can be dried under the sun"
 }
