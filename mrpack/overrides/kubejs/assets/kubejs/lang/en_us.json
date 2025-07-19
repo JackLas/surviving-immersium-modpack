@@ -3,6 +3,8 @@
     "item.kubejs.dust_amethyst": "Amethyst Dust",
     "item.kubejs.mud_ball": "Mud Ball",
     "item.kubejs.warp_stone": "Warp Stone",
+    "item.kubejs.bear_pelt": "Bear Pelt",
+    "item.kubejs.polar_bear_pelt": "Polar Bear Pelt",
 
     "tooltip.kubejs.waystones.warp_stone": "Destination point for teleportation",
     "tooltip.kubejs.waystones.warp_scroll": "Teleports to any activated waystone",
