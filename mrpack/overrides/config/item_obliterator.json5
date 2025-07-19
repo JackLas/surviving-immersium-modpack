@@ -255,6 +255,13 @@
     "mysticalagriculture:sulfur_seeds",
     "mysticalagriculture:saltpeter_seeds",
 
+    "mysticalagradditions:inferium_apple",
+    "mysticalagradditions:prudentium_apple",
+    "mysticalagradditions:tertium_apple",
+    "mysticalagradditions:imperium_apple",
+    "mysticalagradditions:supremium_apple",
+    "mysticalagradditions:insanium_apple",
+
     "ae2:meteorite_compass"
   ],
   // -----------------------------------------------------------
