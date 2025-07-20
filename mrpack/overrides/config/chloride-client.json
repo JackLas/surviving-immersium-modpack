@@ -1,5 +1,5 @@
 {
-  "modpackMode": false,
+  "modpackMode": true,
   "fullScreen": "WINDOWED",
   "fpsDisplayMode": "OFF",
   "fpsDisplayAlign": "LEFT",
@@ -10,7 +10,7 @@
   "fpsDisplayShadow": false,
   "fog": true,
   "blueBand": true,
-  "customFog": true,
+  "customFog": false,
   "fogStart": 250,
   "fogEnd": 400,
   "fogShape": "CYLINDER",
@@ -63,6 +63,6 @@
   ],
   "borderlessAttachModeF11": "ATTACH",
   "fastLanguageReload": true,
-  "enableZoom": true,
+  "enableZoom": false,
   "maxZoom": 50.0
 }
