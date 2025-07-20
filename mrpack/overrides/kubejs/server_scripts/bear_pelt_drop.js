@@ -7,4 +7,4 @@ LootJS.modifiers((event) => {
 
     addLoot("alexsmobs:grizzly_bear", "kubejs:bear_pelt") 
     addLoot("minecraft:polar_bear", "kubejs:polar_bear_pelt") 
-});
+})

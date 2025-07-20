@@ -1,33 +1,5 @@
 ServerEvents.recipes(event => {
-    function removeRecipe(itemId) {
-        event.remove({output: itemId})
-    }
-
-    removeRecipe("waystones:sharestone")
-    removeRecipe("waystones:warp_plate")
-    removeRecipe("waystones:portstone")
-    removeRecipe("waystones:white_sharestone")
-    removeRecipe("waystones:orange_sharestone")
-    removeRecipe("waystones:magenta_sharestone")
-    removeRecipe("waystones:light_blue_sharestone")
-    removeRecipe("waystones:yellow_sharestone")
-    removeRecipe("waystones:lime_sharestone")
-    removeRecipe("waystones:pink_sharestone")
-    removeRecipe("waystones:gray_sharestone")
-    removeRecipe("waystones:light_gray_sharestone")
-    removeRecipe("waystones:cyan_sharestone")
-    removeRecipe("waystones:purple_sharestone")
-    removeRecipe("waystones:blue_sharestone")
-    removeRecipe("waystones:brown_sharestone")
-    removeRecipe("waystones:green_sharestone")
-    removeRecipe("waystones:red_sharestone")
-    removeRecipe("waystones:black_sharestone")
-    removeRecipe("waystones:return_scroll")
-    removeRecipe("waystones:bound_scroll")
-    removeRecipe("waystones:warp_scroll")
-    removeRecipe("waystones:warp_stone")
-    removeRecipe("waystones:warp_dust")
-
+    event.remove({id: "waystones:warp_dust"})
     event.shapeless(Item.of("waystones:warp_dust", 1), [
         "#forge:dusts/amethyst",
         "#forge:dusts/ender_pearl",
@@ -47,6 +19,7 @@ ServerEvents.recipes(event => {
         "kubejs:warp_stone"
     )
 
+    event.remove({id: "waystones:return_scroll"})
     event.shaped(Item.of("waystones:return_scroll", 3), [
         " B ",
         "NDN",
@@ -58,6 +31,7 @@ ServerEvents.recipes(event => {
         N: "#forge:nuggets/gold"
     })
 
+    event.remove({id: "waystones:bound_scroll"})
     event.shaped(Item.of("waystones:bound_scroll", 2), [
         " B ",
         "NDN",
@@ -69,6 +43,7 @@ ServerEvents.recipes(event => {
         N: "#forge:nuggets/gold"
     })
 
+    event.remove({id: "waystones:warp_scroll"}) 
     event.shaped(Item.of("waystones:warp_scroll", 1), [
         " B ",
         "NDN",
