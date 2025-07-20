@@ -34,10 +34,14 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods!*
 - **BadOptimizations** (MIT): [Modrinth](https://modrinth.com/mod/badoptimizations) | [Source](https://github.com/ItsThosea/BadOpitmizations)
 <br>*Optimization mod that focuses on things other than rendering*
+- **BaguetteLib** (MIT): [Modrinth](https://modrinth.com/mod/baguettelib)
+<br>*Ever tried to make a mod that needs proper death handling or inventory tracking? Yeah, NeoForge events suck for that.*
 - **Balm** ([LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions)): [Modrinth](https://modrinth.com/mod/balm) | [Source](https://github.com/TwelveIterationMods/Balm)
 <br>*Abstraction Layer for Multiplatform Mods*
 - **Beautify!** ([MIT](https://github.com/Pandarix/Beautify/blob/1.20-rework/LICENSE)): [Modrinth](https://modrinth.com/mod/beautify) | [Source](https://github.com/Pandarix/Beautify)
 <br>*Adds lots of vanilla-styled ways to spice up your builds.*
+- **Better Advancements** ([LicenseRef-Dont-Be-a-Jerk](https://github.com/way2muchnoise/BetterAdvancements/blob/master/LICENSE.md)): [Modrinth](https://modrinth.com/mod/better-advancements) | [Source](https://github.com/way2muchnoise/BetterAdvancements)
+<br>*Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment*
 - **Better Lily Pads** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/better-lily-pads) | [Source](https://github.com/MehVahdJukaar/betterlily-multi)
 <br>*Allows placing torches, candles and any other blocks on to lilypads*
 - **Blueprint** ([LicenseRef-Abnormals-License](https://github.com/team-abnormals/blueprint/blob/1.20.x/LICENSE.txt)): [Modrinth](https://modrinth.com/mod/blueprint) | [Source](https://github.com/team-abnormals/blueprint)
@@ -116,8 +120,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A powerful, mod-friendly, FOSS client performance mod for NeoForge*
 - **Embeddium (Rubidium) Extra** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/rubidium-extra) | [Source](https://github.com/dima-dencep/rubidium-extra)
 <br>*Port of Sodium Extra to work with Embeddium/Rubidium on (Neo)Forge*
-- **End's Delight** (MIT): [Modrinth](https://modrinth.com/mod/ends-delight) | [Source](https://github.com/FoggyHillside/End-s-Delight)
-<br>*End's Delight is an addon mod for Farmer's Delight based around adding culinary content to the end!*
 - **Engineered Schematics** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/engineered-schematics) | [Source](https://github.com/muddykat-tech/engineered_schematics)
 <br>*An Immersive Engineering add-on designed to make multiblock creation easier.*
 - **Entity Culling** ([LicenseRef-tr7zw-Protective-License](https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling)): [Modrinth](https://modrinth.com/mod/entityculling) | [Source](https://github.com/tr7zw/EntityCulling)
@@ -142,6 +144,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*✨Farmer's Delight add-on for Festive Events*
 - **Fireproof Boats** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/fireproof-boats) | [Source](https://github.com/JDKDigital/fireproofboats)
 <br>*Adds warped and crimson boats which can be used on lava*
+- **Fog** ([LicenseRef-All-Rights-Reserved](https://github.com/IMB11/Fog/blob/master/LICENSE)): [Modrinth](https://modrinth.com/mod/fog) | [Source](https://github.com/IMB11/Fog)
+<br>*Enhances fog rendering with dynamic, customizable effects—improving atmosphere and depth while preserving the vanilla experience and maintaining compatibility with other mods.*
 - **Fruits Delight** (LGPL-2.1-only): [Modrinth](https://modrinth.com/mod/fruits-delight) | [Source](https://github.com/Minecraft-LightLand/FruitsDelight)
 <br>*Adds fruits, jelly, juice, and fruit-based food in Farmer's Delight style*
 - **Fusion (Connected Textures)** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/fusion-connected-textures) | [Source](https://github.com/SuperMartijn642/Fusion)
@@ -204,6 +208,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Edit recipes, add new custom items, script world events, all in JavaScript!*
 - **Leaves Be Gone** (MPL-2.0): [Modrinth](https://modrinth.com/mod/leaves-be-gone) | [Source](https://github.com/Fuzss/leavesbegone)
 <br>*Quick leaf decay from cutting down trees. Built for fast performance and mod compat!*
+- **LootJS: KubeJS Addon** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/lootjs) | [Source](https://github.com/AlmostReliable/lootjs)
+<br>*A Minecraft mod for packdevs to easily modify the loot system with KubeJS.*
 - **M.R.U** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/mru) | [Source](https://github.com/mineblock11/MRU)
 <br>*A library mod used by IMB11's mods to function.*
 - **Macaw's Bridges** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-bridges) | [Source](https://github.com/sketchmacaw/Bridges)
@@ -256,16 +262,14 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds tier 6 crops, Tinkers' support, Paxels and more to Mystical Agriculture!*
 - **Mystical Agriculture** (MIT): [Modrinth](https://modrinth.com/mod/mystical-agriculture) | [Source](https://github.com/BlakeBr0/MysticalAgriculture)
 <br>*Adds resource crops for more than 150+ vanilla & modded materials!*
-- **Mystical Garden Cloches** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/mystical-garden-cloches)
-<br>*A compatibility addon that lets you automate Mystical Agriculture using Immersive Engineering's Garden Cloche*
 - **Nature's Compass** (CC-BY-NC-SA-4.0): [Modrinth](https://modrinth.com/mod/natures-compass) | [Source](https://github.com/MattCzyr/NaturesCompass)
 <br>*Allows you to locate biomes anywhere in the world.*
 - **Necronomicon API** (MIT): [Modrinth](https://modrinth.com/mod/necronomicon)
 <br>*A personal utility library for my mods.*
-- **Nether's Delight** (MIT): [Modrinth](https://modrinth.com/mod/nethers-delight)
-<br>*A spicy expansion bringing the nether to Farmer's Delight!*
 - **NetherPortalFix** ([LicenseRef-All-Rights-Reserved](https://mods.twelveiterations.com/permissions)): [Modrinth](https://modrinth.com/mod/netherportalfix) | [Source](https://github.com/TwelveIterationMods/NetherPortalFix)
 <br>*Ensures correct destinations when travelling back and forth through Nether Portals in Multiplayer.*
+- **No Report Button** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/nrb) | [Source](https://github.com/Lucaslah/no-report-button)
+<br>*Removes the chat report button from the game menu screen*
 - **Noisium** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/noisium) | [Source](https://github.com/Steveplays28/noisium)
 <br>*Optimises worldgen performance for a better gameplay experience.*
 - **Not Enough Recipe Book [NERB]** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/notenoughrecipebook) | [Source](https://github.com/SSKirillSS/nerb)
@@ -408,8 +412,12 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds beautiful naturally generated bridges throughout the world!*
 - **YUNG's Extras** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/yungs-extras) | [Source](https://github.com/YUNG-GANG/YUNGs-Extras)
 <br>*Extra structures, features, and vanilla+ content suitable for any modpack!*
+- **YetAnotherConfigLib (YACL)** (LGPL-3.0-or-later): [Modrinth](https://modrinth.com/mod/yacl) | [Source](https://github.com/isXander/YetAnotherConfigLib)
+<br>*A builder-based configuration library for Minecraft.*
 - **Zeta** ([CC-BY-NC-SA-3.0](https://github.com/VazkiiMods/Zeta/blob/main/LICENSE.md)): [Modrinth](https://modrinth.com/mod/zeta) | [Source](https://github.com/VazkiiMods/Zeta)
 <br>*Comprehensive Load-Bearing Library for Modular Mods*
+- **[Let's Do] HerbalBrews** ([LicenseRef-custom](https://github.com/satisfyu/HerbalBrews/blob/main/License)): [Modrinth](https://modrinth.com/mod/lets-do-herbalbrews) | [Source](https://github.com/Team-Let-s-Do/HerbalBrews)
+<br>*It's Tea Time! Brew Tea, Coffee and Flasks.*
 - **no f3** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/no-f3)
 <br>*removes most f3 features*
 

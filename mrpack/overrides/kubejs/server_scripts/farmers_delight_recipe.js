@@ -8,9 +8,5 @@ ServerEvents.recipes(event => {
         "minecraft:wooden_shovel",
         "minecraft:stick"
     )
-
-    event.remove({id: "nethersdelight:diamond_machete"})
-    event.remove({id: "nethersdelight:golden_machete"})
-    event.remove({id: "nethersdelight:iron_machete"})
 })
 

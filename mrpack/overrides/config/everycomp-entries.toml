@@ -10,9 +10,11 @@
 			jasper = true
 			shale = true
 			myalite = true
+			permafrost = true
 
 		[types.stone_type.tconstruct]
 			scorched_stone = true
+			seared_stone = true
 
 	[types.cut_block_type]
 
@@ -507,6 +509,9 @@
 			vertical_slab = true
 			polished_vertical_slab = true
 			pillar = true
+
+		[entries.stone_type.waystones]
+			waystone = true
 
 	[entries.mud_type]
 
