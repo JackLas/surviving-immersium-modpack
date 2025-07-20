@@ -74,7 +74,7 @@ ServerEvents.recipes(event => {
         "minecraft:bone_meal",
         "minecraft:dirt",
         "minecraft:stick"
-    ]);
+    ])
 
     function rework_farmland_recipe(modid, type) {
         let output_id = `${modid}:${type}_farmland`

@@ -9,4 +9,4 @@ LootJS.modifiers((event) => {
     addTeaBlossomDrop("minecraft:tall_grass")
     addTeaBlossomDrop("minecraft:fern")
     addTeaBlossomDrop("minecraft:large_fern")
-});
+})

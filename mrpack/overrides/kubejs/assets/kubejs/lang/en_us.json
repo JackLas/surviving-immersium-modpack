@@ -6,7 +6,7 @@
     "item.kubejs.bear_pelt": "Bear Pelt",
     "item.kubejs.polar_bear_pelt": "Polar Bear Pelt",
 
-    "tooltip.kubejs.waystones.warp_stone": "Destination point for teleportation",
+    "tooltip.kubejs.waystones.waystone": "Destination point for teleportation",
     "tooltip.kubejs.waystones.warp_scroll": "Teleports to any activated waystone",
     "tooltip.kubejs.waystones.bound_scroll1": "Should be bounded to a waystone before use",
     "tooltip.kubejs.waystones.bound_scroll2": "Teleports to the bounded waystone",

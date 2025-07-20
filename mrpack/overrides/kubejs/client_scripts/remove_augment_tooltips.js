@@ -1,4 +1,4 @@
-const removePlaceholder = "KUBEJS-REMOVE";
+const removePlaceholder = "KUBEJS-REMOVE"
 const itemsWithAugment = [
     "mysticalagriculture:inferium_sword",
     "mysticalagriculture:inferium_shears",
@@ -18,7 +18,7 @@ const itemsWithAugment = [
     "mysticalagriculture:awakened_supremium_sword",
     "mysticalagriculture:awakened_supremium_shears",
     "mysticalagriculture:awakened_supremium_fishing_rod"
-];
+]
 
 ItemEvents.tooltip(event => {
     for (const itemId of itemsWithAugment) {
@@ -26,9 +26,9 @@ ItemEvents.tooltip(event => {
             // scan backwards so removal doesn’t skip indices
             for (let i = text.size() - 1; i >= 0; i--) {
                 if (text.get(i).getString().contains(removePlaceholder)) {
-                    text.remove(i);
+                    text.remove(i)
                 }
             }
-        });
+        })
     }
-});
+})
