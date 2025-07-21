@@ -71,4 +71,12 @@ ServerEvents.recipes(event => {
         {item: "festive_delight:cinnamon_powder"},
         {item: "festive_delight:cinnamon_powder"}
     ], {item: "festive_delight:christmas_tea"})
+
+    addCommonTeaRecipe([
+        {item: "herbalbrews:tea_blossom"}
+    ], {item: "herbalbrews:black_tea"})
+
+    addCommonTeaRecipe([
+        {item: "herbalbrews:green_tea_leaf"}
+    ], {item: "herbalbrews:green_tea"})
 })
