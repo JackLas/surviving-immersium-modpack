@@ -2,4 +2,4 @@
 
 # $1 = <last release tag>..HEAD
 
-git log $1 --pretty=format:"### %s%n%b%n"
+git log $1 --reverse --pretty=format:"### %s%n%b%n"
