@@ -2751,6 +2751,21 @@
         },
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/5jVtTQGY/versions/oR7ZaDQ7/skin_changer-forge-1.20.1-0.6.6.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 60904,
+            "hashes": {
+                "sha1": "abe87385d066f352663f421ac5d8dfc50e1e6e06",
+                "sha512": "1754f1a4aae322d663c0b157efc8397f50b5a680a81f6958c7df90f1b87ad6efe46858132b401f8915774e9c849cb0cf2befdcc4264f30ede0c9def2be4f8520"
+            },
+            "path": "mods/skin_changer-forge-1.20.1-0.6.6.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar"
             ],
             "env": {
@@ -3128,5 +3143,5 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "Surviving Immersium",
-    "versionId": "0.5.1-alpha"
+    "versionId": "0.5.2-alpha"
 }

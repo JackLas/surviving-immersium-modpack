@@ -112,8 +112,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Be ready for overhauled anvils! Items stay, better name tags, many tweaks!*
 - **Easy Magic** (MPL-2.0): [Modrinth](https://modrinth.com/mod/easy-magic) | [Source](https://github.com/Fuzss/easymagic)
 <br>*Enchanting tables as they always should have been! Items stay after closing, and easy re-rolls.*
-- **Effect Descriptions** (MPL-2.0): [Modrinth](https://modrinth.com/mod/effect-descriptions) | [Source](https://github.com/Fuzss/effectdescriptions)
-<br>*Find out what potion effects do without checking the wiki.*
+- **Effect Insights** (MPL-2.0): [Modrinth](https://modrinth.com/mod/effect-insights) | [Source](https://github.com/Fuzss/effectinsights)
+<br>*Adds potion and food effect descriptions directly to tooltips. Know effects without the wiki.*
 - **Egg Delight** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/egg-delight)
 <br>*Adds foods made from Egg*
 - **Embeddium** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/embeddium) | [Source](https://github.com/FiniteReality/embeddium)
@@ -322,6 +322,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A mod that aims to optimize the minecraft server.*
 - **Simple Menu** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/simple-menu) | [Source](https://github.com/Serilum/Simple-Menu)
 <br>*🖼️ Adds basic functionality to edit the style and buttons of Minecraft's main menu, change the window title and set a new icon.*
+- **SkinChanger** (MIT): [Modrinth](https://modrinth.com/mod/skinchanger) | [Source](https://github.com/edoren/SkinChanger)
+<br>*Change your Minecraft skin on the go*
 - **Smooth Boot (Reloaded)** (MIT): [Modrinth](https://modrinth.com/mod/smooth-boot-reloaded) | [Source](https://github.com/AbdElAziz333/SmoothBoot-Reloaded)
 <br>*Tweaks for Minecraft CPU scheduling and unofficial fork of Smooth Boot mod for Minecraft Forge 1.18.2+*
 - **Snow Under Trees** (MIT): [Modrinth](https://modrinth.com/mod/snow-under-trees) | [Source](https://github.com/bl4ckscor3/SnowUnderTrees)
@@ -341,7 +343,7 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 - **Sound Physics Remastered** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/sound-physics-remastered) | [Source](https://github.com/henkelmax/sound-physics-remastered)
 <br>*A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.*
 - **Sounds** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/sound) | [Source](https://github.com/IMB11/Sounds)
-<br>*Adds a wide range of new and improved sound effects to Minecraft, letting you customize everything from block interactions to UI events. Easily tweak or expand the sounds with resource packs and data generation for a fully personalized audio experience.*
+<br>*It's what it says on the tin. A complete upgrade to Minecraft's SFX with over 170 new sound effects for UIs, items, blocks and more.*
 - **Spice of Life: Apple Pie Edition** (LGPL-2.1-only): [Modrinth](https://modrinth.com/mod/spice-of-life-apple-pie-edition) | [Source](https://github.com/anthxnymc/Spice-of-Life-Apple-Pie/)
 <br>*Rewards players for cooking large and diverse meals.*
 - **Spyglass Improvements** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/spyglass-improvements) | [Source](https://github.com/juancarloscp52/spyglass-improvements)
