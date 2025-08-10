@@ -285,7 +285,7 @@
 	"Automatic Tool Restock" = false
 	"Easy Transfering" = true
 	"Expanded Item Interactions" = true
-	"Hotbar Changer" = true
+	"Hotbar Changer" = false
 	"Inventory Sorting" = true
 	"Item Sharing" = true
 	"Quick Armor Swapping" = true
@@ -596,7 +596,7 @@
 
 	[tweaks.emotes]
 		#The enabled default emotes. Remove from this list to disable them. You can also re-order them, if you feel like it.
-		"Enabled Emotes" = ["no", "yes", "wave", "salute", "cheer", "clap", "think", "point", "shrug", "headbang", "weep", "facepalm"]
+		"Enabled Emotes" = []
 		#The list of Custom Emotes to be loaded.
 		#Watch the tutorial on Custom Emotes to learn how to make your own: https://youtu.be/ourHUkan6aQ
 		"Custom Emotes" = []
