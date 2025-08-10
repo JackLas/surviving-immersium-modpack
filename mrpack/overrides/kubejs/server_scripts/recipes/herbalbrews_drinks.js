@@ -3,19 +3,36 @@ ServerEvents.recipes(event => {
         event.custom({
             type: "herbalbrews:kettle_brewing",
             experience: 0.8,
-            crafting_duration: 30,
-            fluid: [{amount: 20}],
+            crafting_duration: 20,
+            fluid: [{amount: 10}],
             heat_needed: [{amount: 25}],
             ingredients: ingredientList.concat({item: "minecraft:glass_bottle"}),
             result: result
         })
     }
 
-    event.remove({id: "delightful:cooking/matcha_latte"})
+    event.remove({id: "delightful:food/matcha_latte"})
     addCommonTeaRecipe([
         {tag: "forge:milk"},
-        {item: "delightful:matcha"}
+        {item: "delightful:matcha"},
+        {item: "minecraft:honey_bottle"}
     ], {item: "delightful:matcha_latte"})
+
+    event.remove({id: "delightful:food/berry_matcha_latte"})
+    event.custom({
+        type: "herbalbrews:kettle_brewing",
+        experience: 0.8,
+        crafting_duration: 20,
+        fluid: [{amount: 0}],
+        heat_needed: [{amount: 0}],
+        ingredients: [
+            {item: "delightful:matcha_latte"},
+            {item: "minecraft:ice"},
+            {tag: "forge:berries"},
+            {item: "minecraft:glass_bottle"}
+        ],
+        result: {item: "delightful:berry_matcha_latte"}
+    })
 
     event.remove({id: "delightful:food/cooking/ender_nectar"})
     addCommonTeaRecipe([
@@ -73,10 +90,10 @@ ServerEvents.recipes(event => {
     ], {item: "festive_delight:christmas_tea"})
 
     addCommonTeaRecipe([
-        {item: "herbalbrews:tea_blossom"}
+        {item: "herbalbrews:dried_black_tea"}
     ], {item: "herbalbrews:black_tea"})
 
     addCommonTeaRecipe([
-        {item: "herbalbrews:green_tea_leaf"}
+        {item: "herbalbrews:dried_green_tea"}
     ], {item: "herbalbrews:green_tea"})
 })
