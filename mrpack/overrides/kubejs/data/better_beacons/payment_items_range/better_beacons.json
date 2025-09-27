@@ -1,0 +1,56 @@
+{
+    "values": [
+        {
+            "item": "minecraft:copper_ingot",
+            "range": 0
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "range": 10
+        },
+        {
+            "item": "minecraft:gold_ingot",
+            "range": 15
+        },
+        {
+            "item": "immersiveengineering:ingot_steel",
+            "range": 20
+        },
+        {
+            "item": "tconstruct:steel_ingot",
+            "range": 20
+        },
+        {
+            "item": "minecraft:emerald",
+            "range": 25
+        },
+        {
+            "item": "tconstruct:cobalt_ingot",
+            "range": 30
+        },
+        {
+            "item": "tconstruct:queens_slime_ingot",
+            "range": 35
+        },
+        {
+            "item": "minecraft:diamond",
+            "range": 40
+        },
+        {
+            "item":  "tconstruct:hepatizon_ingot",
+            "range": 45
+        },
+        {
+            "item": "tconstruct:manyullyn_ingot",
+            "range": 50
+        },
+        {
+            "item": "minecraft:netherite_ingot",
+            "range": 60
+        }, 
+        {
+            "item": "immersiveengineering:ingot_aluminum",
+            "range": 100
+        }
+    ]
+}
