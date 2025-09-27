@@ -1,0 +1,13 @@
+{
+    "icon": "seasonhud:slot/calendarslot",
+    "size": 1,
+    "operation": "SET",
+    "order": 7,
+    "validator_predicates": [
+        "curios:tag"
+    ],
+
+    "replace": true,
+
+    "render_toggle": false
+}
