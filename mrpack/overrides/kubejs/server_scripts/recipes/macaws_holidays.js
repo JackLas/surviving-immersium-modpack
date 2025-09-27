@@ -22,5 +22,10 @@ ServerEvents.recipes(event => {
     replace_carved_pumpkin_with_knife("mcwholidays:carved_shocked_pumpkin")
     replace_carved_pumpkin_with_knife("mcwholidays:carved_smile_pumpkin")
     carved_pumpkin_with_knife("minecraft:carved_pumpkin")
+
+    event.remove({output: "mcwholidays:snowy_grass"})
+    event.shapeless(Item.of("mcwholidays:snowy_grass"), [
+        "minecraft:grass", "minecraft:snowball"
+    ])
 })
 
