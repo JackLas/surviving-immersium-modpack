@@ -8,6 +8,7 @@ ServerEvents.recipes(event => {
     event.remove({id: "mysticalagriculture:essence/minecraft/cod"})
     event.remove({id: "mysticalagriculture:essence/minecraft/tropical_fish"})
     event.remove({id: "mysticalagriculture:essence/minecraft/ink_sac"})
+    event.remove({id: "mysticalagriculture:essence/minecraft/glow_ink_sac"})
     event.remove({id: "mysticalagriculture:essence/minecraft/white_wool"})
     event.remove({id: "mysticalagriculture:essence/minecraft/mutton"})
     event.remove({id: "mysticalagriculture:essence/minecraft/leather"})
