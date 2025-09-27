@@ -121,7 +121,7 @@
 	 * can be, and where the page switching buttons go. The default is 176, the width
 	 * of most screens.
 	 */
-	minimum-recipe-screen-width: 225;
+	minimum-recipe-screen-width: 205;
 
 	/**
 	 * The amount of vertical margin to give in the recipe screen.
@@ -217,7 +217,7 @@
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
 	 */
-	right-sidebar-margins: 5, 5, 2, 40;
+	right-sidebar-margins: 5, 5, 2, 50;
 
 	/**
 	 * Where to position the right sidebar
