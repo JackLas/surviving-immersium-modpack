@@ -16,7 +16,7 @@ ServerEvents.recipes(event => {
         S: "mysticalagriculture:soulium_ingot",
         F: "mysticalagriculture:machine_frame",
         C: "immersiveengineering:capacitor_lv",
-        B: "immersiveengineering:sawblade",
+        B: "tconstruct:pig_iron_ingot",
         H: "minecraft:chest",
         X: "minecraft:furnace"
     })
