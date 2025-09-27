@@ -1,4 +1,4 @@
-const removePlaceholder = "KUBEJS-REMOVE"
+const removePlaceholder = "[REMOVED]"
 const itemsWithAugment = [
     "mysticalagriculture:inferium_sword",
     "mysticalagriculture:inferium_shears",
