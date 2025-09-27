@@ -1,0 +1,38 @@
+{
+    "type": "delightful:add_item",
+    "conditions": [
+        {
+            "condition": "delightful:enabled",
+            "item": "raw_goat"
+        },
+        {
+            "chance": 1,
+            "condition": "minecraft:random_chance_with_looting",
+            "looting_multiplier": 0.1
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "flags": {
+                    "is_on_fire": false
+                }
+            }
+        },
+        {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "type": "#delightful:drops_raw_goat"
+            }
+        },
+        {
+            "condition": "forge:loot_table_id",
+            "loot_table_id": "minecraft:entities/goat"
+        }
+    ],
+    "item": "delightful:raw_goat",
+    "maxAmount": 2,
+    "minAmount": 1,
+    "unique": true
+}
