@@ -12,6 +12,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 
 - **AE2 QoL Recipes** (MIT): [Modrinth](https://modrinth.com/mod/ae2-qol-recipes) | [Source](https://github.com/Christofmeg/AE2-QoL-Recipes)
 <br>*QoL Recipes for Applied Energistics 2*
+- **Advanced Loot Info** ([MIT](https://github.com/yanny7/AdvancedLootInfo/blob/master/LICENSE)): [Modrinth](https://modrinth.com/mod/advanced-loot-info) | [Source](https://github.com/yanny7/AdvancedLootInfo)
+<br>*EMI/JEI/REI plugin for displaying advanced information about loot tables*
 - **Alex's Mobs** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/alexs-mobs) | [Source](https://github.com/AlexModGuy/AlexsMobs)
 <br>*85+ New mobs with stylistic quality above the default game.*
 - **Alex's Mobs Interaction** (MIT): [Modrinth](https://modrinth.com/mod/alexs-mobs-interaction) | [Source](https://github.com/CrimsonCrips/AlexsInteractionAddon)
@@ -46,10 +48,18 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Allows placing torches, candles and any other blocks on to lilypads*
 - **Blueprint** ([LicenseRef-Abnormals-License](https://github.com/team-abnormals/blueprint/blob/1.20.x/LICENSE.txt)): [Modrinth](https://modrinth.com/mod/blueprint) | [Source](https://github.com/team-abnormals/blueprint)
 <br>*Library that implements the framework of all Abnormals mods!*
+- **Bookshelf** (LGPL-2.1-only): [Modrinth](https://modrinth.com/mod/bookshelf-lib) | [Source](https://github.com/Darkhax-Minecraft/Bookshelf)
+<br>*An open source library for other mods!*
+- **Bottle Your Xp** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/bottle-your-xp) | [Source](https://github.com/Serilum/Bottle-Your-Xp)
+<br>*🍾 Allows the creation of experience bottles (bottles o' enchanting) from your own gathered xp.*
 - **Brewin' And Chewin'** (MIT): [Modrinth](https://modrinth.com/mod/brewin-and-chewin) | [Source](https://github.com/MerchantCalico/BrewinAndChewin/)
 <br>*Fermenting addon for Farmer's Delight.*
 - **CERBON's API** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/cerbons-api) | [Source](https://github.com/CERBON-MODS/CERBONs-API)
 <br>*A library mod for CERBON's Minecraft Mods*
+- **CERBON's Better Beacons** ([LicenseRef-CC-BY-NC-SA-3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en)): [Modrinth](https://modrinth.com/mod/cerbons-better-beacons) | [Source](https://github.com/CERBON-MODS/CERBONs-Better-Beacons)
+<br>*New UI, new features and new advancements. Improves Minecraft's beacon.*
+- **CERBON's Better Totem of Undying** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/better-totem-of-undying) | [Source](https://github.com/CerbonXD/BetterTotemOfUndying)
+<br>*Improves Minecraft Totem of Undying by adding new features to it. Compatible with Curios/Trinkets API.*
 - **Cave Dust** (MPL-2.0): [Modrinth](https://modrinth.com/mod/cave-dust) | [Source](https://github.com/LizIsTired/cave_dust)
 <br>*Dust is a Minecraft mod that adds the white ash particle from the Basalt Deltas biome to the underground to simulate dust!*
 - **Chat Heads** (MPL-2.0): [Modrinth](https://modrinth.com/mod/chat-heads) | [Source](https://github.com/dzwdz/chat_heads)
@@ -100,12 +110,20 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*The missing diagonal blocks are here! After all these years. Finally, you have them all.*
 - **Diagonal Windows** (MPL-2.0): [Modrinth](https://modrinth.com/mod/diagonal-windows) | [Source](https://github.com/Fuzss/diagonalwindows)
 <br>*Now windows are connecting diagonally, too?! This is getting out of hand!*
+- **Distraction Free Recipes (EMI / REI / JEI)** ([LicenseRef-Tonis-MMC-License](https://license.txni.dev/)): [Modrinth](https://modrinth.com/mod/distraction-free-recipes) | [Source](https://github.com/txnimc/DistractionFreeRecipes)
+<br>*Automatically hides the recipe viewer when not searching.*
 - **Drip Sounds** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/dripsounds) | [Source](https://github.com/PieKing1215/DripSounds-Fabric)
 <br>*Adds sounds for drip particles landing & settings for block particles*
 - **Durability Tooltip** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/durability-tooltip) | [Source](https://github.com/SuperMartijn642/DurabilityTooltip)
 <br>*Durability Tooltip shows you the durability of an item!*
 - **Dynamic FPS** (MIT): [Modrinth](https://modrinth.com/mod/dynamic-fps) | [Source](https://github.com/juliand665/Dynamic-FPS)
 <br>*Reduce resource usage while Minecraft is in the background, idle, or on battery.*
+- **EMI** (MIT): [Modrinth](https://modrinth.com/mod/emi) | [Source](https://github.com/emilyploszaj/emi/)
+<br>*A featureful and accessible item and recipe viewer*
+- **EMI Ores** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/emi-ores) | [Source](https://github.com/Abbie5/emi-ores)
+<br>*Easily view ore generation information from inside EMI.*
+- **EMIffect** (MIT): [Modrinth](https://modrinth.com/mod/emiffect) | [Source](https://github.com/Prismwork/EMIffect)
+<br>*EMI addon that appends status effects in EMI and provides information about each status effect.*
 - **Easier Sleeping** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/easier-sleeping) | [Source](https://github.com/GeheimagentNr1/EasierSleeping)
 <br>*Only a percentage of players has to sleep.*
 - **Easy Anvils** (MPL-2.0): [Modrinth](https://modrinth.com/mod/easy-anvils) | [Source](https://github.com/Fuzss/easyanvils)
@@ -120,6 +138,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A powerful, mod-friendly, FOSS client performance mod for NeoForge*
 - **Embeddium (Rubidium) Extra** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/rubidium-extra) | [Source](https://github.com/dima-dencep/rubidium-extra)
 <br>*Port of Sodium Extra to work with Embeddium/Rubidium on (Neo)Forge*
+- **Enchantment Descriptions** (LGPL-2.1-only): [Modrinth](https://modrinth.com/mod/enchantment-descriptions) | [Source](https://github.com/Darkhax-Minecraft/Enchantment-Descriptions)
+<br>*Provides a way to get enchantment descriptions from enchanted books.*
 - **Engineered Schematics** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/engineered-schematics) | [Source](https://github.com/muddykat-tech/engineered_schematics)
 <br>*An Immersive Engineering add-on designed to make multiblock creation easier.*
 - **Entity Culling** ([LicenseRef-tr7zw-Protective-License](https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling)): [Modrinth](https://modrinth.com/mod/entityculling) | [Source](https://github.com/tr7zw/EntityCulling)
@@ -134,7 +154,7 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A cozy expansion to farming and cooking!*
 - **Fast Paintings** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/fast-paintings)
 <br>*Fixes painting rendering, increasing their performance and allowing them to have custom models*
-- **FastBoot** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/fastboot)
+- **FastBoot** (MIT): [Modrinth](https://modrinth.com/mod/fastboot)
 <br>*FastBoot is engineered to drastically reduce game loading time*
 - **Fastload** (LGPL-2.1-only): [Modrinth](https://modrinth.com/mod/fastload) | [Source](https://github.com/BumbleSoftware/Fastload)
 <br>*Modifies how worlds are loaded to speed up loading times.*
@@ -150,6 +170,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds fruits, jelly, juice, and fruit-based food in Farmer's Delight style*
 - **Fusion (Connected Textures)** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/fusion-connected-textures) | [Source](https://github.com/SuperMartijn642/Fusion)
 <br>*Fusion allows resource packs to use additional texture and model types such as connected textures!*
+- **Fzzy Config** ([LicenseRef-TDL-M](https://github.com/fzzyhmstrs/Timefall-Development-Licence-Modified)): [Modrinth](https://modrinth.com/mod/fzzy-config) | [Source](https://github.com/fzzyhmstrs/fconfig)
+<br>*Config API with automatic GUIs, powerful validation options, server-client sync, and more!*
 - **Gallery** ([LicenseRef-Abnormals-License](https://github.com/team-abnormals/gallery/blob/1.20.x/LICENSE.txt)): [Modrinth](https://modrinth.com/mod/gallery) | [Source](https://github.com/team-abnormals/gallery)
 <br>*Adds icons for all painting variants, a painting selector, and some more painting tweaks!*
 - **Game Menu Remove GFARB** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/gamemenuremovegfarb) | [Source](https://github.com/MORIMORI0317/GameMenuRemoveGFARB)
@@ -170,6 +192,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Adds a wide range of new building blocks, adding a touch of warmth and comfort to your world!*
 - **Hide Experimental Warning** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/hide-experimental-warning) | [Source](https://github.com/Serilum/Hide-Experimental-Warning)
 <br>*❌ Hides the Experimental Settings Warning when trying to create or load a modded world.*
+- **Hopper Gadgetry** (MPL-2.0): [Modrinth](https://modrinth.com/mod/hopper-gadgetry) | [Source](https://github.com/Fuzss/hoppergadgetry)
+<br>*Ready to build smarter, and cheaper contraptions? New hoppers are here to complement your lineup.*
 - **ImmediatelyFast** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/immediatelyfast) | [Source](https://github.com/RaphiMC/ImmediatelyFast)
 <br>*Speed up immediate mode rendering in Minecraft*
 - **Immersive Engineering** ([LicenseRef-Custom](https://github.com/BluSunrize/ImmersiveEngineering/blob/1.16.5/LICENSE)): [Modrinth](https://modrinth.com/mod/immersiveengineering) | [Source](https://github.com/BluSunrize/ImmersiveEngineering)
@@ -180,6 +204,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.*
 - **Incendium Biomes Only** ([LicenseRef-Dual-License](https://codeberg.org/naomi/ibo#licensing)): [Modrinth](https://modrinth.com/mod/ibo) | [Source](https://codeberg.org/naomi/ibo)
 <br>*Removes structures, items, mobs and bosses from Incendium, leaving only the biomes and terrain.*
+- **Inventory Tweaks: ReFoxed** (Apache-2.0): [Modrinth](https://modrinth.com/mod/inventory-tweaks-refoxed) | [Source](https://github.com/JDKDigital/InvTweaksRefoxed)
+<br>*Inventory Tweaks for NeoForge*
 - **Item Obliterator** ([LicenseRef-AGNYA-License](https://github.com/nvb-uy/AGNYA-License/blob/main/LICENSE.md)): [Modrinth](https://modrinth.com/mod/item-obliterator) | [Source](https://github.com/nvb-uy/item_obliterator)
 <br>*Modpack utility mod that allows to disable items and/or its interactions. Also removes them from creative tabs, recipes, trades, and JEI/REI/EMI.*
 - **Jade Addons (Neo/Forge)** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/jade-addons-forge) | [Source](https://github.com/Snownee/JadeAddons)
@@ -192,25 +218,23 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*JEI addon to display useful information about beacons.*
 - **Just Enough Breeding (JEBr)** (MIT): [Modrinth](https://modrinth.com/mod/justenoughbreeding) | [Source](https://github.com/Christofmeg/JustEnoughBreeding)
 <br>*JEI/REI/EMI plugin that displays breeding information*
-- **Just Enough Effect Descriptions (JEED)** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/just-enough-effect-descriptions-jeed) | [Source](https://github.com/MehVahdJukaar/JustEnoughEffectDescriptions)
-<br>*JEI plugin that displays information on all status effects*
-- **Just Enough Immersive Multiblocks** (MIT): [Modrinth](https://modrinth.com/mod/jei-multiblocks) | [Source](https://github.com/sguest/jei-multiblocks)
-<br>*Immersive Engineering addon that adds JEI support for multiblocks.*
-- **Just Enough Items** (MIT): [Modrinth](https://modrinth.com/mod/jei) | [Source](https://github.com/mezz/JustEnoughItems)
-<br>*JEI - View Items and Recipes*
 - **Just Enough Professions (JEP)** (MIT): [Modrinth](https://modrinth.com/mod/just-enough-professions-jep) | [Source](https://github.com/Mrbysco/JustEnoughProfessions)
 <br>*A JEI addon that adds profession workstations*
-- **Just Enough Resources (JER)** ([LicenseRef-Dont-Be-a-Jerk](https://github.com/way2muchnoise/JustEnoughResources/blob/master/LICENSE.md)): [Modrinth](https://modrinth.com/mod/just-enough-resources-jer) | [Source](https://github.com/way2muchnoise/JustEnoughResources)
-<br>*JEI integration that adds info on mobs, world gen, villagers and many more!*
+- **Just Potion Rings** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/just-potion-rings) | [Source](https://github.com/Dplayend/Just-Potion-Rings)
+<br>*Adds Rings that apply potion effects to the player while worn. compat with Trinkets / Curios API / Curios API Continuation / Accessories / Adorned*
 - **Kiwi 🥝** (MIT): [Modrinth](https://modrinth.com/mod/kiwi) | [Source](https://github.com/Snownee/Kiwi)
 <br>*Minecraft modding library*
+- **Kotlin for Forge** (LGPL-2.1-only): [Modrinth](https://modrinth.com/mod/kotlin-for-forge) | [Source](https://github.com/thedarkcolour/KotlinForForge)
+<br>*Adds a Kotlin language loader and provides some optional utilities.*
 - **KubeJS** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/kubejs) | [Source](https://github.com/KubeJS-Mods/KubeJS)
 <br>*Edit recipes, add new custom items, script world events, all in JavaScript!*
 - **Leaves Be Gone** (MPL-2.0): [Modrinth](https://modrinth.com/mod/leaves-be-gone) | [Source](https://github.com/Fuzss/leavesbegone)
 <br>*Quick leaf decay from cutting down trees. Built for fast performance and mod compat!*
+- **Lithostitched** (MIT): [Modrinth](https://modrinth.com/mod/lithostitched) | [Source](https://github.com/Apollounknowndev/lithostitched/)
+<br>*Library mod with new configurability and compatibility enhancements for worldgen*
 - **LootJS: KubeJS Addon** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/lootjs) | [Source](https://github.com/AlmostReliable/lootjs)
 <br>*A Minecraft mod for packdevs to easily modify the loot system with KubeJS.*
-- **M.R.U** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/mru) | [Source](https://github.com/mineblock11/MRU)
+- **M.R.U** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/mru) | [Source](https://github.com/IMB11-Mods/MRU)
 <br>*A library mod used by IMB11's mods to function.*
 - **Macaw's Bridges** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/macaws-bridges) | [Source](https://github.com/sketchmacaw/Bridges)
 <br>*A simple mod that adds a lot of bridges!*
@@ -283,7 +307,7 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 - **Overflowing Bars** (MPL-2.0): [Modrinth](https://modrinth.com/mod/overflowing-bars) | [Source](https://github.com/Fuzss/overflowingbars)
 <br>*Expand health, armor and armor toughness bars beyond vanilla. Nice and compact without confusing colors.*
 - **Packet Fixer** (MIT): [Modrinth](https://modrinth.com/mod/packet-fixer) | [Source](https://github.com/TonimatasDEV/PacketSizeDoublerForge)
-<br>*A simple mod to fix various problems with packets and nbt.*
+<br>*A simple mod to fix various problems with packets, nbt and timeouts.*
 - **Patchouli** (CC-BY-NC-SA-3.0): [Modrinth](https://modrinth.com/mod/patchouli) | [Source](https://github.com/VazkiiMods/Patchouli/)
 <br>*Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers*
 - **Pick Up Notifier** (MPL-2.0): [Modrinth](https://modrinth.com/mod/pick-up-notifier) | [Source](https://github.com/Fuzss/pickupnotifier)
@@ -340,12 +364,14 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*Library mod for Sophisticated mods*
 - **Sophisticated Storage** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/sophisticated-storage) | [Source](https://github.com/P3pp3rF1y/SophisticatedStorage)
 <br>*Storage mod with multiple tiers and functional upgrades*
+- **Sophisticated Storage in Motion** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/sophisticated-storage-in-motion) | [Source](https://github.com/P3pp3rF1y/SophisticatedStorageInMotion)
+<br>*A Sophisticated Storage add on which allows using storage blocks with minecarts and in the future with other entities*
 - **Sound Physics Remastered** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/sound-physics-remastered) | [Source](https://github.com/henkelmax/sound-physics-remastered)
 <br>*A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.*
 - **Sounds** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/sound) | [Source](https://github.com/IMB11/Sounds)
 <br>*It's what it says on the tin. A complete upgrade to Minecraft's SFX with over 170 new sound effects for UIs, items, blocks and more.*
-- **Spice of Life: Apple Pie Edition** (LGPL-2.1-only): [Modrinth](https://modrinth.com/mod/spice-of-life-apple-pie-edition) | [Source](https://github.com/anthxnymc/Spice-of-Life-Apple-Pie/)
-<br>*Rewards players for cooking large and diverse meals.*
+- **Spice of Life Onion** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/spice-of-life-onion) | [Source](https://github.com/CreativeMD/Spice-of-Life-Onion)
+<br>*A mod designed to encourage dietary variety!*
 - **Spyglass Improvements** (GPL-3.0-only): [Modrinth](https://modrinth.com/mod/spyglass-improvements) | [Source](https://github.com/juancarloscp52/spyglass-improvements)
 <br>*Spyglass Improvements is a mod that add various functionality and improvements to the vanilla minecraft spyglass.*
 - **Stoneworks** (MPL-2.0): [Modrinth](https://modrinth.com/mod/stoneworks) | [Source](https://github.com/Fuzss/stoneworks)
@@ -380,8 +406,12 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A collection of mod integrations and tweaks for Tinkers' Construct.*
 - **Too Fast** (MIT): [Modrinth](https://modrinth.com/mod/too-fast)
 <br>*Removes the "moved too quickly" warning and rubber-banding.*
+- **TooManyRecipeViewers** ([LicenseRef-OSL-3.0](https://github.com/Nolij/TooManyRecipeViewers/raw/master/LICENSE)): [Modrinth](https://modrinth.com/mod/tmrv) | [Source](https://github.com/Nolij/TooManyRecipeViewers)
+<br>*A compatibility layer for running JEI plugins with EMI written by Nolij*
 - **Traveler's Titles** (LGPL-3.0-only): [Modrinth](https://modrinth.com/mod/travelers-titles) | [Source](https://github.com/YUNG-GANG/Travelers-Titles)
 <br>*Epic, RPG-like titles when entering biomes & dimensions!*
+- **TxniLib** (MIT): [Modrinth](https://modrinth.com/mod/txnilib) | [Source](https://github.com/txnimc/TxniLib)
+<br>*Multiversion library mod for Txni projects*
 - **Vertical Slabs Compat** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/vertical-slabs-compat) | [Source](https://github.com/MehVahdJukaar/vertical_slab_compat)
 <br>*Adds automatic compatibility for Quark's Vertical Slabs*
 - **Villager Names** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/villager-names-serilum) | [Source](https://github.com/Serilum/Villager-Names)
