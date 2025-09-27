@@ -16,6 +16,9 @@
 			scorched_stone = true
 			seared_stone = true
 
+		[types.stone_type.mysticalagriculture]
+			soulstone = true
+
 	[types.cut_block_type]
 
 		[types.cut_block_type.vintagedelight]
