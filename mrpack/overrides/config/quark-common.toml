@@ -47,7 +47,7 @@
 	world = true
 	mobs = true
 	client = true
-	experimental = true
+	experimental = false
 	oddities = true
 
 [automation]
@@ -286,7 +286,7 @@
 	"Easy Transfering" = true
 	"Expanded Item Interactions" = true
 	"Hotbar Changer" = false
-	"Inventory Sorting" = true
+	"Inventory Sorting" = false
 	"Item Sharing" = true
 	"Quick Armor Swapping" = true
 
@@ -309,7 +309,7 @@
 		"Ignore Anti Overlap" = false
 
 	[management.easy_transfering]
-		"Enable Shift Lock" = true
+		"Enable Shift Lock" = false
 
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = true
@@ -322,11 +322,11 @@
 		"Animation Time" = 7.0
 
 	[management.inventory_sorting]
-		"Enable Player Inventory" = true
-		"Enable Player Inventory In Chests" = true
-		"Enable Chests" = true
+		"Enable Player Inventory" = false
+		"Enable Player Inventory In Chests" = false
+		"Enable Chests" = false
 		#Play a click when sorting inventories using keybindings
-		"Satisfying Click" = true
+		"Satisfying Click" = false
 
 	[management.item_sharing]
 		#In ticks.
@@ -341,7 +341,7 @@
 	Abacus = true
 	"Ambient Discs" = true
 	"Ancient Tomes" = false
-	"Beacon Redirection" = true
+	"Beacon Redirection" = false
 	"Bottled Cloud" = true
 	"Color Runes" = false
 	"Endermosh Music Disc" = true
@@ -581,9 +581,9 @@
 		#List of changes to apply to repair items, format is "<item>=<repair_item>" as seen in the defualt.
 		#Multiple repair items can be applied for the same base item, and as long as at least one is provided, any vanilla option will be removed.
 		#To use multiple items, comma separate them (e.g. "minecraft:diamond_sword=minecraft:diamond,minecraft:emerald")If you want the vanilla option back, you must add it again manually.
-		"Repair Item Changes" = ["minecraft:netherite_sword=minecraft:diamond", "minecraft:netherite_pickaxe=minecraft:diamond", "minecraft:netherite_axe=minecraft:diamond", "minecraft:netherite_shovel=minecraft:diamond", "minecraft:netherite_hoe=minecraft:diamond", "minecraft:netherite_helmet=minecraft:diamond", "minecraft:netherite_chestplate=minecraft:diamond", "minecraft:netherite_leggings=minecraft:diamond", "minecraft:netherite_boots=minecraft:diamond"]
+		"Repair Item Changes" = []
 		"Unrepairable Items" = []
-		"Enable Jei Hints" = true
+		"Enable Jei Hints" = false
 
 	[tweaks.double_door_opening]
 		"Enable Doors" = true
@@ -1464,7 +1464,7 @@
 		"Cautious Stonelings" = false
 		"Tamable Stonelings" = true
 		#Disabled if if Pathfinder Maps are disabled.
-		"Weald Pathfinder Maps" = true
+		"Weald Pathfinder Maps" = false
 
 		[mobs.stonelings.dimensions]
 			"Is Blacklist" = false
