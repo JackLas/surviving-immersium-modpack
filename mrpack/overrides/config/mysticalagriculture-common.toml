@@ -32,7 +32,7 @@
 	#Should fake players be able to use watering cans?
 	fakePlayerWatering = true
 	#Should wearing a full set of Awakened Supremium armor grant the Plant Growth AOE set bonus?
-	awakenedSupremiumSetBonus = true
+	awakenedSupremiumSetBonus = false
 
 #World generation options.
 [World]
