@@ -51,7 +51,7 @@
 	/**
 	 * Where to display status effects in the inventory.
 	 */
-	effect-location: top;
+	effect-location: hidden;
 
 	/**
 	 * Whether to display a gray overlay when hovering over a stack.
@@ -121,7 +121,7 @@
 	 * can be, and where the page switching buttons go. The default is 176, the width
 	 * of most screens.
 	 */
-	minimum-recipe-screen-width: 205;
+	minimum-recipe-screen-width: 194;
 
 	/**
 	 * The amount of vertical margin to give in the recipe screen.
@@ -136,17 +136,17 @@
 	/**
 	 * Display cost per batch when hovering a recipe output
 	 */
-	show-cost-per-batch: false;
+	show-cost-per-batch: true;
 
 	/**
 	 * Whether recipes should have a button to set as default.
 	 */
-	recipe-default-button: true;
+	recipe-default-button: false;
 
 	/**
 	 * Whether recipes should have a button to show the recipe tree.
 	 */
-	recipe-tree-button: true;
+	recipe-tree-button: false;
 
 	/**
 	 * Whether recipes should have a button to fill the ingredients in a handler.
@@ -177,12 +177,12 @@
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 15, 100;
+	left-sidebar-size: 9, 100;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
 	 */
-	left-sidebar-margins: 5, 40, 2, 5;
+	left-sidebar-margins: 5, 5, 5, 5;
 
 	/**
 	 * Where to position the left sidebar
@@ -212,12 +212,12 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 15, 100;
+	right-sidebar-size: 9, 100;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
 	 */
-	right-sidebar-margins: 5, 5, 2, 50;
+	right-sidebar-margins: 5, 5, 0, 5;
 
 	/**
 	 * Where to position the right sidebar
@@ -468,7 +468,7 @@
 	/**
 	 * Whether hovering the output of a recipe should show the recipe's EMI ID.
 	 */
-	show-recipe-ids: true;
+	show-recipe-ids: false;
 
 	/**
 	 * Whether to display additional widgets added to recipes from other mods.
