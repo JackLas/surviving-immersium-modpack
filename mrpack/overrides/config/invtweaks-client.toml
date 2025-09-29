@@ -153,6 +153,50 @@
 		containerClass = "aztech.modern_industrialization.*.gui.*Screen"
 		sortRange = ""
 
+	[[sorting.containerOverrides]]
+		containerClass = "net.ribs.vintagedelight.screen.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "appeng.client.gui.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "slimeknights.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "vectorwing.farmersdelight.client.gui.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "com.sammy.minersdelight.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "umpaz.brewinandchewin.client.gui.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "net.satisfy.herbalbrews.client.gui.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "com.blakebr0.mysticalagriculture.client.screen.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "team.creative.solonion.client.gui.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "com.momosoftworks.coldsweat.client.gui.*"
+		sortRange = ""
+
+	[[sorting.containerOverrides]]
+		containerClass = "fuzs.hoppergadgetry.client.gui.screens.*"
+		sortRange = ""
+
 #Tweaks
 [tweaks]
 	#Enable auto-refill
@@ -170,5 +214,5 @@
 	#2 = buttons for external sorting only
 	#3 = all buttons enabled (default)
 	#Range: 0 ~ 3
-	enableButtons = 3
+	enableButtons = 0
 
