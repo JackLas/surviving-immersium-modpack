@@ -8,10 +8,4 @@ ServerEvents.recipes(event => {
         P: "minecraft:paper",
         D: "minecraft:diamond"
     })
-
-    event.remove({id: "minecraft:map"})
-    event.shapeless(Item.of("minecraft:map", 1), [
-        "minecraft:paper",
-        "#forge:dyes/black"
-    ])
 })
