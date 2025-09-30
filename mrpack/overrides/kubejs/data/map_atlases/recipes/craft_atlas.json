@@ -1,0 +1,23 @@
+{
+    "type": "map_atlases:crafting_atlas",
+    "ingredients": [
+        {
+            "tag": "forge:dyes/red"
+        },
+        {
+            "tag": "forge:dyes/green"
+        },
+        {
+            "tag": "forge:dyes/blue"
+        },
+        {
+            "item": "minecraft:clock"
+        },
+        {
+            "item": "minecraft:book"
+        },
+        {
+            "tag": "map_atlases:sticky_crafting_items"
+        }
+    ]
+}
