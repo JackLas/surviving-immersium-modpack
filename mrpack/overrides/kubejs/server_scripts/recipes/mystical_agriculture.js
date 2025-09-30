@@ -21,23 +21,6 @@ ServerEvents.recipes(event => {
         X: "minecraft:furnace"
     })
 
-    event.remove({id: "mysticalagriculture:seed_reprocessor"})
-    event.shaped(Item.of("mysticalagriculture:seed_reprocessor", 1),
-    [
-        "X W",
-        "CFB", 
-        "ISS"
-    ],
-    {
-        W: "mysticalagriculture:watering_can",
-        S: "mysticalagriculture:soulium_ingot",
-        F: "mysticalagriculture:machine_frame",
-        C: "immersiveengineering:capacitor_lv",
-        B: "farmersdelight:organic_compost",
-        I: "minecraft:iron_ingot",
-        X: "minecraft:furnace"
-    })
-
     event.remove({id: "mysticalagriculture:soul_extractor"})
     event.shaped(Item.of("mysticalagriculture:soul_extractor", 1),
     [
