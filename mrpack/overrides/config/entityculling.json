@@ -8,7 +8,8 @@
     "create:hose_pulley",
     "betterend:eternal_pedestal",
     "botania:magic_missile",
-    "botania:falling_star"
+    "botania:falling_star",
+    "immersiveengineering:windmill"
   ],
   "entityWhitelist": [
     "botania:mana_burst",
@@ -18,6 +19,7 @@
   "debugMode": false,
   "sleepDelay": 10,
   "hitboxLimit": 50,
+  "captureRate": 5,
   "skipMarkerArmorStands": true,
   "tickCulling": true,
   "tickCullingWhitelist": [
