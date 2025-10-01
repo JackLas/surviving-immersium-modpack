@@ -6,18 +6,18 @@
     "files": [
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/PEPVViac/versions/3njr2feE/AdvancedLootInfo-forge-1.20.1-1.3.5.jar"
+                "https://cdn.modrinth.com/data/PEPVViac/versions/8uqwlAxb/AdvancedLootInfo-forge-1.20.1-1.3.6.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 587273,
+            "fileSize": 601072,
             "hashes": {
-                "sha1": "a828010ebe246454209b6589dc8e105f20c82f13",
-                "sha512": "8bd31e88f7231307a13bb5e38f657f7db5fcb8c7b3f49aa4bc021384b02d872c7ee6fd39e09709f3a2ad1a358689ca7b6de3c309f8725ef5e037e58e79f45982"
+                "sha1": "9a65b2519c913e24f4981f9873047214754620b5",
+                "sha512": "82c568a9150768404fbb87684be7fb47e8b5f3cfad959bd69b1904e0a07514d21449e969b791276015a516875e3d150a624cfb6ecd429cce7351eb2342c601a1"
             },
-            "path": "mods/AdvancedLootInfo-forge-1.20.1-1.3.5.jar"
+            "path": "mods/AdvancedLootInfo-forge-1.20.1-1.3.6.jar"
         },
         {
             "downloads": [
@@ -66,18 +66,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/g96Z4WVZ/versions/RPOjbIwJ/BadOptimizations-2.3.0-1.20.1.jar"
+                "https://cdn.modrinth.com/data/g96Z4WVZ/versions/yARaMeIN/BadOptimizations-2.3.1-1.20.1.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "unsupported"
             },
-            "fileSize": 452304,
+            "fileSize": 452772,
             "hashes": {
-                "sha1": "b86ce6a5ed4f71a13f6d2976ffe6471cef29beb7",
-                "sha512": "288638bd5e4d9163205006ddc06eb6d962abcf9c49b602eeef3389e56184deee7844037a7cd41f770d6088a063756380afe1a6c456668356dd56b238834c3c49"
+                "sha1": "2bfe2d24fe582c58b1cb469ef88020f67ec367a8",
+                "sha512": "e6c8a782e6180d5cd929ea24124a7be1a23a8fd18236f378848d73a89b8f06d74f0883d292bddabceb5fa19380905960a469196267aff828e447a01d77c6ea6c"
             },
-            "path": "mods/BadOptimizations-2.3.0-1.20.1.jar"
+            "path": "mods/BadOptimizations-2.3.1-1.20.1.jar"
         },
         {
             "downloads": [
@@ -1116,18 +1116,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/jNa5P8yc/versions/tRwncaPT/TCIntegrations-1.20.1-2.0.25.11.jar"
+                "https://cdn.modrinth.com/data/jNa5P8yc/versions/K9exyy2T/TCIntegrations-1.20.1-2.0.25.13.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 2108020,
+            "fileSize": 2108024,
             "hashes": {
-                "sha1": "41a09d4f14fab9c7d81bc6bbfa0f148788f86a72",
-                "sha512": "72db9cb8519b5243eeb6b751ea19647f64ca20822df2de6dc7a200fd57de7d3110b10d59d48e5117ce2b604590d7a85375576cef30caf0bd48af7e50c5b9cad9"
+                "sha1": "4e03989ea5e2325a1de3423266037198c90655a7",
+                "sha512": "7dfd33d119f994cdb8a5a79a0161dcf6fa121024e5b8c4d649cd4fe0fcc9d1271e5de92f87ae0cc4c4d636d52f4c60c9f71edf34eb5a6c91d07cdfefc0696d06"
             },
-            "path": "mods/TCIntegrations-1.20.1-2.0.25.11.jar"
+            "path": "mods/TCIntegrations-1.20.1-2.0.25.13.jar"
         },
         {
             "downloads": [
@@ -1551,18 +1551,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/MBAkmtvl/versions/1OQBd8YF/balm-forge-1.20.1-7.3.35-all.jar"
+                "https://cdn.modrinth.com/data/MBAkmtvl/versions/tX9xZml9/balm-forge-1.20.1-7.3.36-all.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 597605,
+            "fileSize": 590483,
             "hashes": {
-                "sha1": "cd7b3d81dc1f25ad1058b47a70ac4d77b0ed0e0c",
-                "sha512": "cf5d6b6183cc2c9dfa77c4666f7f75ea5b9417e23c9a8df091ae1f49e65b6f92e5d41e90a2e6d1b3207555de2239b163a6309a8b51d31c57725137f81375840d"
+                "sha1": "efe5ac267134f82208ac4cbdc6bd57c4768a93e3",
+                "sha512": "36c5050358fa408549fd0476e26ee3230119e05c6958b06bb8934fa52ae412888487447f39581a37ad4e4eebd5b7108f13fb80d20635e4c3f8be9acc456dd252"
             },
-            "path": "mods/balm-forge-1.20.1-7.3.35-all.jar"
+            "path": "mods/balm-forge-1.20.1-7.3.36-all.jar"
         },
         {
             "downloads": [
@@ -1641,18 +1641,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/XiV7Jcbq/chat_heads-0.13.21-forge-1.20.jar"
+                "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/SRnXCJnZ/chat_heads-0.13.22-forge-1.20.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 270629,
+            "fileSize": 717672,
             "hashes": {
-                "sha1": "2da1b635c8a8fd98b1b75696fcceae692584e4b5",
-                "sha512": "8ef2a0aec1140d4a7f02b931a92c7dd76ffed4d28edc541e6a8b734b04a7a9fc2dad21da596459dacfeeab9d84d123578a4d4ef42cd49c1bb635c8843edef3bb"
+                "sha1": "7eeacd3ffc9690fa050a3bd61a2208bef91848ac",
+                "sha512": "996b877b7e52c727fc3f0b567e26f9fc3a91f30c5d05d71ce8cea2e927b7dd61cd4afb335f4aba53e0bc0b33edc406ea2b78ae7835a1ca3aedaca0f31519f590"
             },
-            "path": "mods/chat_heads-0.13.21-forge-1.20.jar"
+            "path": "mods/chat_heads-0.13.22-forge-1.20.jar"
         },
         {
             "downloads": [
@@ -2256,21 +2256,6 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/uqnMI1kq/versions/eyPkQyNd/invtweaks-1.20.1-1.2.0.jar"
-            ],
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "fileSize": 74689,
-            "hashes": {
-                "sha1": "d0a419f3b026b4949ed178119befbcf734deb6eb",
-                "sha512": "da66e64b3bca754076fec4a0d1e70d4a17c57ba3586ff38842d8ecff0ba4353f3a626ef24117f2fb3c41b5b87bec9dab9cbd6646d144b486e30eac94581f90bf"
-            },
-            "path": "mods/invtweaks-1.20.1-1.2.0.jar"
-        },
-        {
-            "downloads": [
                 "https://cdn.modrinth.com/data/K0LQpdmm/versions/KXRCsq14/jearchaeology-1.20.1-1.0.5.jar"
             ],
             "env": {
@@ -2283,6 +2268,21 @@
                 "sha512": "426931278c0b6248fc377552b9f99975128b8c4136d17ccabf51c127c618a8afe2c53897e0bcde56906652b46858114337d00245d339bb17ef78a2e9af2be7d3"
             },
             "path": "mods/jearchaeology-1.20.1-1.0.5.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/ffLYPaWN/versions/WOpsbnD6/jeimultiblocks-1.20.1-1.0.4.jar"
+            ],
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "fileSize": 9848,
+            "hashes": {
+                "sha1": "e1b6c6055eec8eda143b2d2a52dfe12fe0b70637",
+                "sha512": "69d59ea6be581977437b7c11980f742c9498b5ec364241f554408bcad22c5a8a1b351fbea24c4a8be142d5c776861df0763d5b80d150abd3ff3d70030ef52c0d"
+            },
+            "path": "mods/jeimultiblocks-1.20.1-1.0.4.jar"
         },
         {
             "downloads": [
@@ -3021,63 +3021,63 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/TyCTlI4b/versions/LYJRLti0/sophisticatedbackpacks-1.20.1-3.24.8.1381.jar"
+                "https://cdn.modrinth.com/data/TyCTlI4b/versions/j6dac1m6/sophisticatedbackpacks-1.20.1-3.24.8.1386.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 970952,
+            "fileSize": 970976,
             "hashes": {
-                "sha1": "421b91ed71c20f4e6b5937c6a4b4eee7d9ba52bd",
-                "sha512": "34b67a534dce86f29a292b45bba13fd0da6183c4eab2743cfd3dfc45fa8aa96e4dbcc833f37b94fa7bf2a644ef46741c18eb0fe169a60d092d53c67201bc8bcd"
+                "sha1": "330cc9981f61f37811e524f29e20ee74f88b61e2",
+                "sha512": "bd366b0021b73b8d35f8f6c23b5dbbdb2f818ecc3951249498bf7a41450d8844e8ebeb65d0bddf3a21b3b78547249701e4fdc30687ba28c748707729434bb729"
             },
-            "path": "mods/sophisticatedbackpacks-1.20.1-3.24.8.1381.jar"
+            "path": "mods/sophisticatedbackpacks-1.20.1-3.24.8.1386.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/nmoqTijg/versions/n0rkxKaA/sophisticatedcore-1.20.1-1.2.95.1174.jar"
+                "https://cdn.modrinth.com/data/nmoqTijg/versions/FeAakSm2/sophisticatedcore-1.20.1-1.2.98.1199.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1390817,
+            "fileSize": 1420957,
             "hashes": {
-                "sha1": "2e54374701a7ef3ce95955fd29ac9fd646d82fac",
-                "sha512": "ef49bc38a4333eccbbc0b4fb0ab290b34173c5024631ee2e8573b9770de7381a3eebe2aeaced41d0098400918a4d40c6a5fee1e4932ba34f4e8e2f9fd7738d0b"
+                "sha1": "00c690f8f578b6993c384ad33f5d83b2f31f997a",
+                "sha512": "01e83905f8ad33086069258a38ba38dcaea59e6253a3b1f214ffb54534c253fe7824d742ab994ac5e34a9579ab85918d24b40b88b5a1477b30ffa21dc9633ab6"
             },
-            "path": "mods/sophisticatedcore-1.20.1-1.2.95.1174.jar"
+            "path": "mods/sophisticatedcore-1.20.1-1.2.98.1199.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/hMlaZH8f/versions/tTQcWytd/sophisticatedstorage-1.20.1-1.4.10.1326.jar"
+                "https://cdn.modrinth.com/data/hMlaZH8f/versions/vYBH22NQ/sophisticatedstorage-1.20.1-1.4.10.1335.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 1672126,
+            "fileSize": 1672131,
             "hashes": {
-                "sha1": "1a795a2ea95647b80de2da03b2f143eb92e179f8",
-                "sha512": "2a7e16be0b6370950e84dbefeb462c149654bef74a18b53365e91548768ab91d422cee55a9f2853c2612f397a5ef38a9c4a424473571254d12af62fcc85dd214"
+                "sha1": "9584b20358321f8a64b36484d6fe24c96a4d5741",
+                "sha512": "91ea637fc657b32d6d36e40f9dfe60a7e9355c580ea7aeeccacc3e627be0db7fd093985562ab2ca47b051b5c439191976346111ec9e1c8f07dd67b083a811ef9"
             },
-            "path": "mods/sophisticatedstorage-1.20.1-1.4.10.1326.jar"
+            "path": "mods/sophisticatedstorage-1.20.1-1.4.10.1335.jar"
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/6vtFbyaJ/versions/iuvZl32u/sophisticatedstorageinmotion-1.20.1-0.10.21.130.jar"
+                "https://cdn.modrinth.com/data/6vtFbyaJ/versions/tUdW9bOW/sophisticatedstorageinmotion-1.20.1-0.10.23.145.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 394184,
+            "fileSize": 405283,
             "hashes": {
-                "sha1": "b6a0bf49ca3469d6a0e032e6d34740f0f6242a5b",
-                "sha512": "e6dd87a3720524819eb15c48409fb4834a4b7777db5f0798f2e15247084e576b8155e4a46fba23538a028ecc8751a1090afd3d971bdacf85d15794063b726e2e"
+                "sha1": "dc7af5468d31c5512ba2f86cb3092df305cc2127",
+                "sha512": "4b0e07303ebd2041b712b052f03043b582e09e559a344fc37425e51e8d0e7f574d663a827e04c9aa4bda2e2a1ad677cb378fc8e02ff2b0524d2c4ddb15c86b10"
             },
-            "path": "mods/sophisticatedstorageinmotion-1.20.1-0.10.21.130.jar"
+            "path": "mods/sophisticatedstorageinmotion-1.20.1-0.10.23.145.jar"
         },
         {
             "downloads": [
@@ -3111,18 +3111,18 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/uYwn8IP5/versions/1oxHHWvn/stonezone-1.20-2.9.3.jar"
+                "https://cdn.modrinth.com/data/uYwn8IP5/versions/whPDmkjz/stonezone-1.20-2.9.5.jar"
             ],
             "env": {
                 "client": "required",
                 "server": "required"
             },
-            "fileSize": 983181,
+            "fileSize": 984944,
             "hashes": {
-                "sha1": "ddd545b64c97f961b11cd79df01f5362b019fc95",
-                "sha512": "a4c99fb8ebd93e9fcb5fab749150166e6513b19bd195dd44fd1e546bd4a00f498659463ac8b851fa7d65ecc87972e8ad80b3693993b382788781d4739606a8ae"
+                "sha1": "5ee1a369386cd8a46d23f79dbe47f4d7a336e60e",
+                "sha512": "16e956271ff1ba8cea4fadd8de7d5daed00fd691d0c57b56916e999335cf26bfc501d28c3f8d70eae087ae10634d941cef62a0921d9411bc5362a473b9e8fe73"
             },
-            "path": "mods/stonezone-1.20-2.9.3.jar"
+            "path": "mods/stonezone-1.20-2.9.5.jar"
         },
         {
             "downloads": [
@@ -3368,5 +3368,5 @@
     "formatVersion": 1,
     "game": "minecraft",
     "name": "Surviving Immersium",
-    "versionId": "0.6.1-alpha"
+    "versionId": "0.6.2-alpha"
 }

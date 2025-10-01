@@ -11,6 +11,7 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 ---
 
 - **AE2 QoL Recipes** (MIT): [Modrinth](https://modrinth.com/mod/ae2-qol-recipes) | [Source](https://github.com/Christofmeg/AE2-QoL-Recipes)
+- **AE2 QoL Recipes** (MIT): [Modrinth](https://modrinth.com/mod/ae2-qol-recipes) | [Source](https://github.com/Christofmeg/AE2-QoL-Recipes)
 <br>*QoL Recipes for Applied Energistics 2*
 - **Advanced Loot Info** ([MIT](https://github.com/yanny7/AdvancedLootInfo/blob/master/LICENSE)): [Modrinth](https://modrinth.com/mod/advanced-loot-info) | [Source](https://github.com/yanny7/AdvancedLootInfo)
 <br>*EMI/JEI/REI plugin for displaying advanced information about loot tables*
@@ -204,8 +205,6 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.*
 - **Incendium Biomes Only** ([LicenseRef-Dual-License](https://codeberg.org/naomi/ibo#licensing)): [Modrinth](https://modrinth.com/mod/ibo) | [Source](https://codeberg.org/naomi/ibo)
 <br>*Removes structures, items, mobs and bosses from Incendium, leaving only the biomes and terrain.*
-- **Inventory Tweaks: ReFoxed** (Apache-2.0): [Modrinth](https://modrinth.com/mod/inventory-tweaks-refoxed) | [Source](https://github.com/JDKDigital/InvTweaksRefoxed)
-<br>*Inventory Tweaks for NeoForge*
 - **Item Obliterator** ([LicenseRef-AGNYA-License](https://github.com/nvb-uy/AGNYA-License/blob/main/LICENSE.md)): [Modrinth](https://modrinth.com/mod/item-obliterator) | [Source](https://github.com/nvb-uy/item_obliterator)
 <br>*Modpack utility mod that allows to disable items and/or its interactions. Also removes them from creative tabs, recipes, trades, and JEI/REI/EMI.*
 - **Jade Addons (Neo/Forge)** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/jade-addons-forge) | [Source](https://github.com/Snownee/JadeAddons)
@@ -218,6 +217,8 @@ F.A.Q and Known Issues: [FAQ.md](FAQ.md)
 <br>*JEI addon to display useful information about beacons.*
 - **Just Enough Breeding (JEBr)** (MIT): [Modrinth](https://modrinth.com/mod/justenoughbreeding) | [Source](https://github.com/Christofmeg/JustEnoughBreeding)
 <br>*JEI/REI/EMI plugin that displays breeding information*
+- **Just Enough Immersive Multiblocks** (MIT): [Modrinth](https://modrinth.com/mod/jei-multiblocks) | [Source](https://github.com/sguest/jei-multiblocks)
+<br>*Immersive Engineering addon that adds JEI support for multiblocks.*
 - **Just Enough Professions (JEP)** (MIT): [Modrinth](https://modrinth.com/mod/just-enough-professions-jep) | [Source](https://github.com/Mrbysco/JustEnoughProfessions)
 <br>*A JEI addon that adds profession workstations*
 - **Just Potion Rings** (LicenseRef-All-Rights-Reserved): [Modrinth](https://modrinth.com/mod/just-potion-rings) | [Source](https://github.com/Dplayend/Just-Potion-Rings)
