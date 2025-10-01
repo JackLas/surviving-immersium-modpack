@@ -282,11 +282,11 @@
 		"Enable Pillar" = true
 
 [management]
-	"Automatic Tool Restock" = false
-	"Easy Transfering" = true
+	"Automatic Tool Restock" = true
+	"Easy Transfering" = false
 	"Expanded Item Interactions" = true
 	"Hotbar Changer" = false
-	"Inventory Sorting" = false
+	"Inventory Sorting" = true
 	"Item Sharing" = true
 	"Quick Armor Swapping" = true
 
@@ -322,9 +322,9 @@
 		"Animation Time" = 7.0
 
 	[management.inventory_sorting]
-		"Enable Player Inventory" = false
-		"Enable Player Inventory In Chests" = false
-		"Enable Chests" = false
+		"Enable Player Inventory" = true
+		"Enable Player Inventory In Chests" = true
+		"Enable Chests" = true
 		#Play a click when sorting inventories using keybindings
 		"Satisfying Click" = false
 
