@@ -1,0 +1,9 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:map_atlases:atlas",
+    "item:minecraft:map",
+    "item:minecraft:paper"
+  ],
+  "text": "emi.info.map_atlas_extend"
+}
