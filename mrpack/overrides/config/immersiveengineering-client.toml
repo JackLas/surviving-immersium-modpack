@@ -14,7 +14,7 @@ fluidFractions = true
 tagTooltips = true
 #Increase the distance at which certain TileEntities (specifically windmills) are still visible. This is a modifier, so set it to 1 for default render distance, to 2 for doubled distance and so on.
 #Range: 0.0 ~ 1.7976931348623157E308
-increasedTileRenderdistance = 1.5
+increasedTileRenderdistance = 4
 #Set this to false to hide the update news in the manual
 showUpdateNews = false
 #Allows revolvers and other IE items to look properly held in 3rd person. This uses a coremod. Can be disabled in case of conflicts with other animation mods.

@@ -46,8 +46,8 @@
   "tileEntityCullingDistanceX": 4096,
   "tileEntityCullingDistanceY": 32,
   "entityDistanceCulling": true,
-  "entityCullingDistanceX": 4096,
-  "entityCullingDistanceY": 32,
+  "entityCullingDistanceX": 16384,
+  "entityCullingDistanceY": 64,
   "monsterDistanceCulling": false,
   "monsterCullingDistanceX": 16384,
   "monsterCullingDistanceY": 64,
@@ -59,7 +59,9 @@
   ],
   "monsterWhitelist": [],
   "tileEntityWhitelist": [
-    "waterframes:all"
+    "waterframes:all",
+    "immersiveengineering:windmill",
+    "minecraft:beacon"
   ],
   "borderlessAttachModeF11": "ATTACH",
   "fastLanguageReload": true,
