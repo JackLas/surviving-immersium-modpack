@@ -1,0 +1,8 @@
+{
+  "type": "emi:info",
+  "stacks": [
+    "item:map_atlases:atlas",
+    "item:minecraft:map"
+  ],
+  "text": "emi.info.map_atlas_scale"
+}
