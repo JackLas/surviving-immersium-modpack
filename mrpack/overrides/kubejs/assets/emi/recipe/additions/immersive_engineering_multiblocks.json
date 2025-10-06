@@ -1,0 +1,28 @@
+{
+    "type": "emi:info",
+    "stacks": [
+        "item:immersiveengineering:excavator",
+        "item:immersiveengineering:diesel_generator",
+        "item:immersiveengineering:coke_oven",
+        "item:immersiveengineering:bucket_wheel",
+        "item:immersiveengineering:bottling_machine",
+        "item:immersiveengineering:advanced_blast_furnace",
+        "item:immersiveengineering:blast_furnace",
+        "item:immersiveengineering:auto_workbench",
+        "item:immersiveengineering:assembler",
+        "item:immersiveengineering:arc_furnace",
+        "item:immersiveengineering:alloy_smelter",
+        "item:immersiveengineering:sawmill",
+        "item:immersiveengineering:crusher",
+        "item:immersiveengineering:excavator",
+        "item:immersiveengineering:fermenter",
+        "item:immersiveengineering:lightning_rod",
+        "item:immersiveengineering:metal_press",
+        "item:immersiveengineering:mixer",
+        "item:immersiveengineering:refinery",
+        "item:immersiveengineering:tank",
+        "item:immersiveengineering:silo",
+        "item:immersiveengineering:squeezer"
+    ],
+    "text": "emi.info.immersive_engineering_multiblocks"
+}
