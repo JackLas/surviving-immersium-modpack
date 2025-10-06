@@ -1,8 +1,8 @@
 {
-  "type": "emi:info",
-  "stacks": [
-    "item:minecraft:experience_bottle",
-    "item:minecraft:glass_bottle"
-  ],
-  "text": "emi.info.minecraft_experience_bottle"
+    "type": "emi:info",
+    "stacks": [
+        "item:minecraft:experience_bottle",
+        "item:minecraft:glass_bottle"
+    ],
+    "text": "emi.info.minecraft_experience_bottle"
 }

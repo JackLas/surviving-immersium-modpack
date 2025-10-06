@@ -1,5 +1,6 @@
 {
     "emi.info.minecraft_experience_bottle": "Sneak right click with an empty bottle to store XP",
     "emi.info.map_atlas_scale": "Atlas keeps the same scale as the map it’s made from",
-    "emi.info.map_atlas_extend": "Expand the atlas by adding paper or a map in crafting or a cartographer’s table"
+    "emi.info.map_atlas_extend": "Expand the atlas by adding paper or a map in crafting or a cartographer’s table",
+    "emi.info.immersive_engineering_multiblocks": "Multiblock structure\nCheck Engineer's Manual for details"
 }
