@@ -1,0 +1,20 @@
+{
+    "type": "immersiveengineering:mixer",
+    "energy": 3200,
+    "fluid": {
+        "amount": 1000,
+        "tag": "minecraft:water"
+    },
+    "inputs": [
+        {
+            "base_ingredient": {
+                "item": "mysticalagriculture:fire_essence"
+            },
+            "count": 8
+        }
+    ],
+    "result": {
+        "amount": 1000,
+        "fluid": "minecraft:lava"
+    }
+}

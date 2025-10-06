@@ -45,6 +45,7 @@ ServerEvents.recipes(event => {
     event.remove({id: "mysticalagriculture:essence/minecraft/stone"})
     event.remove({id: "mysticalagriculture:essence/minecraft/deepslate"})
     event.remove({id: "mysticalagriculture:essence/minecraft/packed_ice"})
+    event.remove({id: "mysticalagriculture:essence/minecraft/lava_bucket"})
 
     event.shaped(Item.of("minecraft:clay_ball", 4), [
         " M ",
