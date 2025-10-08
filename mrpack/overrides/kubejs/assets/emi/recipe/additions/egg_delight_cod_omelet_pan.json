@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:minecraft:cooked_cod",
+  "right": "item:eggdelight:omelet",
+  "output": "item:eggdelight:cod_omelet_egg_pan"
+}

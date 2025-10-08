@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:minecraft:cooked_salmon",
+  "right": "item:eggdelight:omelet",
+  "output": "item:eggdelight:salmon_omelet_egg_pan"
+}

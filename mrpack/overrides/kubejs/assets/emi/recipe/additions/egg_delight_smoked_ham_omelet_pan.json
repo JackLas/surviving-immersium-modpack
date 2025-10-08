@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:farmersdelight:smoked_ham",
+  "right": "item:eggdelight:omelet",
+  "output": "item:eggdelight:smoked_ham_omelet_egg_pan"
+}

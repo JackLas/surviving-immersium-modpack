@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:eggdelight:spatula",
+  "right": "item:eggdelight:omurice_egg_pan",
+  "output": "item:eggdelight:omurice"
+}

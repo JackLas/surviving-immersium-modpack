@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:minecraft:bowl",
+  "right": "item:eggdelight:omelet",
+  "output": "item:eggdelight:scrambled_egg"
+}
