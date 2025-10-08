@@ -93,6 +93,42 @@
     {
       "ingredient": "{id:\"item\",item:\"minecraft:enchanted_golden_apple\"}",
       "diversity": 5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"eggdelight:omurice\"}",
+      "diversity": 3.8
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"eggdelight:salmon_omelet\"}",
+      "diversity": 2.4
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"eggdelight:smoked_ham_omelet\"}",
+      "diversity": 3.5
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"eggdelight:bacon_omelet\"}",
+      "diversity": 1.8
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"eggdelight:beef_omelet\"}",
+      "diversity": 2.9
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"eggdelight:chicken_omelet\"}",
+      "diversity": 2
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"eggdelight:cod_omelet\"}",
+      "diversity": 1.8
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"eggdelight:mutton_omelet\"}",
+      "diversity": 2.4
+    },
+    {
+      "ingredient": "{id:\"item\",item:\"farmersdelight:fried_rice\"}",
+      "diversity": 3
     }
   ]
 }
