@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:farmersdelight:cooked_bacon",
+  "right": "item:eggdelight:omelet",
+  "output": "item:eggdelight:bacon_omelet_egg_pan"
+}

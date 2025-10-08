@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:eggdelight:spatula",
+  "right": "item:eggdelight:beef_omelet_egg_pan",
+  "output": "item:eggdelight:beef_omelet"
+}

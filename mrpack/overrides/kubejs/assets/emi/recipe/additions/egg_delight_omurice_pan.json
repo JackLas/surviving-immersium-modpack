@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:farmersdelight:fried_rice",
+  "right": "item:eggdelight:omelet",
+  "output": "item:eggdelight:omurice_egg_pan"
+}

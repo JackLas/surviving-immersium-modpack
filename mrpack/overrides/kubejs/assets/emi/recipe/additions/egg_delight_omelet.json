@@ -1,0 +1,6 @@
+{
+  "type": "emi:world_interaction",
+  "left": "item:eggdelight:raw_omelet",
+  "right": "item:farmersdelight:stove",
+  "output": "item:eggdelight:omelet"
+}
