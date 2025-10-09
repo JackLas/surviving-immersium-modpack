@@ -1,0 +1,12 @@
+{
+    "removed": [
+        "item:moonlight:placeable_item",
+        "item:citadel:icon_item",
+        "item:citadel:fancy_item",
+        "item:citadel:effect_item",
+        "item:citadel:citadel_book",
+        "item:citadel:debug",
+        "item:heracles:barrier",
+        "item:alexsmobsinteraction:eggs"
+    ]
+}
