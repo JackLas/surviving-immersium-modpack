@@ -290,7 +290,14 @@ ServerEvents.tags("item", event => {
         "vintagedelight:relish_bottle",
         "vintagedelight:apple_sauce_mason_jar", 
         "vintagedelight:sweet_berry_mason_jar", 
-        "vintagedelight:glow_berry_mason_jar"
+        "vintagedelight:glow_berry_mason_jar",
+
+        "vintagedelight:cheese_mold",
+        "vintagedelight:cheese_curds",
+        "vintagedelight:cheese_slice",
+        "vintagedelight:cheese_wheel",
+        "tconstruct:cheese_ingot",
+        "tconstruct:cheese_block"
     ] 
 
     event.removeAllTagsFrom(item_obliterator_items)
