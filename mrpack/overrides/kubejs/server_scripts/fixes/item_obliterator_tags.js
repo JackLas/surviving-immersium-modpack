@@ -303,3 +303,48 @@ ServerEvents.tags("item", event => {
     event.removeAllTagsFrom(item_obliterator_items)
     event.add("c:hidden_from_recipe_viewers", item_obliterator_items)
 })
+
+ServerEvents.tags("fluid", event => {
+    event.removeAllTagsFrom([
+        "tcintegrations:molten_calorite",
+        "tcintegrations:flowing_molten_calorite",
+        "tcintegrations:molten_ostrum",
+        "tcintegrations:flowing_molten_ostrum",
+        "tcintegrations:molten_desh",
+        "tcintegrations:flowing_molten_desh",
+        "tcintegrations:molten_dragonsteel_lightning",
+        "tcintegrations:flowing_molten_dragonsteel_lightning",
+        "tcintegrations:molten_dragonsteel_ice",
+        "tcintegrations:flowing_molten_dragonsteel_ice",
+        "tcintegrations:molten_dragonsteel_fire",
+        "tcintegrations:flowing_molten_dragonsteel_fire",
+        "tcintegrations:molten_manasteel",
+        "tcintegrations:flowing_molten_manasteel",
+        "tcintegrations:molten_neptunium",
+        "tcintegrations:flowing_molten_neptunium",
+        "tcintegrations:molten_source_gem",
+        "tcintegrations:flowing_molten_source_gem",
+        "tcintegrations:molten_soul_stained_steel",
+        "tcintegrations:flowing_molten_soul_stained_steel",
+        "tcintegrations:molten_cloggrum",
+        "tcintegrations:flowing_molten_cloggrum",
+        "tcintegrations:molten_froststeel",
+        "tcintegrations:flowing_molten_froststeel",
+        "tcintegrations:molten_forgotten_metal",
+        "tcintegrations:flowing_molten_forgotten_metal",
+        
+        "tconstruct:molten_platinum",
+        "tconstruct:molten_tin",
+        "tconstruct:molten_zinc",
+        "tconstruct:molten_tungsten",
+        "tconstruct:molten_osmium",
+        "tconstruct:molten_brass",
+        "tconstruct:molten_enderium",
+        "tconstruct:molten_lumium",
+        "tconstruct:molten_signalum",
+        "tconstruct:molten_nicrosil",
+        "tconstruct:molten_porcelain",
+        "tconstruct:molten_refined_glowstone",
+        "tconstruct:molten_refined_obsidian"
+    ])
+})

@@ -50,19 +50,6 @@
         "item:tconstruct:copper_can{fluid:\"delightful:azalea_tea\"}",
         {
             "type": "fluid",
-            "id": "tcintegrations:molten_calorite",
-            "amount": 0
-        },
-        "item:tcintegrations:molten_calorite_bucket",
-        "item:tconstruct:scorched_fuel_gauge{tank:{Amount:4000,FluidName:\"tcintegrations:molten_calorite\"}}",
-        "item:tconstruct:scorched_fuel_tank{tank:{Amount:4000,FluidName:\"tcintegrations:molten_calorite\"}}",
-        "item:tconstruct:scorched_lantern{tank:{Amount:50,FluidName:\"tcintegrations:molten_calorite\"}}",
-        "item:tconstruct:seared_fuel_gauge{tank:{Amount:4000,FluidName:\"tcintegrations:molten_calorite\"}}",
-        "item:tconstruct:seared_fuel_tank{tank:{Amount:4000,FluidName:\"tcintegrations:molten_calorite\"}}",
-        "item:tconstruct:seared_lantern{tank:{Amount:50,FluidName:\"tcintegrations:molten_calorite\"}}",
-        "item:tconstruct:copper_can{fluid:\"tcintegrations:molten_calorite\"}",
-        {
-            "type": "fluid",
             "id": "tcintegrations:molten_ostrum",
             "amount": 0
         },
@@ -384,6 +371,23 @@
         "item:tconstruct:seared_ingot_gauge{tank:{Amount:4320,FluidName:\"tconstruct:molten_refined_obsidian\"}}",
         "item:tconstruct:seared_ingot_tank{tank:{Amount:4320,FluidName:\"tconstruct:molten_refined_obsidian\"}}",
         "item:tconstruct:seared_lantern{tank:{Amount:50,FluidName:\"tconstruct:molten_refined_obsidian\"}}",
-        "item:tconstruct:copper_can{fluid:\"tconstruct:molten_refined_obsidian\"}"
+        "item:tconstruct:copper_can{fluid:\"tconstruct:molten_refined_obsidian\"}",
+        {
+            "type": "fluid",
+            "id": "tcintegrations:molten_calorite",
+            "amount": 0
+        },
+        "item:tcintegrations:molten_calorite_bucket",
+        "item:tconstruct:scorched_fuel_gauge{tank:{Amount:4000,FluidName:\"tcintegrations:molten_calorite\"}}",
+        "item:tconstruct:scorched_fuel_tank{tank:{Amount:4000,FluidName:\"tcintegrations:molten_calorite\"}}",
+        "item:tconstruct:scorched_lantern{tank:{Amount:50,FluidName:\"tcintegrations:molten_calorite\"}}",
+        "item:tconstruct:seared_fuel_gauge{tank:{Amount:4000,FluidName:\"tcintegrations:molten_calorite\"}}",
+        "item:tconstruct:seared_fuel_tank{tank:{Amount:4000,FluidName:\"tcintegrations:molten_calorite\"}}",
+        "item:tconstruct:seared_lantern{tank:{Amount:50,FluidName:\"tcintegrations:molten_calorite\"}}",
+        "item:tconstruct:copper_can{fluid:\"tcintegrations:molten_calorite\"}",
+        "item:tconstruct:seared_ingot_tank{tank:{Amount:4320,FluidName:\"tcintegrations:molten_calorite\"}}",
+        "item:tconstruct:seared_ingot_gauge{tank:{Amount:4320,FluidName:\"tcintegrations:molten_calorite\"}}",
+        "item:tconstruct:scorched_ingot_tank{tank:{Amount:4320,FluidName:\"tcintegrations:molten_calorite\"}}",
+        "item:tconstruct:scorched_ingot_gauge{tank:{Amount:4320,FluidName:\"tcintegrations:molten_calorite\"}}"
     ]
 }
